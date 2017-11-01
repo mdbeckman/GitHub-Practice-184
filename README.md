@@ -1,6 +1,7 @@
 # GitHub Pages Assignment
 
-Assignment (10 pts):
+**(10 pts) Assignment Instructions **
+
 - Create your own GitHub profile/ID (appropriate to share with employers or grad schools)  
 - Create a new repo & initialize it with a "readme" (you can create the readme afterward if needed)  
 - Turn your repo into a website  
@@ -35,7 +36,7 @@ Assignment (10 pts):
 
 # Linking to other stuff 
 
-**This is just a demo... nothing below for the assignment grade...**
+**Below is just a demo, not part of the assignment grade. **
 
 In the assignment you learned to make a repo into a webpage and create a GitHub Pages front end for other people to see.  This is a great way to make your work publicly available to share with other people.  This is a good idea for making a portfolio of your work, a personal webpage, etc.  If I wanted to link to a local file in this repo, I could share [this description of my class schedule in Fall 2017 (link)](ClassScheduleActivity.html).  You might have noticed the document `ClassScheduleActivity.html` appears in the repo, so the previous link simply accesses that HTML document.  
 
