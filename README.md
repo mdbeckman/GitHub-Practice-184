@@ -12,7 +12,7 @@
 - Locate class repo
     - Find "mdbeckman" in GitHub and locate the "GitHub-Practice-FYS" repo
     - Click on "README.md" >> Edit (pencil icon)
-- Add a row in the table below with your info  
+- Add a row in the table below with your information   
     - (2 pts) first & last name  
     - (3 pts) github id  
     - (2 pts) website url for a GitHub Pages site for your GitHub repo (**NOT** a url to the repo itself)
@@ -21,13 +21,14 @@
             - select "Create a new branch for this commit and start a pull request."   
             - click green button "Propose file change" & start pull request  
     - (1 pt) check the link works (wrap url in "<" and ">" to activate link on actual website)  
-    - (ungraded) pat yourself on the back   
+    - (ungraded) pat yourself on the back
+    - **Important**: Your entry will NOT appear on the class table right away.  Once you submit the "pull request" the owner of the repo (me) needs to approve and merge it into the "master" before your entry will appear in the class table on the website. 
 
 <br>
 
 # Class GitHub Table 
 
-|Name                   |GitHub ID         |website for a GitHub repo  |  
+|Name                   |GitHub ID         |website for a GitHub repo  | 
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
 
@@ -36,7 +37,7 @@
 
 # Linking to other stuff 
 
-**Below is just a demo, not part of the assignment grade. **
+**Below is just a demo for future reference (not graded for this assignment)**
 
 In the assignment you learned to make a repo into a webpage and create a GitHub Pages front end for other people to see.  This is a great way to make your work publicly available to share with other people.  This is a good idea for making a portfolio of your work, a personal webpage, etc.  If I wanted to link to a local file in this repo, I could share [this description of my class schedule in Fall 2017 (link)](ClassScheduleActivity.html).  You might have noticed the document `ClassScheduleActivity.html` appears in the repo, so the previous link simply accesses that HTML document.  
 
