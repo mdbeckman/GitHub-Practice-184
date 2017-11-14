@@ -1,6 +1,6 @@
 # GitHub Pages Assignment
 
-**(10 pts) Assignment Instructions **
+**(10 pts) Assignment Instructions**
 
 - Create your own GitHub profile/ID (appropriate to share with employers or grad schools)  
 - Create a new repo & initialize it with a "readme" (you can create the readme afterward if needed)  
