@@ -2,20 +2,20 @@
 
 **(10 pts) Assignment Instructions**
 
-- Create your own GitHub profile/ID (appropriate to share with employers or grad schools)  
-- Create a new repo & initialize it with a "readme" (you can create the readme afterward if needed)  
+- Create your own GitHub profile/ID (appropriate for job or grad school applications)  
+- Create a new repo & initialize it with a "readme"   
 - Turn your repo into a website  
     - [repo] >> settings >> [scroll to bottom] >> create website from master branch  
-    - choose a style  
+    - choose a style template 
     - note the website url  
-    - you can add your own content if you like, but it's fine to just use the filler content provided  
+    - modify content if you like, but it's fine to use filler content provided for now  
 - Locate class repo
-    - Find "mdbeckman" in GitHub and locate the "GitHub-Practice-FYS" repo
-    - Click on "README.md" >> Edit (pencil icon)
+    - Find "mdbeckman" in GitHub and locate the "GitHub-Practice-184" class repo
+    - Click on "README.md" >> Edit (pencil icon in upper right)
 - Add a row in the table below with your information   
     - (2 pts) first & last name  
     - (3 pts) github id  
-    - (2 pts) website url for a GitHub Pages site for your GitHub repo (**NOT** a url to the repo itself)
+    - (2 pts) url for GitHub Pages site from your GitHub repo (**NOT** a url to the repo itself)
     - (2 pts) commit your changes and submit pull request   
             - write a **descriptive** commit message (e.g. "added Matt Beckmans info to table")  
             - select "Create a new branch for this commit and start a pull request."   
