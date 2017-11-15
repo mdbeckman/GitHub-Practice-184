@@ -31,9 +31,7 @@
 |Name                   |GitHub ID         |website for a GitHub repo  | 
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
-| Anthony Roman   | aromedtbf      | <https://aromedtbf.github.io/STAT-184/>           |
-
-
+| Suzanne Papik   | smpapik        | <https://smpapik.github.io/demo-184/>             |
 
 <br>
 
