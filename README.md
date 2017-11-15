@@ -1,3 +1,4 @@
+
 # GitHub Pages Assignment
 
 **(10 pts) Assignment Instructions**
@@ -32,7 +33,7 @@
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
 | Beckman | mdbeckman | <https://mdbeckman.github.io/Repo-Demo-184/> |
-
+| Keaton Moyer | kcm5331 | <https://kcm5331.github.io/Stat-184/ > |
 
 <br>
 
