@@ -32,6 +32,11 @@
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
 | Cuyler Luck     | cuylerluck     | <https://cuylerluck.github.io/STAT184/>           |
+| Suzanne Papik   | smpapik        | <https://smpapik.github.io/demo-184/>             |
+| Kechen Hu       | Grayhu07       | <https://grayhu07.github.io/PSU-STAT184/>         |
+|  Nick Cianci    |   Nick-Cianci  |    <https://nick-cianci.github.io/Stat-184/>  |
+| John Ensley     | ensley         | <http://john-ensley.com>                          |
+| Anthony Roman   | aromedtbf      | <https://aromedtbf.github.io/STAT-184/>           |
 
 
 <br>
