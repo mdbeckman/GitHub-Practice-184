@@ -31,7 +31,7 @@
 |Name                   |GitHub ID         |website for a GitHub repo  | 
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
-
+  Nick Cianci       Nick-Cianci      <https://nick-cianci.github.io/Stat-184/>
 
 <br>
 
