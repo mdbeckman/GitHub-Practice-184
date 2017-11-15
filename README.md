@@ -31,6 +31,7 @@
 |Name                   |GitHub ID         |website for a GitHub repo  | 
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
+| Olivia Richards | okrichards     | <https://okrichards.github.io/repo/>      |
 
 
 <br>
