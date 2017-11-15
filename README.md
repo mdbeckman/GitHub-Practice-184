@@ -31,7 +31,7 @@
 |Name                   |GitHub ID         |website for a GitHub repo  | 
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
-
+| Kechen Hu       | Grayhu07       | <https://grayhu07.github.io/PSU-STAT184/>         |
 
 <br>
 
