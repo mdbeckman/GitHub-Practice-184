@@ -31,6 +31,7 @@
 |Name                   |GitHub ID         |website for a GitHub repo  | 
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
+| Wenrui Cai      | wenrui-cai     | <https://wenrui-cai.github.io/GitHub-Assignment-184/> |  
 | Ajay Singh | Asingh1231 | <https://asingh1231.github.io/Stat-184/ |
 | Cuyler Luck     | cuylerluck     | <https://cuylerluck.github.io/STAT184/>           |
 | Suzanne Papik   | smpapik        | <https://smpapik.github.io/demo-184/>             |
