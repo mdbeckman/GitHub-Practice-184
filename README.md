@@ -31,6 +31,7 @@
 |Name                   |GitHub ID         |website for a GitHub repo  | 
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
+| Cuyler Luck     | cuylerluck     | <https://cuylerluck.github.io/STAT184/>           |
 | Suzanne Papik   | smpapik        | <https://smpapik.github.io/demo-184/>             |
 | Kechen Hu       | Grayhu07       | <https://grayhu07.github.io/PSU-STAT184/>         |
 |  Nick Cianci    |   Nick-Cianci  |    <https://nick-cianci.github.io/Stat-184/>  |
