@@ -1,3 +1,4 @@
+
 # GitHub Pages Assignment
 
 **(10 pts) Assignment Instructions**
@@ -31,6 +32,8 @@
 |Name                   |GitHub ID         |website for a GitHub repo  | 
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
+| Beckman | mdbeckman | <https://mdbeckman.github.io/Repo-Demo-184/> |
+| Keaton Moyer | kcm5331 | <https://kcm5331.github.io/Stat-184/ > |
 | Olivia Richards | okrichards     | <https://okrichards.github.io/repo/>      |
 | Wenrui Cai      | wenrui-cai     | <https://wenrui-cai.github.io/GitHub-Assignment-184/> |  
 | Ajay Singh | Asingh1231 | <https://asingh1231.github.io/Stat-184/ |
