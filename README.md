@@ -33,7 +33,7 @@
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
 | Beckman | mdbeckman | <https://mdbeckman.github.io/Repo-Demo-184/> |
-| Keaton Moyer | kcm5331 | <https://kcm5331.github.io/Stat-184/ > |
+| Keaton Moyer | kcm5331 | <https://kcm5331.github.io/Stat-184/ > |        |
 | Olivia Richards | okrichards     | <https://okrichards.github.io/repo/>      |
 | Wenrui Cai      | wenrui-cai     | <https://wenrui-cai.github.io/GitHub-Assignment-184/> |  
 | Ajay Singh | Asingh1231 | <https://asingh1231.github.io/Stat-184/ |
@@ -43,7 +43,7 @@
 |  Nick Cianci    |   Nick-Cianci  |    <https://nick-cianci.github.io/Stat-184/>  |
 | John Ensley     | ensley         | <http://john-ensley.com>                          |
 | Anthony Roman   | aromedtbf      | <https://aromedtbf.github.io/STAT-184/>           |
-
+| Bryan DeMarcy   | bmdemarcy      | https://bmdemarcy.github.io/Repo-Demo-184/        |
 
 <br>
 
