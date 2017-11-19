@@ -43,7 +43,7 @@
 |  Nick Cianci    |   Nick-Cianci  |    <https://nick-cianci.github.io/Stat-184/>  |
 | John Ensley     | ensley         | <http://john-ensley.com>                          |
 | Anthony Roman   | aromedtbf      | <https://aromedtbf.github.io/STAT-184/>           |
-
+| Enying Gao   | EnyingGao      | <https://enyinggao.github.io/STAT184/>           |
 
 <br>
 
