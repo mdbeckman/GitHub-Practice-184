@@ -36,7 +36,7 @@
 | Keaton Moyer | kcm5331 | <https://kcm5331.github.io/Stat-184/ > |
 | Olivia Richards | okrichards     | <https://okrichards.github.io/repo/>      |
 | Wenrui Cai      | wenrui-cai     | <https://wenrui-cai.github.io/GitHub-Assignment-184/> |  
-| Ajay Singh | Asingh1231 | <https://asingh1231.github.io/Stat-184/ |
+| Ajay Singh | Asingh1231 | <https://asingh1231.github.io/Stat-184/> |
 | Cuyler Luck     | cuylerluck     | <https://cuylerluck.github.io/STAT184/>           |
 | Suzanne Papik   | smpapik        | <https://smpapik.github.io/demo-184/>             |
 | Kechen Hu       | Grayhu07       | <https://grayhu07.github.io/PSU-STAT184/>         |
@@ -44,6 +44,18 @@
 | John Ensley     | ensley         | <http://john-ensley.com>                          |
 | Anthony Roman   | aromedtbf      | <https://aromedtbf.github.io/STAT-184/>           |
 | Yanxiang Zhu    | YanxiangZhu    | <https://yanxiangzhu.github.io/GitHub-Pages-Assignment/> |
+| Keith Kepner    | keithkepner    | <https://keithkepner.github.io/stat184/>        |
+| Yifei Deng      | YifeiDeng      | <https://yifeideng.github.io/Repo-Demo-STAT184/>  |
+| Marissa Reuther | marissareuther | <https://marissareuther.github.io/Practice-Assignment-184/> |
+| Steven Griffin  | stevgriffs     | <https://stevgriffs.github.io/Population-Coding-Experience/> |
+| Audrey Arner    | audreyarner    | <https://audreyarner.github.io/Repo-Initial-STAT184/> |
+| Mei Ying Tan   | Meiying97      | <https://meiying97.github.io/STAT184/>           |
+| Luc Legaspi     | luclegaspi     | <https://luclegaspi.github.io/Repo-Demo-184/>     |
+| Sooyoul Lee     | sooyeoul47     | <https://sooyeoul47.github.io/STAT-184/>          |
+| Sanghyon Jeong  | sanghyonjeong  | <https://sanghyonjeong.github.io/stat184_project/> |
+| AnnMarie McAlinney | annmariemcalinney | <https://annmariemcalinney.github.io/readme/> | 
+| Samuel Messer   | SameMesser     | <https://samemesser.github.io/STAT-184/>           |
+| Sayre Bradley   | skbradley      | <https://skbradley.github.io/RepoDemo/>           |
 
 <br>
 
