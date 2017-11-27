@@ -43,6 +43,7 @@
 |  Nick Cianci    |   Nick-Cianci  |    <https://nick-cianci.github.io/Stat-184/>  |
 | John Ensley     | ensley         | <http://john-ensley.com>                          |
 | Anthony Roman   | aromedtbf      | <https://aromedtbf.github.io/STAT-184/>           |
+| Yanxiang Zhu    | YanxiangZhu    | <https://yanxiangzhu.github.io/GitHub-Pages-Assignment/> |
 | Keith Kepner    | keithkepner    | <https://keithkepner.github.io/stat184/>        |
 | Yifei Deng      | YifeiDeng      | <https://yifeideng.github.io/Repo-Demo-STAT184/>  |
 | Marissa Reuther | marissareuther | <https://marissareuther.github.io/Practice-Assignment-184/> |
