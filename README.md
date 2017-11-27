@@ -43,6 +43,7 @@
 |  Nick Cianci    |   Nick-Cianci  |    <https://nick-cianci.github.io/Stat-184/>  |
 | John Ensley     | ensley         | <http://john-ensley.com>                          |
 | Anthony Roman   | aromedtbf      | <https://aromedtbf.github.io/STAT-184/>           |
+| Yifei Deng      | YifeiDeng      | <https://yifeideng.github.io/Repo-Demo-STAT184/>  |
 | Marissa Reuther | marissareuther | <https://marissareuther.github.io/Practice-Assignment-184/> |
 | Steven Griffin  | stevgriffs     | <https://stevgriffs.github.io/Population-Coding-Experience/> |
 | Audrey Arner    | audreyarner    | <https://audreyarner.github.io/Repo-Initial-STAT184/> |
