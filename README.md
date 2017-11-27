@@ -36,7 +36,7 @@
 | Keaton Moyer | kcm5331 | <https://kcm5331.github.io/Stat-184/ > |
 | Olivia Richards | okrichards     | <https://okrichards.github.io/repo/>      |
 | Wenrui Cai      | wenrui-cai     | <https://wenrui-cai.github.io/GitHub-Assignment-184/> |  
-| Ajay Singh | Asingh1231 | <https://asingh1231.github.io/Stat-184/ |
+| Ajay Singh | Asingh1231 | <https://asingh1231.github.io/Stat-184/> |
 | Cuyler Luck     | cuylerluck     | <https://cuylerluck.github.io/STAT184/>           |
 | Suzanne Papik   | smpapik        | <https://smpapik.github.io/demo-184/>             |
 | Kechen Hu       | Grayhu07       | <https://grayhu07.github.io/PSU-STAT184/>         |
