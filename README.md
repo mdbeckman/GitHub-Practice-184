@@ -43,6 +43,7 @@
 |  Nick Cianci    |   Nick-Cianci  |    <https://nick-cianci.github.io/Stat-184/>  |
 | John Ensley     | ensley         | <http://john-ensley.com>                          |
 | Anthony Roman   | aromedtbf      | <https://aromedtbf.github.io/STAT-184/>           |
+| Mei Ying Tan   | Meiying97      | <https://meiying97.github.io/STAT184/>           |
 | Luc Legaspi     | luclegaspi     | <https://luclegaspi.github.io/Repo-Demo-184/>     |
 | Sooyoul Lee     | sooyeoul47     | <https://sooyeoul47.github.io/STAT-184/>          |
 | Sanghyon Jeong  | sanghyonjeong  | <https://sanghyonjeong.github.io/stat184_project/> |
