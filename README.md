@@ -29,8 +29,8 @@
 
 # Class GitHub Table 
 
-|Name                   |GitHub ID         |website for a GitHub repo  | 
-|:----------------------|:-----------------|:--------------------------|  
+|Name                     |GitHub ID             |website for a GitHub repo                                | 
+|:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
 | Beckman | mdbeckman | <https://mdbeckman.github.io/Repo-Demo-184/> |
 | Keaton Moyer | kcm5331 | <https://kcm5331.github.io/Stat-184/ > |        |
