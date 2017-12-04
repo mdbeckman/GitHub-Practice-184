@@ -58,7 +58,7 @@
 | AnnMarie McAlinney | annmariemcalinney | <https://annmariemcalinney.github.io/readme/> | 
 | Samuel Messer   | SameMesser     | <https://samemesser.github.io/STAT-184/>           |
 | Sayre Bradley   | skbradley      | <https://skbradley.github.io/RepoDemo/>           |
-
+| David Conran    | dnc5117        | https://dnc5117.github.io/cautious-sniffle/       |
 <br>
 
 # Linking to other stuff 
