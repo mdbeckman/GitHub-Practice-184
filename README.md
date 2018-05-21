@@ -33,40 +33,8 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
 | Beckman | mdbeckman | <https://mdbeckman.github.io/Repo-Demo-184/> |
-| Keaton Moyer | kcm5331 | <https://kcm5331.github.io/Stat-184/ > |        |
-| Olivia Richards | okrichards     | <https://okrichards.github.io/repo/>      |
-| Wenrui Cai      | wenrui-cai     | <https://wenrui-cai.github.io/GitHub-Assignment-184/> |  
-| Ajay Singh | Asingh1231 | <https://asingh1231.github.io/Stat-184/> |
-| Cuyler Luck     | cuylerluck     | <https://cuylerluck.github.io/STAT184/>           |
-| Suzanne Papik   | smpapik        | <https://smpapik.github.io/demo-184/>             |
-| Kechen Hu       | Grayhu07       | <https://grayhu07.github.io/PSU-STAT184/>         |
-|  Nick Cianci    |   Nick-Cianci  |    <https://nick-cianci.github.io/Stat-184/>  |
-| John Ensley     | ensley         | <http://john-ensley.com>                          |
-| Anthony Roman   | aromedtbf      | <https://aromedtbf.github.io/STAT-184/>           |
-| Enying Gao   | EnyingGao      | <https://enyinggao.github.io/STAT184/>           |
-| Bryan DeMarcy   | bmdemarcy      | https://bmdemarcy.github.io/Repo-Demo-184/        |
-| Yanxiang Zhu    | YanxiangZhu    | <https://yanxiangzhu.github.io/GitHub-Pages-Assignment/> |
-| Keith Kepner    | keithkepner    | <https://keithkepner.github.io/stat184/>        |
-| Yifei Deng      | YifeiDeng      | <https://yifeideng.github.io/Repo-Demo-STAT184/>  |
-| Marissa Reuther | marissareuther | <https://marissareuther.github.io/Practice-Assignment-184/> |
-| Steven Griffin  | stevgriffs     | <https://stevgriffs.github.io/Population-Coding-Experience/> |
-| Audrey Arner    | audreyarner    | <https://audreyarner.github.io/Repo-Initial-STAT184/> |
-| Mei Ying Tan   | Meiying97      | <https://meiying97.github.io/STAT184/>           |
-| Luc Legaspi     | luclegaspi     | <https://luclegaspi.github.io/Repo-Demo-184/>     |
-| Sooyoul Lee     | sooyeoul47     | <https://sooyeoul47.github.io/STAT-184/>          |
-| Sanghyon Jeong  | sanghyonjeong  | <https://sanghyonjeong.github.io/stat184_project/> |
-| AnnMarie McAlinney | annmariemcalinney | <https://annmariemcalinney.github.io/readme/> | 
-| Samuel Messer   | SameMesser     | <https://samemesser.github.io/STAT-184/>           |
-| Sayre Bradley   | skbradley      | <https://skbradley.github.io/RepoDemo/>           |
-| David Conran    | dnc5117        | https://dnc5117.github.io/cautious-sniffle/       |
+
 
 <br>
 
-# Linking to other stuff 
-
-**Below is just a demo for future reference (not graded for this assignment)**
-
-In the assignment you learned to make a repo into a webpage and create a GitHub Pages front end for other people to see.  This is a great way to make your work publicly available to share with other people.  This is a good idea for making a portfolio of your work, a personal webpage, etc.  If I wanted to link to a local file in this repo, I could share [this description of my class schedule in Fall 2017 (link)](ClassScheduleActivity.html).  You might have noticed the document `ClassScheduleActivity.html` appears in the repo, so the previous link simply accesses that HTML document.  
-
-Note that you can make private repos with GitHub, so you and collaborators that you invite can access all the functionality of GitHub without revealing your work to the public.  The content of the webpage and all linked content will be visible to the public, but anything else in the repo will still be private.  I do this with course materials.  For example, my class webpage for STAT 184 is publicly available <https://mdbeckman.github.io/PSU-STAT-184/>, but I keep the repo itself private so I can control what content I do/don't want people to see.
-
+# Integration of RStudio with Git
