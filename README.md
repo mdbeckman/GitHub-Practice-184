@@ -32,6 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Beckman |  | [use vertical bars "|" to add a **new** row for yourself below this one] |
+| Ashley Reed | ashleynreed5508 | https://github.com/ashleynreed5508/Stat-184-Assignment/edit/master/README.md |
   
 
 <br>
