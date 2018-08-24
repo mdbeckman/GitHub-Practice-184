@@ -21,7 +21,7 @@
             - write a **descriptive** commit message (e.g. "added Matt Beckmans info to table")  
             - select "Create a new branch for this commit and start a pull request."   
             - click green button "Propose file change" & start pull request  
-    - (1 pt) check the link works (wrap url in "<" and ">" to activate link on actual website)  
+    - (1 pt) use "preview changes" to check that the link works (wrap url in "<" and ">" to activate link on actual website)  
     - (ungraded) pat yourself on the back
     - **Important**: Your entry will NOT appear on the class table right away.  Once you submit the "pull request" the owner of the repo (me) needs to approve and merge it into the "master" before your entry will appear in the class table on the website. 
 
@@ -31,10 +31,14 @@
 
 |Name                     |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
-| Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
-| Beckman | mdbeckman | <https://mdbeckman.github.io/Repo-Demo-184/> |
-
+| Matthew Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
+|  |  | [use vertical bars "|" to add a **new** row for yourself below this one] |
+  
 
 <br>
 
 # Integration of RStudio with Git
+
+Check this out: <http://happygitwithr.com/index.html>
+
+
