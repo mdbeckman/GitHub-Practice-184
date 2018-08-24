@@ -32,8 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Beckman |  | [use vertical bars "|" to add a **new** row for yourself below this one] |
-  
-
+| Insley, Drew | DrewInsley| https://drewinsley.github.io/Drew-Insley-184-GitHub/ |
 <br>
 
 # Integration of RStudio with Git
