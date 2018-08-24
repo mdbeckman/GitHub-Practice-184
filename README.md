@@ -31,8 +31,7 @@
 
 |Name                     |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
-| Matthew Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
-|  |  | [use vertical bars "|" to add a **new** row for yourself below this one] |
+| Beckman |  | [use vertical bars "|" to add a **new** row for yourself below this one] |
   
 
 <br>
