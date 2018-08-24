@@ -32,7 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Beckman |  | [use vertical bars "|" to add a **new** row for yourself below this one] |
-  
+|Daniel Lee|  |DanielLee0226|  |https://github.com/DanielLee0226/Daniel-Dongjun-Lee/edit/master/README.md|
 
 <br>
 
