@@ -32,7 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Beckman |  | [use vertical bars "|" to add a **new** row for yourself below this one] |
-  
+| Mackenzie Detwiler      | KenzieDetwiler       | <https://kenziedetwiler.github.io/GitHub-Assignment-1/>   |    
 
 <br>
 
