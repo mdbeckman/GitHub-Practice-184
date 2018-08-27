@@ -32,6 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Beckman |  | [use vertical bars "|" to add a **new** row for yourself below this one] |
+|Remington Harris|rem700|<https://rem700.github.io/rem_repo/>|
   
 
 <br>
