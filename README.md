@@ -31,9 +31,10 @@
 
 |Name                     |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
-| Beckman |  | [use vertical bars "|" to add a **new** row for yourself below this one] |
+| Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> |
+| Claire Jablonski | clairejab | https://clairejab.github.io/GitHub-Assignment-1/ |
 |Daniel Lee||Daniellee0226| |https://github.com/DanielLee0226/Daniel-Dongjun-Lee/edit/master/README.md| 
-
+  
 <br>
 
 # Integration of RStudio with Git
