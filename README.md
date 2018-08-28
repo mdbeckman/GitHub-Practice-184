@@ -35,6 +35,7 @@
 | Claire Jablonski | clairejab | https://clairejab.github.io/GitHub-Assignment-1/ |
 |Daniel Lee||Daniellee0226| |https://github.com/DanielLee0226/Daniel-Dongjun-Lee/edit/master/README.md| 
 | Insley, Drew | DrewInsley| https://drewinsley.github.io/Drew-Insley-184-GitHub/ |
+| Ashley Reed | ashleynreed5508 | https://github.com/ashleynreed5508/Stat-184-Assignment/edit/master/README.md |
   
 <br>
 
