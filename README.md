@@ -31,7 +31,7 @@
 
 |Name                     |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
-| Beckman | | [use vertical bars "|" to add a **new** row for yourself below this one] |
+| Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> |
 | Claire Jablonski | clairejab | https://clairejab.github.io/GitHub-Assignment-1/ |
   
 
