@@ -29,7 +29,7 @@
 
 # Class GitHub Table 
 
-|Name                     |GitHub ID             |website for a GitHub repo                                | 
+|Name Zhuoran Li       |GitHub ID  zvl5345      |website for a GitHub repo https://zvl5345.github.io/1/    | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> |
 | Claire Jablonski | clairejab | https://clairejab.github.io/GitHub-Assignment-1/ |
