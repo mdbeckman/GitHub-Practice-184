@@ -40,7 +40,7 @@
 | Mackenzie Detwiler      | KenzieDetwiler       | <https://kenziedetwiler.github.io/GitHub-Assignment-1/>   |    
 | Thomas (TJ) Schaeffer | tjschaeffer | https://tjschaeffer.github.io/tjschaefferwebsite/
 |Remington Harris|Remington700|<https://remington700.github.io/remy_repo/>|
-
+| Ciara Virgo | cvirgo | <https://cvirgo.github.io/Github-Assignment-1/> |
 <br>
 
 # Integration of RStudio with Git
