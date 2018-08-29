@@ -32,12 +32,14 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> |
+| Zheng Zhang | SecantZhang | <https://secantzhang.github.io/STAT184-PRACTICE-REPO/> | 
 | Claire Jablonski | clairejab | https://clairejab.github.io/GitHub-Assignment-1/ |
 |Daniel Lee| Daniellee0226 |https://github.com/DanielLee0226/Daniel-Dongjun-Lee/edit/master/README.md| 
 | Insley, Drew | DrewInsley| https://drewinsley.github.io/Drew-Insley-184-GitHub/ |
 | Ashley Reed | ashleynreed5508 | https://github.com/ashleynreed5508/Stat-184-Assignment/edit/master/README.md |
 | Mackenzie Detwiler      | KenzieDetwiler       | <https://kenziedetwiler.github.io/GitHub-Assignment-1/>   |    
 | Thomas (TJ) Schaeffer | tjschaeffer | https://tjschaeffer.github.io/tjschaefferwebsite/
+|Remington Harris|Remington700|<https://remington700.github.io/remy_repo/>|
 
 <br>
 
