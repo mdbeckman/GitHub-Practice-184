@@ -42,7 +42,7 @@
 |Remington Harris|Remington700|<https://remington700.github.io/remy_repo/>|  
 | Kimberly Mincin | mincink | <https://mincink.github.io/km_website/> |  
 | Funke Alliyu | oralliyu | <https://oralliyu.github.io/practice/> |  
-
+| Matthew Secen | mjs7633 | <https://mjs7633.github.io/GitHub-Assignment-1/> |
 
 <br>
 
