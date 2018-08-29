@@ -38,9 +38,8 @@
 | Insley, Drew | DrewInsley| https://drewinsley.github.io/Drew-Insley-184-GitHub/ |
 | Ashley Reed | ashleynreed5508 | https://github.com/ashleynreed5508/Stat-184-Assignment/edit/master/README.md |
 | Mackenzie Detwiler      | KenzieDetwiler       | <https://kenziedetwiler.github.io/GitHub-Assignment-1/>   |    
-| Thomas (TJ) Schaeffer | tjschaeffer | https://tjschaeffer.github.io/tjschaefferwebsite/
 |Remington Harris|Remington700|<https://remington700.github.io/remy_repo/>|
-
+|Ryan Moorhead | rmoorhead45 | <https://rmoorhead45.github.io/STAT184/> |
 <br>
 
 # Integration of RStudio with Git
