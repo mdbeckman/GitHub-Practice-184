@@ -43,7 +43,7 @@
 |Ryan Moorhead | rmoorhead45 | <https://rmoorhead45.github.io/STAT184/> |
 | Vydeepthi Dhulipalla | Vydeepthi  |  https://vydeepthi.github.io/first/  | 
 | Remington Harris|Remington700|<https://remington700.github.io/remy_repo/>|  
-| Kimberly Mincin | mincink | <https://mincink.github.io/km_website/> |  
+| Kimberly Mincin | mincink | <https://mincink.github.io/Kimberly-Website/> |  
 | Rachel DiRico | racheldirico | <https://racheldirico.github.io/ReadMe2/> |
 | Zhuoran Li   | zvl5345|https://zvl5345.github.io/1/  |
 |Tsz Yau Iris Chow| irischow403| <https://irischow403.github.io/Iris-Chow-Stat-184-Assignment-1-/> |
