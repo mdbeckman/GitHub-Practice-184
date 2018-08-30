@@ -19,9 +19,8 @@
     - (2 pts) url for GitHub Pages site from your GitHub repo (**NOT** a url to the repo itself)
     - (2 pts) commit your changes and submit pull request   
             - write a **descriptive** commit message (e.g. "added Matt Beckmans info to table")  
-            - select "Create a new branch for this commit and start a pull request."   
             - click green button "Propose file change" & start pull request  
-    - (1 pt) use "preview changes" to check that the link works (wrap url in "<" and ">" to activate link on actual website)  
+    - (1 pt) make sure the link works (wrap url in "<" and ">" to activate link on actual website)  
     - (ungraded) pat yourself on the back
     - **Important**: Your entry will NOT appear on the class table right away.  Once you submit the "pull request" the owner of the repo (me) needs to approve and merge it into the "master" before your entry will appear in the class table on the website. 
 
