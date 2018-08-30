@@ -45,7 +45,13 @@
 | Vydeepthi Dhulipalla | Vydeepthi  |  https://vydeepthi.github.io/first/  | 
 | Remington Harris|Remington700|<https://remington700.github.io/remy_repo/>|  
 | Kimberly Mincin | mincink | <https://mincink.github.io/km_website/> |  
-| Ciara Virgo | cvirgo | <https://cvirgo.github.io/Github-Assignment-1/>
+| Rachel DiRico | racheldirico | <https://racheldirico.github.io/ReadMe2/> |
+| Zhuoran Li   | zvl5345|https://zvl5345.github.io/1/  |
+|Tsz Yau Iris Chow| irischow403| <https://irischow403.github.io/Iris-Chow-Stat-184-Assignment-1-/> |
+| Greg Westfall | gwestfall432 | <https://github.com/gwestfall432/stat184github> |
+| Lauryn Pavlik | Laurynrp29 | <https://laurynrp29.github.io/STAT..184/> | 
+| Matthew Secen | mjs7633 | <https://mjs7633.github.io/GitHub-Assignment-1/> |
+| Vince Birch | VinceBirch| <https://vincebirch.github.io/GitHub-Assignment-1/>|
 | Funke Alliyu | oralliyu | <https://oralliyu.github.io/practice/> | 
 | Isaac Freeman | isaacfreeman38 | <https://isaacfreeman38.github.io/freemangithub1/> | 
 | Rudy Shiller | rudyjr009| <https://github.com/rudyjr009/Github-Assignment-1/>
