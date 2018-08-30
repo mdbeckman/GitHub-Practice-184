@@ -37,6 +37,7 @@
 | Insley, Drew | DrewInsley| https://drewinsley.github.io/Drew-Insley-184-GitHub/ | 
 | Ashley Reed | ashleynreed5508 | https://github.com/ashleynreed5508/Stat-184-Assignment/edit/master/README.md | 
 | Mackenzie Detwiler      | KenzieDetwiler       | <https://kenziedetwiler.github.io/GitHub-Assignment-1/>   |    
+| Ciara Virgo | cvirgo | <https://cvirgo.github.io/Github-Assignment-1/> |
 |Ryan Moorhead | rmoorhead45 | <https://rmoorhead45.github.io/STAT184/> |
 | Vydeepthi Dhulipalla | Vydeepthi  |  https://vydeepthi.github.io/first/  | 
 | Thomas (TJ) Schaeffer | tjschaeffer | https://tjschaeffer.github.io/tjschaefferwebsite/ | 
