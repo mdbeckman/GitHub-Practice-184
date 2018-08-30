@@ -42,6 +42,7 @@
 |Remington Harris|Remington700|<https://remington700.github.io/remy_repo/>|  
 | Kimberly Mincin | mincink | <https://mincink.github.io/km_website/> |  
 | Funke Alliyu | oralliyu | <https://oralliyu.github.io/practice/> |  
+|Tsz Yau Iris Chow| irischow403| <https://irischow403.github.io/Iris-Chow-Stat-184-Assignment-1-/> |
 
 
 <br>
