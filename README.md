@@ -47,6 +47,7 @@
 | Vydeepthi Dhulipalla | Vydeepthi  |  https://vydeepthi.github.io/first/  | 
 | Remington Harris|Remington700|<https://remington700.github.io/remy_repo/>|  
 | Kimberly Mincin | mincink | <https://mincink.github.io/km_website/> |  
+|Tsz Yau Iris Chow| irischow403| <https://irischow403.github.io/Iris-Chow-Stat-184-Assignment-1-/> |
 | Greg Westfall | gwestfall432 | <https://github.com/gwestfall432/stat184github> |
 | Lauryn Pavlik | Laurynrp29 | <https://laurynrp29.github.io/STAT..184/> | 
 | Matthew Secen | mjs7633 | <https://mjs7633.github.io/GitHub-Assignment-1/> |
