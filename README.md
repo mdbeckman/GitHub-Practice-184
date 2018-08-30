@@ -31,15 +31,20 @@
 
 |Name                     |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
-| Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> |
-| Zheng Zhang | SecantZhang | <https://secantzhang.github.io/STAT184-PRACTICE-REPO/> | 
-| Claire Jablonski | clairejab | https://clairejab.github.io/GitHub-Assignment-1/ |
-|Daniel Lee| Daniellee0226 |https://github.com/DanielLee0226/Daniel-Dongjun-Lee/edit/master/README.md| 
-| Insley, Drew | DrewInsley| https://drewinsley.github.io/Drew-Insley-184-GitHub/ |
-| Ashley Reed | ashleynreed5508 | https://github.com/ashleynreed5508/Stat-184-Assignment/edit/master/README.md |
+| Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> | 
+| Claire Jablonski | clairejab | https://clairejab.github.io/GitHub-Assignment-1/ | 
+| Daniel Lee| Daniellee0226 |https://github.com/DanielLee0226/Daniel-Dongjun-Lee/edit/master/README.md| 
+| Insley, Drew | DrewInsley| https://drewinsley.github.io/Drew-Insley-184-GitHub/ | 
+| Ashley Reed | ashleynreed5508 | https://github.com/ashleynreed5508/Stat-184-Assignment/edit/master/README.md | 
 | Mackenzie Detwiler      | KenzieDetwiler       | <https://kenziedetwiler.github.io/GitHub-Assignment-1/>   |    
-|Remington Harris|Remington700|<https://remington700.github.io/remy_repo/>|
 |Ryan Moorhead | rmoorhead45 | <https://rmoorhead45.github.io/STAT184/> |
+| Vydeepthi Dhulipalla | Vydeepthi  |  https://vydeepthi.github.io/first/  | 
+| Thomas (TJ) Schaeffer | tjschaeffer | https://tjschaeffer.github.io/tjschaefferwebsite/ | 
+| Remington Harris|Remington700|<https://remington700.github.io/remy_repo/>|  
+| Kimberly Mincin | mincink | <https://mincink.github.io/km_website/> |  
+| Funke Alliyu | oralliyu | <https://oralliyu.github.io/practice/> | 
+| Isaac Freeman | isaacfreeman38 | <https://isaacfreeman38.github.io/freemangithub1/> | 
+
 <br>
 
 # Integration of RStudio with Git
