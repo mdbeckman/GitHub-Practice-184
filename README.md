@@ -31,14 +31,12 @@
 
 |Name                     |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
-| Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> |
-| Zheng Zhang | SecantZhang | <https://secantzhang.github.io/STAT184-PRACTICE-REPO/> | 
-| Claire Jablonski | clairejab | <https://clairejab.github.io/GitHub-Assignment-1/> |
-|Daniel Lee| Daniellee0226 |https://github.com/DanielLee0226/Daniel-Dongjun-Lee/edit/master/README.md| 
-| Insley, Drew | DrewInsley| https://drewinsley.github.io/Drew-Insley-184-GitHub/ |
-| Ashley Reed | ashleynreed5508 | https://github.com/ashleynreed5508/Stat-184-Assignment/edit/master/README.md |
+| Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> | 
+| Claire Jablonski | clairejab | https://clairejab.github.io/GitHub-Assignment-1/ | 
+| Daniel Lee| Daniellee0226 |https://github.com/DanielLee0226/Daniel-Dongjun-Lee/edit/master/README.md| 
+| Insley, Drew | DrewInsley| https://drewinsley.github.io/Drew-Insley-184-GitHub/ | 
+| Ashley Reed | ashleynreed5508 | https://github.com/ashleynreed5508/Stat-184-Assignment/edit/master/README.md | 
 | Mackenzie Detwiler      | KenzieDetwiler       | <https://kenziedetwiler.github.io/GitHub-Assignment-1/>   |    
-| Maya DiGirolamo | mldigirolamo | <https://mldigirolamo.github.io/Maya-DiGirolamo_GitHubPagesAssignment/> |
 | Ying(Riley) Hua |RileyHua |  https://rileyhua.github.io/Stat-184-assignment-1-/|
 | Mariam Dossayeva | mfd5485 | <https://mfd5485.github.io/MariamGitHub-Practice-184/> |
 | Thomas (TJ) Schaeffer | tjschaeffer | <https://tjschaeffer.github.io/tjschaefferwebsite/> |
@@ -56,6 +54,7 @@
 | Vince Birch | VinceBirch| <https://vincebirch.github.io/GitHub-Assignment-1/>|
 | Funke Alliyu | oralliyu | <https://oralliyu.github.io/practice/> | 
 | Isaac Freeman | isaacfreeman38 | <https://isaacfreeman38.github.io/freemangithub1/> | 
+| Rudy Shiller | rudyjr009| <https://github.com/rudyjr009/Github-Assignment-1/>
 
 <br>
 
