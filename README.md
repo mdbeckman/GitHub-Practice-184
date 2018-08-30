@@ -47,6 +47,7 @@
 | Vydeepthi Dhulipalla | Vydeepthi  |  https://vydeepthi.github.io/first/  | 
 | Remington Harris|Remington700|<https://remington700.github.io/remy_repo/>|  
 | Kimberly Mincin | mincink | <https://mincink.github.io/km_website/> |  
+| Lauryn Pavlik | Laurynrp29 | <https://laurynrp29.github.io/STAT..184/> | 
 | Matthew Secen | mjs7633 | <https://mjs7633.github.io/GitHub-Assignment-1/> |
 | Vince Birch | VinceBirch| <https://vincebirch.github.io/GitHub-Assignment-1/>|
 | Funke Alliyu | oralliyu | <https://oralliyu.github.io/practice/> | 
