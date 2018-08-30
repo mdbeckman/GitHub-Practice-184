@@ -41,7 +41,8 @@
 | Thomas (TJ) Schaeffer | tjschaeffer | https://tjschaeffer.github.io/tjschaefferwebsite/ |
 |Remington Harris|Remington700|<https://remington700.github.io/remy_repo/>|  
 | Kimberly Mincin | mincink | <https://mincink.github.io/km_website/> |  
-| Funke Alliyu | oralliyu | <https://oralliyu.github.io/practice/> |  
+| Funke Alliyu | oralliyu | <https://oralliyu.github.io/practice/> | 
+| Greg Westfall | gwestfall432 | <https://github.com/gwestfall432/stat184github> |
 
 
 <br>
