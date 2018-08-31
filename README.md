@@ -56,7 +56,7 @@
 | Isaac Freeman | isaacfreeman38 | <https://isaacfreeman38.github.io/freemangithub1/> | 
 | Rudy Shiller | rudyjr009| <https://github.com/rudyjr009/Github-Assignment-1/> |
 | Stephen Polacheck | polacheck | <https://polacheck.github.io/home/> |
-
+| Cameron Vinson | cmvinson | <https://cmvinson.github.io/cameronvinson-/> |
 <br>
 
 # Integration of RStudio with Git
