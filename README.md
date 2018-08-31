@@ -41,7 +41,7 @@
 | Mariam Dossayeva | mfd5485 | <https://mfd5485.github.io/MariamGitHub-Practice-184/> |  
 | Thomas (TJ) Schaeffer | tjschaeffer | <https://tjschaeffer.github.io/tjschaefferwebsite/> |  
 |Ryan Moorhead | rmoorhead45 | <https://rmoorhead45.github.io/STAT184/> |  
-| Vydeepthi Dhulipalla | Vydeepthi  |  https://vydeepthi.github.io/first/  |   
+| Vydeepthi Dhulipalla | Vydeepthi  |  <https://vydeepthi.github.io/first/>  |   
 | Remington Harris|Remington700|<https://remington700.github.io/remy_repo/>|  
 | Kimberly Mincin | mincink | <https://mincink.github.io/Kimberly-Website/> |  
 | Rachel DiRico | racheldirico | <https://racheldirico.github.io/ReadMe2/> |  
