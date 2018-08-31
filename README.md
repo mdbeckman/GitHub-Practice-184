@@ -39,7 +39,6 @@
 | Ying(Riley) Hua |RileyHua |  https://rileyhua.github.io/Stat-184-assignment-1-/|
 | Mariam Dossayeva | mfd5485 | <https://mfd5485.github.io/MariamGitHub-Practice-184/> |
 | Thomas (TJ) Schaeffer | tjschaeffer | <https://tjschaeffer.github.io/tjschaefferwebsite/> |
-| Ciara Virgo | cvirgo | <https://cvirgo.github.io/Github-Assignment-1/> |
 |Ryan Moorhead | rmoorhead45 | <https://rmoorhead45.github.io/STAT184/> |
 | Vydeepthi Dhulipalla | Vydeepthi  |  https://vydeepthi.github.io/first/  | 
 | Remington Harris|Remington700|<https://remington700.github.io/remy_repo/>|  
@@ -59,7 +58,7 @@
 | Carolyn Banasiak | carolynbanasiak| <https://carolynbanasiak.github.io/readme/> |
 |Connor Hainley| chainley56 | <https://chainley56.github.io/readme/> |
 | Daniel Lee | DanielLee0226 |<https://daniellee0226.github.io/GitHub-Practice-184/>|
-
+| Ciara Virgo | cvirgo | <https://cvirgo.github.io/Github-Assignment-1/> |
 <br>
 
 # Integration of RStudio with Git
