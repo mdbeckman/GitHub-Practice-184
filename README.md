@@ -31,6 +31,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> | 
+| Maya DiGirolamo | mldigirolamo | <https://mldigirolamo.github.io/Maya-DiGirolamo_GitHubPagesAssignment/> |
 | Zheng Zhang | SecantZhang | <https://secantzhang.github.io/STAT184-PRACTICE-REPO/> | 
 | Claire Jablonski | clairejab | <https://clairejab.github.io/GitHub-Assignment-1/> | 
 | Insley, Drew | DrewInsley| <https://drewinsley.github.io/Drew-Insley-184-GitHub/> | 
