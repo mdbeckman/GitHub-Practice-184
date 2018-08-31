@@ -33,7 +33,6 @@
 | Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> | 
 | Zheng Zhang | SecantZhang | <https://secantzhang.github.io/STAT184-PRACTICE-REPO/> | 
 | Claire Jablonski | clairejab | <https://clairejab.github.io/GitHub-Assignment-1/> | 
-| Daniel Lee| Daniellee0226 |https://github.com/DanielLee0226/Daniel-Dongjun-Lee/edit/master/README.md| 
 | Insley, Drew | DrewInsley| <https://drewinsley.github.io/Drew-Insley-184-GitHub/> | 
 | Ashley Reed | ashleynreed5508 | https://github.com/ashleynreed5508/Stat-184-Assignment/edit/master/README.md | 
 | Mackenzie Detwiler      | KenzieDetwiler       | <https://kenziedetwiler.github.io/GitHub-Assignment-1/>   |    
@@ -56,6 +55,7 @@
 | Isaac Freeman | isaacfreeman38 | <https://isaacfreeman38.github.io/freemangithub1/> | 
 | Rudy Shiller | rudyjr009| <https://github.com/rudyjr009/Github-Assignment-1/> |
 | Stephen Polacheck | polacheck | <https://polacheck.github.io/home/> |
+| Cameron Vinson | cmvinson | <https://cmvinson.github.io/cameronvinson-/> |
 | Carolyn Banasiak | carolynbanasiak| <https://carolynbanasiak.github.io/readme/> |
 |Connor Hainley| chainley56 | <https://chainley56.github.io/readme/> |
 | Daniel Lee | DanielLee0226 |<https://daniellee0226.github.io/GitHub-Practice-184/>|
