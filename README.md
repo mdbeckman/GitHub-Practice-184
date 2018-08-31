@@ -28,38 +28,39 @@
 
 # Class GitHub Table 
 
-|Name                     |GitHub ID             |website for a GitHub repo                                | 
+|Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
-| Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> | 
-| Maya DiGirolamo | mldigirolamo | <https://mldigirolamo.github.io/Maya-DiGirolamo_GitHubPagesAssignment/> |
-| Zheng Zhang | SecantZhang | <https://secantzhang.github.io/STAT184-PRACTICE-REPO/> | 
-| Claire Jablonski | clairejab | <https://clairejab.github.io/GitHub-Assignment-1/> | 
-| Insley, Drew | DrewInsley| <https://drewinsley.github.io/Drew-Insley-184-GitHub/> | 
-| Ashley Reed | ashleynreed5508 | https://github.com/ashleynreed5508/Stat-184-Assignment/edit/master/README.md | 
+| Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> |  
+| Maya DiGirolamo | mldigirolamo | <https://mldigirolamo.github.io/Maya-DiGirolamo_GitHubPagesAssignment/> |  
+| Zheng Zhang | SecantZhang | <https://secantzhang.github.io/STAT184-PRACTICE-REPO/> |  
+| Claire Jablonski | clairejab | <https://clairejab.github.io/GitHub-Assignment-1/> |  
+| Insley, Drew | DrewInsley| <https://drewinsley.github.io/Drew-Insley-184-GitHub/> |  
+| Ashley Reed | ashleynreed5508 | https://github.com/ashleynreed5508/Stat-184-Assignment/edit/master/README.md |  
 | Mackenzie Detwiler      | KenzieDetwiler       | <https://kenziedetwiler.github.io/GitHub-Assignment-1/>   |    
-| Ying(Riley) Hua |RileyHua |  https://rileyhua.github.io/Stat-184-assignment-1-/|
-| Mariam Dossayeva | mfd5485 | <https://mfd5485.github.io/MariamGitHub-Practice-184/> |
-| Thomas (TJ) Schaeffer | tjschaeffer | <https://tjschaeffer.github.io/tjschaefferwebsite/> |
-|Ryan Moorhead | rmoorhead45 | <https://rmoorhead45.github.io/STAT184/> |
-| Vydeepthi Dhulipalla | Vydeepthi  |  https://vydeepthi.github.io/first/  | 
+| Ying(Riley) Hua |RileyHua |  https://rileyhua.github.io/Stat-184-assignment-1-/|  
+| Mariam Dossayeva | mfd5485 | <https://mfd5485.github.io/MariamGitHub-Practice-184/> |  
+| Thomas (TJ) Schaeffer | tjschaeffer | <https://tjschaeffer.github.io/tjschaefferwebsite/> |  
+|Ryan Moorhead | rmoorhead45 | <https://rmoorhead45.github.io/STAT184/> |  
+| Vydeepthi Dhulipalla | Vydeepthi  |  https://vydeepthi.github.io/first/  |   
 | Remington Harris|Remington700|<https://remington700.github.io/remy_repo/>|  
 | Kimberly Mincin | mincink | <https://mincink.github.io/Kimberly-Website/> |  
-| Rachel DiRico | racheldirico | <https://racheldirico.github.io/ReadMe2/> |
-| Zhuoran Li   | zvl5345|<https://zvl5345.github.io/1/>  |
-|Tsz Yau Iris Chow| irischow403| <https://irischow403.github.io/Iris-Chow-Stat-184-Assignment-1-/> |
-| Greg Westfall | gwestfall432 | <https://github.com/gwestfall432/stat184github> |
+| Rachel DiRico | racheldirico | <https://racheldirico.github.io/ReadMe2/> |  
+| Zhuoran Li   | zvl5345|<https://zvl5345.github.io/1/>  |  
+|Tsz Yau Iris Chow| irischow403| <https://irischow403.github.io/Iris-Chow-Stat-184-Assignment-1-/> |  
+| Greg Westfall | gwestfall432 | <https://github.com/gwestfall432/stat184github> |  
 | Lauryn Pavlik | Laurynrp29 | <https://laurynrp29.github.io/STAT..184/> | 
-| Matthew Secen | mjs7633 | <https://mjs7633.github.io/GitHub-Assignment-1/> |
-| Vince Birch | VinceBirch| <https://vincebirch.github.io/GitHub-Assignment-1/>|
+| Matthew Secen | mjs7633 | <https://mjs7633.github.io/GitHub-Assignment-1/> |  
+| Vince Birch | VinceBirch| <https://vincebirch.github.io/GitHub-Assignment-1/>|  
 | Funke Alliyu | oralliyu | <https://oralliyu.github.io/practice/> | 
 | Isaac Freeman | isaacfreeman38 | <https://isaacfreeman38.github.io/freemangithub1/> | 
-| Rudy Shiller | rudyjr009| <https://github.com/rudyjr009/Github-Assignment-1/> |
-| Stephen Polacheck | polacheck | <https://polacheck.github.io/home/> |
-| Cameron Vinson | cmvinson | <https://cmvinson.github.io/cameronvinson-/> |
-| Carolyn Banasiak | carolynbanasiak| <https://carolynbanasiak.github.io/readme/> |
-|Connor Hainley| chainley56 | <https://chainley56.github.io/readme/> |
-| Daniel Lee | DanielLee0226 |<https://daniellee0226.github.io/GitHub-Practice-184/>|
-| Ciara Virgo | cvirgo | <https://cvirgo.github.io/Github-Assignment-1/> |
+| Rudy Shiller | rudyjr009| <https://github.com/rudyjr009/Github-Assignment-1/> |  
+| Stephen Polacheck | polacheck | <https://polacheck.github.io/home/> |  
+| Cameron Vinson | cmvinson | <https://cmvinson.github.io/cameronvinson-/> |  
+| Carolyn Banasiak | carolynbanasiak| <https://carolynbanasiak.github.io/readme/> |  
+|Connor Hainley| chainley56 | <https://chainley56.github.io/readme/> |  
+| Daniel Lee | DanielLee0226 |<https://daniellee0226.github.io/GitHub-Practice-184/>|  
+| Ciara Virgo | cvirgo | <https://cvirgo.github.io/Github-Assignment-1/> |  
+
 <br>
 
 # Integration of RStudio with Git
