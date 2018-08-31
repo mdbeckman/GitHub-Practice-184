@@ -41,7 +41,7 @@
 | Mariam Dossayeva | mfd5485 | <https://mfd5485.github.io/MariamGitHub-Practice-184/> |  
 | Thomas (TJ) Schaeffer | tjschaeffer | <https://tjschaeffer.github.io/tjschaefferwebsite/> |  
 |Ryan Moorhead | rmoorhead45 | <https://rmoorhead45.github.io/STAT184/> |  
-| Vydeepthi Dhulipalla | Vydeepthi  |  <https://vydeepthi.github.io/first/>  |   
+| Vydeepthi Dhulipalla | Vydeepthi  |  https://vydeepthi.github.io/first/  |   
 | Remington Harris|Remington700|<https://remington700.github.io/remy_repo/>|  
 | Kimberly Mincin | mincink | <https://mincink.github.io/Kimberly-Website/> |  
 | Rachel DiRico | racheldirico | <https://racheldirico.github.io/ReadMe2/> |  
@@ -53,7 +53,7 @@
 | Vince Birch | VinceBirch| <https://vincebirch.github.io/GitHub-Assignment-1/>|  
 | Funke Alliyu | oralliyu | <https://oralliyu.github.io/practice/> | 
 | Isaac Freeman | isaacfreeman38 | <https://isaacfreeman38.github.io/freemangithub1/> | 
-| Rudy Shiller | rudyjr009| <https://github.com/rudyjr009/Github-Assignment-1/> |  
+| Rudy Shiller | rudyjr009| <https://rudyjr009.github.io/Github-Assignment-1/ |  
 | Stephen Polacheck | polacheck | <https://polacheck.github.io/home/> |  
 | Cameron Vinson | cmvinson | <https://cmvinson.github.io/cameronvinson-/> |  
 | Carolyn Banasiak | carolynbanasiak| <https://carolynbanasiak.github.io/readme/> |  
