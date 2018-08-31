@@ -57,6 +57,7 @@
 | Rudy Shiller | rudyjr009| <https://github.com/rudyjr009/Github-Assignment-1/> |
 | Stephen Polacheck | polacheck | <https://polacheck.github.io/home/> |
 | Carolyn Banasiak | carolynbanasiak| <https://carolynbanasiak.github.io/readme/> |
+|Connor Hainley| chainley56 | <https://chainley56.github.io/readme/> |
 
 <br>
 
