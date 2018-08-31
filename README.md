@@ -37,7 +37,7 @@
 | Insley, Drew | DrewInsley| <https://drewinsley.github.io/Drew-Insley-184-GitHub/> |  
 | Ashley Reed | ashleynreed5508 | <https://ashleynreed5508.github.io/Stat-184-Assignment/> |  
 | Mackenzie Detwiler      | KenzieDetwiler       | <https://kenziedetwiler.github.io/GitHub-Assignment-1/>   |    
-|Riley(ying) Hu           |rileyhua  |https://rileyhua.github.io/stat-184-/
+|Riley(ying) Hua           |rileyhua  |https://rileyhua.github.io/stat-184-/
 | Mariam Dossayeva | mfd5485 | <https://mfd5485.github.io/MariamGitHub-Practice-184/> |  
 | Thomas (TJ) Schaeffer | tjschaeffer | <https://tjschaeffer.github.io/tjschaefferwebsite/> |  
 |Ryan Moorhead | rmoorhead45 | <https://rmoorhead45.github.io/STAT184/> |  
