@@ -33,7 +33,6 @@
 | Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> | 
 | Zheng Zhang | SecantZhang | <https://secantzhang.github.io/STAT184-PRACTICE-REPO/> | 
 | Claire Jablonski | clairejab | <https://clairejab.github.io/GitHub-Assignment-1/> | 
-| Daniel Lee| Daniellee0226 |https://github.com/DanielLee0226/Daniel-Dongjun-Lee/edit/master/README.md| 
 | Insley, Drew | DrewInsley| <https://drewinsley.github.io/Drew-Insley-184-GitHub/> | 
 | Ashley Reed | ashleynreed5508 | https://github.com/ashleynreed5508/Stat-184-Assignment/edit/master/README.md | 
 | Mackenzie Detwiler      | KenzieDetwiler       | <https://kenziedetwiler.github.io/GitHub-Assignment-1/>   |    
@@ -46,7 +45,7 @@
 | Remington Harris|Remington700|<https://remington700.github.io/remy_repo/>|  
 | Kimberly Mincin | mincink | <https://mincink.github.io/Kimberly-Website/> |  
 | Rachel DiRico | racheldirico | <https://racheldirico.github.io/ReadMe2/> |
-| Zhuoran Li   | zvl5345|https://zvl5345.github.io/1/  |
+| Zhuoran Li   | zvl5345|<https://zvl5345.github.io/1/>  |
 |Tsz Yau Iris Chow| irischow403| <https://irischow403.github.io/Iris-Chow-Stat-184-Assignment-1-/> |
 | Greg Westfall | gwestfall432 | <https://github.com/gwestfall432/stat184github> |
 | Lauryn Pavlik | Laurynrp29 | <https://laurynrp29.github.io/STAT..184/> | 
@@ -57,6 +56,10 @@
 | Rudy Shiller | rudyjr009| <https://github.com/rudyjr009/Github-Assignment-1/> |
 | Stephen Polacheck | polacheck | <https://polacheck.github.io/home/> |
 | Cameron Vinson | cmvinson | <https://cmvinson.github.io/cameronvinson-/> |
+| Carolyn Banasiak | carolynbanasiak| <https://carolynbanasiak.github.io/readme/> |
+|Connor Hainley| chainley56 | <https://chainley56.github.io/readme/> |
+| Daniel Lee | DanielLee0226 |<https://daniellee0226.github.io/GitHub-Practice-184/>|
+
 <br>
 
 # Integration of RStudio with Git
