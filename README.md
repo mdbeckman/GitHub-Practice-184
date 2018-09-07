@@ -61,6 +61,7 @@
 | Daniel Lee | DanielLee0226 |<https://daniellee0226.github.io/GitHub-Practice-184/>|  
 | Ciara Virgo | cvirgo | <https://cvirgo.github.io/Github-Assignment-1/> | 
 | Taojie Zhang | ZKTZZK | <https://zktzzk.github.io/readme/> |  
+| Gregory Vlass | gregoryvlass12 |<https://gregoryvlass12.github.io/Pratice184/>|  
 
 <br>
 
