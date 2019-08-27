@@ -31,7 +31,7 @@
 
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
-| Jung In Kim | jikim | <https://mdbeckman.github.io/> |  
+| Jung In Kim | jikim413 | <https://mdbeckman.github.io/> |  
 
 <br>
 
