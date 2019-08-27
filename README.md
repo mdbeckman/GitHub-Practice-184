@@ -37,7 +37,7 @@
 
 # Integration of RStudio with Git
 
-- Simplified instructions: [STAT 184 Link](https://mdbeckman.github.io/PSU-STAT-184/2019 Fall/Cheatsheets-Tutorials/Tutorial-Git-Rstudio-Config/GitHub-RSudio-Config.html)  
+- Simplified instructions: Canvas >> STAT 184 >> Files >> GitHub-RStudio-Config.html  
 - More detail if needed: <http://happygitwithr.com/index.html>
 
 
