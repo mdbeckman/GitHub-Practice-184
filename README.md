@@ -31,7 +31,7 @@
 
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
-| Jung In Kim | jikim413 | <https://jikim413.github.io/pw/> |  
+| Jung In Kim | jikim413 | <> |  
 
 <br>
 
