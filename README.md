@@ -31,7 +31,7 @@
 
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
-| Andy Wiesner | AndyWiesner | <https://mdbeckman.github.io/> |  
+| Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
 
 <br>
 
