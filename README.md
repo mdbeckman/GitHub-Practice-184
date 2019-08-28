@@ -14,7 +14,7 @@
     - Find "jikim413" in GitHub and locate the "GitHub-Practice-184" class repo
     - Click on "README.md" >> Edit (pencil icon in upper right)
 - **Add a row** in the table below with your information 
-    - follow the pattern for the vertical bar character (found next to the "]" key)... use the "Matthew Beckman" row as a template
+    - follow the pattern for the vertical bar character (found next to the "]" key)... use the "Jung In Kim" row as a template
     - (2 pts) first & last name  
     - (3 pts) github id  
     - (2 pts) url for GitHub Pages website generated from your GitHub repo (**NOT** a url to the repo itself)
