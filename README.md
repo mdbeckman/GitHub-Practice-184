@@ -19,7 +19,7 @@
     - (3 pts) github id  
     - (2 pts) url for GitHub Pages website generated from your GitHub repo (**NOT** a url to the repo itself)
     - (2 pts) commit your changes and submit pull request   
-            - write a **descriptive** commit message (e.g. "added Matt Beckman to class table")  
+            - write a **descriptive** commit message (e.g. "added Jung In Kim to class table")  
             - click green button "Propose file change" & start pull request  
     - (1 pt) make sure the link works (e.g., wrap url in "<" and ">" to activate link on actual website)  
     - (ungraded) pat yourself on the back
