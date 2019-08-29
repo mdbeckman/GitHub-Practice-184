@@ -33,6 +33,7 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> |  
 | Sashank Baratam | sashankbaratam903 | <https://sashankbaratam903.github.io/practice_repo/> | 
+| Zhixuan Yang | zhixuanyang | <https://zhixuanyang.github.io/stat184/> | 
 <br>
 
 # Integration of RStudio with Git
