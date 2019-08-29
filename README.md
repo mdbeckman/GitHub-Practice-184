@@ -32,6 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
+| Jeffrey Yan | JeffreYan | <https://jeffreyan.github.io/184test/> |  
 
 <br>
 
