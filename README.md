@@ -32,6 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim | jikim413 | <https://jikim413.github.io/> |  
+| Joohwi Lee | telnet2 | <https://telnet2.github.io/> |  
 
 <br>
 
