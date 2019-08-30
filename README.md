@@ -43,6 +43,7 @@
 | Nick Harris |  nickH      |    https://nickylax418.github.io/nickH/|
 | Eric Zhu    | evz5050  | <https://evz5050.github.io/STAT184/> |
 | Xueshi Bai | baixueshi | < https://baixueshi.github.io/readme/.> |
+| Xutao Liu   | Jack5339    | <https://jack5339.github.io/ReadMe/> |  
 
 <br>
 
