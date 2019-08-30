@@ -29,12 +29,12 @@
 
 # Class GitHub Table 
 
-|Name                     |GitHub ID             |website for a GitHub repo                                |  
-|:------------------------|:---------------------|:--------------------------------------------------------|  
-| Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> |  
-| Sashank Baratam | sashankbaratam903 | <https://sashankbaratam903.github.io/practice_repo/> | 
-| Perry Tsang | Voidtex | <https://voidtex.github.io/184Practice/> |
-| Zhixuan Yang | zhixuanyang | <https://zhixuanyang.github.io/stat184/> | 
+|Name               | Class Day/Time    |GitHub ID             |website for a GitHub repo                                |  
+|:------------------|:------------------|:---------------------|:--------------------------------------------------------|  
+| Matthew Beckman   | MWF 10-:10am      | mdbeckman            | <https://mdbeckman.github.io/> |  
+| Sashank Baratam   | MWF 10-:10am      | sashankbaratam903 | <https://sashankbaratam903.github.io/practice_repo/> | 
+| Perry Tsang       | MWF 10-:10am      | Voidtex | <https://voidtex.github.io/184Practice/> |
+| Zhixuan Yang      | MWF 10-:10am      | zhixuanyang | <https://zhixuanyang.github.io/stat184/> | 
 <br>
 
 # Integration of RStudio with Git
