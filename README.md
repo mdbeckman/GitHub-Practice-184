@@ -40,6 +40,7 @@
 | Perry Tsang       | MWF 10:10am    | Voidtex | <https://voidtex.github.io/184Practice/> |
 | Zhixuan Yang      | MWF 10:10am      | zhixuanyang | <https://zhixuanyang.github.io/stat184/> | 
 | Kaleb Swift       | WF 10:10am       | kalebswift           | <https://kalebswift.github.io/GitHub-Practice/> |
+| Rahul Kejriwal    | WF 2:30pm        | rkej                 | <https://rkej.github.io/stat-184-github-practice//>    | 
 <br>
 
 # Integration of RStudio with Git
