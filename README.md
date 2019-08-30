@@ -32,6 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
+| Angelo Kwak  | AngeloJKwak | <https://angelojkwak.github.io/STAT_184_Repo/>|
 
 <br>
 
