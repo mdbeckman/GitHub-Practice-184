@@ -32,7 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
-| Alexis Dorneman | amd505 | <https://amd505.github.io/Stat184Assignment1/>|  
+| Feng Ding | CallMeHyo | <https://callmehyo.github.io/STAT184Assignment1-2nd-try/> |  
 
 <br>
 
