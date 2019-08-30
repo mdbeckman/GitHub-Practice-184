@@ -33,6 +33,7 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
 | Alexis Dorneman | amd505 | <https://amd505.github.io/Stat184Assignment1/>|  
+| Xiaowei Zhu | xxz220 | <https://xxz220.github.io/Stat184-assign/>|
 
 <br>
 
