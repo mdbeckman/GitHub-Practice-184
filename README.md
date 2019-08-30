@@ -18,9 +18,9 @@
     - (2 pts) first & last name  
     - (1 pt)  class day and time
     - (2 pts) github id  
-    - (2 pts) url for GitHub Pages website generated from your GitHub repo
-            - by default it will include "[userID].github.io" at the beginning
-            - it's **NOT** just the URL of the source repo itself
+    - (2 pts) url for GitHub Pages website generated from your GitHub repo  
+            - by default it will include "[userID].github.io" at the beginning  
+            - it's **NOT** just the URL of the source repo itself  
     - (2 pts) commit your changes and submit pull request   
             - write a **descriptive** commit message (e.g. "added Matt Beckman to class table")  
             - click green button "Propose file change" & start pull request  
@@ -40,6 +40,17 @@
 | Perry Tsang       | MWF 10:10am    | Voidtex | <https://voidtex.github.io/184Practice/> |
 | Zhixuan Yang      | MWF 10:10am      | zhixuanyang | <https://zhixuanyang.github.io/stat184/> | 
 | Joseph Sepich     | MWF 10:10 am      | bevvvvv              | <https://bevvvvv.github.io/ExploringData/> |
+| Pavel Sachivichik| MWF 10:10am | Pashka2| <https://pashka2.github.io/Stat184/>|
+| Tianhao Zhao      | MWF 10:10am       |tianhaozhao           |<https://tianhaozhao.github.io/readme/>|  
+| Yirong Fang       | MWF 10:10am       | Yirong-Fang               | <https://yirong-fang.github.io/yqf5128/> |
+| Yichi Zhang       | MWF 10:10am       | yfz5111               | <https://yfz5111.github.io/stat184/> |
+| Grant Hopkins     | MWF 10:10am       | gthopkins            | <https://gthopkins.github.io/Stat184/> |
+| Alexander Kim     | MWF 10:10am       | agkim                | <https://agkim.github.io/stat184/> |
+| Gabriel Berlin    | WF 10:10am    | GBPSU | <https://gbpsu.github.io/FirstRepo/>  |
+| Nicholas Birosik  | WF 10:10 am  | PreferredNerd | <https://preferrednerd.github.io/Stat_184/>|
+| Leah Hunt         | WF 10:10am        | LeahHunt             | <https://leahhunt.github.io/Stat-184/> |
+| Kaleb Swift       | WF 10:10am       | kalebswift           | <https://kalebswift.github.io/GitHub-Practice/> |
+| Rahul Kejriwal    | WF 2:30pm        | rkej                 | <https://rkej.github.io/stat-184-github-practice//>    | 
 <br>
 
 # Integration of RStudio with Git
