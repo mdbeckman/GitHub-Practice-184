@@ -33,6 +33,7 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim | jikim413 | <https://jikim413.github.io/> |  
 | William Ku  | WilliamKuDS | <https://williamkuds.github.io/STAT184_Assignment1/> |
+  Nick Harris   nickH          https://nickylax418.github.io/nickH/
 
 <br>
 
