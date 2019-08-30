@@ -33,7 +33,13 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim | jikim413 | <https://jikim413.github.io/> |  
 | William Ku  | WilliamKuDS | <https://williamkuds.github.io/STAT184_Assignment1/> |
+| Eric Schneider | schneider20 | https://schneider20.github.io/schneider/ |
+| Zachary Beisler | zqb5073 | <https://zqb5073.github.io/STAT184_Assignment1//> |
+| Ben Giles   | bengiles001 | <https://github.com/bengiles001/IST-184-REPO/edit/master/README.md>
+|Kearon Chase |Kearon-Chase | <https://kearon-chase.github.io/stat184/>
+| Sean Klavans | seank22 | <https://seank22.github.io/Stat184Sean/> |
 | David Vondran | DVondran | <https://dvondran.github.io/PSU_GitHub/> |
+
 <br>
 
 # Integration of RStudio with Git
