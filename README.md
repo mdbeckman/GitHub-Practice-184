@@ -31,7 +31,9 @@
 
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
-| Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
+| Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> | 
+
+| Ken Kalbach | kjk290 | <https://kjk290.github.io/Stat184Assignment1/> |
 
 <br>
 
