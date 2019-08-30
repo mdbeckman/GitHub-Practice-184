@@ -39,6 +39,7 @@
 | Sashank Baratam   | MWF 10:10am      | sashankbaratam903 | <https://sashankbaratam903.github.io/practice_repo/> | 
 | Perry Tsang       | MWF 10:10am    | Voidtex | <https://voidtex.github.io/184Practice/> |
 | Zhixuan Yang      | MWF 10:10am      | zhixuanyang | <https://zhixuanyang.github.io/stat184/> | 
+| Chuyue Xie        | MWF 10:10am       | AliceeeX            | <https://aliceeex.github.io/Stat-184-Assignment/> |  
 <br>
 
 # Integration of RStudio with Git
