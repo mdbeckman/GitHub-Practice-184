@@ -39,6 +39,7 @@
 | Sashank Baratam   | MWF 10:10am      | sashankbaratam903 | <https://sashankbaratam903.github.io/practice_repo/> | 
 | Perry Tsang       | MWF 10:10am    | Voidtex | <https://voidtex.github.io/184Practice/> |
 | Zhixuan Yang      | MWF 10:10am      | zhixuanyang | <https://zhixuanyang.github.io/stat184/> | 
+| Pavel Sachivichik| MWF 10:10am | Pashka2| <https://pashka2.github.io/Stat184/>|
 | Tianhao Zhao      | MWF 10:10am       |tianhaozhao           |<https://tianhaozhao.github.io/readme/>|  
 | Yirong Fang       | MWF 10:10am       | Yirong-Fang               | <https://yirong-fang.github.io/yqf5128/> |
 | Yichi Zhang       | MWF 10:10am       | yfz5111               | <https://yfz5111.github.io/stat184/> |
