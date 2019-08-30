@@ -33,7 +33,7 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim | jikim413 | <https://jikim413.github.io/> |  
 | William Ku  | WilliamKuDS | <https://williamkuds.github.io/STAT184_Assignment1/> |
-
+| Masiullah Siddiqui Mohemmed | MasiSidd | https://masisidd.github.io/stat184intro/.
 <br>
 
 # Integration of RStudio with Git
