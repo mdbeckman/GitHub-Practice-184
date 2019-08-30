@@ -41,6 +41,7 @@
 | Zhixuan Yang      | MWF 10:10am      | zhixuanyang | <https://zhixuanyang.github.io/stat184/> | 
 | Grant Hopkins     | MWF 10:10am       | gthopkins            | <https://gthopkins.github.io/Stat184/> |
 | Alexander Kim     | MWF 10:10am       | agkim                | <https://agkim.github.io/stat184/> |
+| Yichi Zhang       | MWF 10:10am       | yfz5111               | <https://yfz5111.github.io/stat184/> |
 <br>
 
 # Integration of RStudio with Git
