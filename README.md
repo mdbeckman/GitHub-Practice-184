@@ -41,6 +41,8 @@
 | David Vondran | DVondran | <https://dvondran.github.io/PSU_GitHub/> |
 | Jacob Adams | jakeisthegoat | <https://jakeisthegoat.github.io/Stat184/> |
 | Nick Harris |  nickH      |    https://nickylax418.github.io/nickH/|
+| Eric Zhu    | evz5050  | <https://evz5050.github.io/STAT184/> |
+
 
 <br>
 
