@@ -32,7 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim | jikim413 | <https://jikim413.github.io/> |  
-| William Ku  | WilliamKuDS | <https://williamkuds.github.io/STAT184_Assignment1/> |
+| Sung Ug Joo  | sungugjoo | https://sungugjoo.github.io/kevin/ |
 
 <br>
 
