@@ -33,7 +33,7 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim | jikim413 | <https://jikim413.github.io/> |  
 | William Ku  | WilliamKuDS | <https://williamkuds.github.io/STAT184_Assignment1/> |
-| Zachary Beisler | zqb5073 | <https://github.com/zqb5073/STAT184_Assignment1/> |
+| Zachary Beisler | zqb5073 | <https://zqb5073.github.io/STAT184_Assignment1//> |
 
 <br>
 
