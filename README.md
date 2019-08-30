@@ -40,6 +40,7 @@
 | Sean Klavans | seank22 | <https://seank22.github.io/Stat184Sean/> |
 | David Vondran | DVondran | <https://dvondran.github.io/PSU_GitHub/> |
 | Jacob Adams | jakeisthegoat | <https://jakeisthegoat.github.io/Stat184/> |
+| Nick Harris |  nickH      |    https://nickylax418.github.io/nickH/|
 
 <br>
 
