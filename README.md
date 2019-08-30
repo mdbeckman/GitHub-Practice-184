@@ -33,7 +33,7 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim | jikim413 | <https://jikim413.github.io/> |  
 | William Ku  | WilliamKuDS | <https://williamkuds.github.io/STAT184_Assignment1/> |
-| Xutao Liu   | Jack5339    | <https://jack5339.github.io/ReadMe/> | 
+| Xutao Liu   | Jack5339    | <https://jack5339.github.io/ReadMe/> |  
 
 <br>
 
