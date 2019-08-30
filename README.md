@@ -36,6 +36,7 @@
 | Eric Schneider | schneider20 | https://schneider20.github.io/schneider/ |
 | Zachary Beisler | zqb5073 | <https://zqb5073.github.io/STAT184_Assignment1//> |
 | Ben Giles   | bengiles001 | <https://github.com/bengiles001/IST-184-REPO/edit/master/README.md>
+|Kearon Chase |Kearon-Chase | <https://kearon-chase.github.io/stat184/>
 
 <br>
 
