@@ -40,6 +40,8 @@
 | Perry Tsang       | MWF 10:10am    | Voidtex | <https://voidtex.github.io/184Practice/> |
 | Zhixuan Yang      | MWF 10:10am      | zhixuanyang | <https://zhixuanyang.github.io/stat184/> | 
 | Tianhao Zhao      | MWF 10:10am       |tianhaozhao           |<https://tianhaozhao.github.io/readme/>|  
+| Grant Hopkins     | MWF 10:10am       | gthopkins            | <https://gthopkins.github.io/Stat184/> |
+| Alexander Kim     | MWF 10:10am       | agkim                | <https://agkim.github.io/stat184/> |
 <br>
 
 # Integration of RStudio with Git
