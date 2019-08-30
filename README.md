@@ -33,6 +33,7 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim | jikim413 | <https://jikim413.github.io/> |  
 | William Ku  | WilliamKuDS | <https://williamkuds.github.io/STAT184_Assignment1/> |
+| Zhuolin Luo | jolin0504 | <https://github.com/jolin0504/JolinRepo1> |
 
 <br>
 
