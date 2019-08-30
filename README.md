@@ -34,6 +34,7 @@
 | Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> |  
 | Sashank Baratam | sashankbaratam903 | <https://sashankbaratam903.github.io/practice_repo/> | 
 | Perry Tsang | Voidtex | <https://voidtex.github.io/184Practice/> |
+| Zhixuan Yang | zhixuanyang | <https://zhixuanyang.github.io/stat184/> | 
 <br>
 
 # Integration of RStudio with Git
