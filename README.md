@@ -33,7 +33,7 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
 | Alexis Dorneman | amd505 | <https://amd505.github.io/Stat184Assignment1/>|  
-
+| Chuzhen Wang | Chuzhen1016 | <https://chuzhen1016.github.io/STAT184Assignment1/> |  
 <br>
 
 # Integration of RStudio with Git
