@@ -32,7 +32,25 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
+patch-1
 | Angelo Kwak  | AngeloJKwak | <https://angelojkwak.github.io/STAT_184_Repo/>|
+=======
+patch-2
+| Jeffrey Yan | JeffreYan | <https://jeffreyan.github.io/Stat184Assignment1/> |  
+
+
+
+ patch-1
+| Jeffrey Yan | JeffreYan | <https://jeffreyan.github.io/184test/> |  
+
+ patch-1
+| Robert Sacks | rmsacks | <https://rmsacks.github.io/stat184> |
+
+| Alexis Dorneman | amd505 | <https://amd505.github.io/Stat184Assignment1/>|  
+ master
+ master
+master
+ master
 
 <br>
 
