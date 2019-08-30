@@ -41,7 +41,7 @@
 | Jeffrey Yan | JeffreYan | <https://jeffreyan.github.io/184test/> |  
 | Robert Sacks | rmsacks | <https://rmsacks.github.io/stat184> |
 | Alexis Dorneman | amd505 | <https://amd505.github.io/Stat184Assignment1/>|  
-
+master
 
 <br>
 
