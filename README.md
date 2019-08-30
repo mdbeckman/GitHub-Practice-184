@@ -29,10 +29,10 @@
 
 # Class GitHub Table 
 
-|Name                     |GitHub ID             |website for a GitHub repo                                |  
+|Name        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
-| Alexis Dorneman | amd505 | <https://amd505.github.io/Stat184Assignment1/>|  
+| Muthu Nagesh | muthu124    | <https://muthu124.github.io/Stat184Assignment/>    |
 
 <br>
 
