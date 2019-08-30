@@ -32,6 +32,9 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
+
+| Calvin Lien | cvl4 | <https://cvl4.github.io/STAT184Assignment1/> |
+=======
 patch-1
 | Angelo Kwak  | AngeloJKwak | <https://angelojkwak.github.io/STAT_184_Repo/>|
 =======
@@ -51,6 +54,7 @@ patch-2
  master
 master
  master
+
 
 <br>
 
