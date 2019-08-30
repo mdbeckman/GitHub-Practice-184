@@ -31,8 +31,8 @@
 
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
-| Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
-| Alexis Dorneman | amd505 | <https://amd505.github.io/Stat184Assignment1/>|  
+| Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> | 
+| Brian Dailey | bdailey15 | | <https://bdailey150.github.io/Stat184/>|
 
 <br>
 
