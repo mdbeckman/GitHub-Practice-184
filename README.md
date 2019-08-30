@@ -44,6 +44,7 @@
 | Yichi Zhang       | MWF 10:10am       | yfz5111               | <https://yfz5111.github.io/stat184/> |
 | Grant Hopkins     | MWF 10:10am       | gthopkins            | <https://gthopkins.github.io/Stat184/> |
 | Alexander Kim     | MWF 10:10am       | agkim                | <https://agkim.github.io/stat184/> |
+| Gabriel Berlin    | WF 10:10am    | GBPSU | <https://gbpsu.github.io/FirstRepo/>  |
 | Nicholas Birosik  | WF 10:10 am  | PreferredNerd | <https://preferrednerd.github.io/Stat_184/>|
 | Leah Hunt         | WF 10:10am        | LeahHunt             | <https://leahhunt.github.io/Stat-184/> |
 | Kaleb Swift       | WF 10:10am       | kalebswift           | <https://kalebswift.github.io/GitHub-Practice/> |
