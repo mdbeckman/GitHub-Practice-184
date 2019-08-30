@@ -51,7 +51,8 @@
 | Kaleb Swift       | WF 10:10am       | kalebswift           | <https://kalebswift.github.io/GitHub-Practice/> |
 | Pranay Gudur       | WF 2:30PM        | pranaygudur          | https://pranaygudur.github.io/Stat184Git/ | 
 | Rahul Kejriwal    | WF 2:30pm        | rkej                 | <https://rkej.github.io/stat-184-github-practice//>    | 
-| Sreeram Aleti      | WF 2:30pm        | SreeramAleti         | <https://sreeramaleti.github.io/Stat184-github/> |   
+| Sreeram Aleti      | WF 2:30pm        | SreeramAleti         | <https://sreeramaleti.github.io/Stat184-github/> |
+| Candace Todd      | WF 2:30pm         | CLTodd               | <https://cltodd.github.io/Repo1/> |
 <br>
 
 # Integration of RStudio with Git
