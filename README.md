@@ -38,6 +38,7 @@
 | Ben Giles   | bengiles001 | <https://github.com/bengiles001/IST-184-REPO/edit/master/README.md>
 |Kearon Chase |Kearon-Chase | <https://kearon-chase.github.io/stat184/>
 | Sean Klavans | seank22 | <https://seank22.github.io/Stat184Sean/> |
+| David Vondran | DVondran | <https://dvondran.github.io/PSU_GitHub/> |
 
 <br>
 
