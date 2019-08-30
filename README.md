@@ -39,7 +39,7 @@
 | Sashank Baratam   | MWF 10:10am      | sashankbaratam903 | <https://sashankbaratam903.github.io/practice_repo/> | 
 | Perry Tsang       | MWF 10:10am    | Voidtex | <https://voidtex.github.io/184Practice/> |
 | Zhixuan Yang      | MWF 10:10am      | zhixuanyang | <https://zhixuanyang.github.io/stat184/> | 
- patch-1
+| Yichi Zhang       | MWF 10:10am       | yfz5111               | <https://yfz5111.github.io/stat184/> |
 | Grant Hopkins     | MWF 10:10am       | gthopkins            | <https://gthopkins.github.io/Stat184/> |
 | Alexander Kim     | MWF 10:10am       | agkim                | <https://agkim.github.io/stat184/> |
 | Leah Hunt         | WF 10:10am        | LeahHunt             | <https://leahhunt.github.io/Stat-184/> |
