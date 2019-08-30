@@ -31,7 +31,7 @@
 
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
-| Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
+| Zhengyan Yuan | zqy5133 | https://zqy5133.github.io/stat184assignment1/ |  
 
 <br>
 
