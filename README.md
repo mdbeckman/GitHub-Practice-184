@@ -45,6 +45,7 @@
 | Xueshi Bai | baixueshi | < https://baixueshi.github.io/readme/.> |
 | Xutao Liu   | Jack5339    | <https://jack5339.github.io/ReadMe/> |  
 | Himaja Kakumani | 17hkakumani | <https://17hkakumani.github.io/Stat184/> |
+| Ian Kwon    | iankwon23 | <https://github.com/iankwon23/stat184> |
 
 <br>
 
