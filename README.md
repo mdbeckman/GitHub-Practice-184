@@ -35,6 +35,7 @@
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> | 
 | Ken Kalbach | kjk290 | <https://kjk290.github.io/Stat184Assignment1/> |
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
+| Alexis Dorneman | amd505 | https://amd505.github.io/Stat184Assignment1/ |
 | Jaehoon Ha | gkwogns95 | <https://gkwogns95.github.io/Stat184Assignment1/> |
 | Nelson Huang | nelson1998  | <https://nelson1998.github.io/STAT184Assignment1/> |
 | Calvin Lien | cvl4 | <https://cvl4.github.io/STAT184Assignment1/> |
@@ -43,6 +44,7 @@
 | Jeffrey Yan | JeffreYan | <https://jeffreyan.github.io/184test/> |  
 | Robert Sacks | rmsacks | <https://rmsacks.github.io/stat184> |
 | Alexis Dorneman | amd505 | <https://amd505.github.io/Stat184Assignment1/>|  
+
 
 
 
