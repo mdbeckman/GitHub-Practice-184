@@ -29,7 +29,7 @@
 
 # Class GitHub Table 
 
-|Name                     |GitHub ID             |website for a GitHub repo                                |  
+|Name        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 
 | Zhengyan Yuan | zqy5133 | https://zqy5133.github.io/stat184assignment1/ |  
@@ -38,6 +38,7 @@
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> | 
 | Ken Kalbach | kjk290 | <https://kjk290.github.io/Stat184Assignment1/> |
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
+| Muthu Nagesh | muthu124    | <https://muthu124.github.io/Stat184Assignment/>    |
 | Luke Morris  | lmm6229  |  <https://lmm6229.github.io/Stat184assignment1/> |
 | Alexis Dorneman | amd505 | <https://amd505.github.io/Stat184Assignment1/>|  
 | Xiaowei Zhu | xxz220 | <https://xxz220.github.io/Stat184-assign/>|
