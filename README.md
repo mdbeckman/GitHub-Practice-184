@@ -44,6 +44,7 @@
 | Muthu Nagesh | muthu124    | <https://muthu124.github.io/Stat184Assignment/>    |
 | Luke Morris  | lmm6229  |  <https://lmm6229.github.io/Stat184assignment1/> |
 | Alexis Dorneman | amd505 | <https://amd505.github.io/Stat184Assignment1/>|  
+| Chuzhen Wang | Chuzhen1016 | <https://chuzhen1016.github.io/STAT184Assignment1/> |  
 | Xiaowei Zhu | xxz220 | <https://xxz220.github.io/Stat184-assign/>|
 | Feng Ding | CallMeHyo | <https://callmehyo.github.io/STAT184Assignment1-2nd-try/> |  
 | Josue Perez Gomez | jochuchemon7 | <https://jochuchemon7.github.io/GitHubAssignment/> |
@@ -55,6 +56,7 @@
 | Jeffrey Yan | JeffreyYan | <https://jeffreyan.github.io/184test/> |  
 | Robert Sacks | rmsacks | <https://rmsacks.github.io/stat184/> |
 | Alexis Dorneman | amd505 | <https://amd505.github.io/Stat184Assignment1/> |  
+
 
 
 
