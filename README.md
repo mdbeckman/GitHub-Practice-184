@@ -32,6 +32,8 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 
+| Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |
+| Aaron Schlegel | acs5844 | <https://acs5844.github.io/Stat184Contents/> |
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> | 
 | Ken Kalbach | kjk290 | <https://kjk290.github.io/Stat184Assignment1/> |
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
