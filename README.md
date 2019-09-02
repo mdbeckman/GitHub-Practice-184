@@ -31,8 +31,24 @@
 
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
+
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |
 | Aaron Schlegel | acs5844 | <https://acs5844.github.io/Stat184Contents/> |
+| Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> | 
+| Ken Kalbach | kjk290 | <https://kjk290.github.io/Stat184Assignment1/> |
+| Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
+| Josue Perez Gomez | jochuchemon7 | <https://jochuchemon7.github.io/GitHubAssignment/> |
+| Alexis Dorneman | amd505 | <https://amd505.github.io/Stat184Assignment1/> |
+| Jaehoon Ha | gkwogns95 | <https://gkwogns95.github.io/Stat184Assignment1/> |
+| Nelson Huang | nelson1998 | <https://nelson1998.github.io/STAT184Assignment1/> |
+| Calvin Lien | cvl4 | <https://cvl4.github.io/STAT184Assignment1/> |
+| Angelo Kwak  | AngeloJKwak | <https://angelojkwak.github.io/STAT_184_Repo/> |  
+| Jeffrey Yan | JeffreyYan | <https://jeffreyan.github.io/184test/> |  
+| Robert Sacks | rmsacks | <https://rmsacks.github.io/stat184/> |
+| Alexis Dorneman | amd505 | <https://amd505.github.io/Stat184Assignment1/> |  
+
+
+
 
 <br>
 
