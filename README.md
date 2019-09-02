@@ -32,6 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 
+| Zhengyan Yuan | zqy5133 | https://zqy5133.github.io/stat184assignment1/ |  
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |
 | Aaron Schlegel | acs5844 | <https://acs5844.github.io/Stat184Contents/> |
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> | 
@@ -47,8 +48,6 @@
 | Jeffrey Yan | JeffreyYan | <https://jeffreyan.github.io/184test/> |  
 | Robert Sacks | rmsacks | <https://rmsacks.github.io/stat184/> |
 | Alexis Dorneman | amd505 | <https://amd505.github.io/Stat184Assignment1/> |  
-
-
 
 
 
