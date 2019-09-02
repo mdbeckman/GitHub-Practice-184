@@ -40,6 +40,7 @@
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> | 
 | Ken Kalbach | kjk290 | <https://kjk290.github.io/Stat184Assignment1/> |
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
+| Zhefeng He | zhefenghe | <https://zhefenghe.github.io/readme/> |  
 | Muthu Nagesh | muthu124    | <https://muthu124.github.io/Stat184Assignment/>    |
 | Luke Morris  | lmm6229  |  <https://lmm6229.github.io/Stat184assignment1/> |
 | Alexis Dorneman | amd505 | <https://amd505.github.io/Stat184Assignment1/>|  
@@ -58,6 +59,7 @@
 
 
 <br>
+
 
 # Integration of RStudio with Git
 
