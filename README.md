@@ -42,7 +42,7 @@
 | Pavel Sachivichik| MWF 10:10am | Pashka2| <https://pashka2.github.io/Stat184/>|
 | Tianhao Zhao      | MWF 10:10am       |tianhaozhao           |<https://tianhaozhao.github.io/readme/>|  
 | Yirong Fang       | MWF 10:10am       | Yirong-Fang               | <https://yirong-fang.github.io/yqf5128/> |
-| Yichi Zhang       | MWF 10:10am       | yfz5111               | <https://yfz5111.github.io/stat184/> |
+| Yichi Zhang       | MWF 10:10am       | yfz5111               | <https://yfz5111.github.io/yfz5111/> |
 | Grant Hopkins     | MWF 10:10am       | gthopkins            | <https://gthopkins.github.io/Stat184/> |
 | Alexander Kim     | MWF 10:10am       | agkim                | <https://agkim.github.io/stat184/> |
 | Gabriel Berlin    | WF 10:10am    | GBPSU | <https://gbpsu.github.io/FirstRepo/>  |   
