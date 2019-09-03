@@ -49,6 +49,7 @@
 | Nicholas Birosik  | WF 10:10 am  | PreferredNerd | <https://preferrednerd.github.io/Stat_184/>|
 | Leah Hunt         | WF 10:10am        | LeahHunt             | <https://leahhunt.github.io/Stat-184/> |
 | Kaleb Swift       | WF 10:10am       | kalebswift           | <https://kalebswift.github.io/GitHub-Practice/> |
+| Julian Sim        | WF 2:30pm        | juliansim1729        | <https://juliansim1729.github.io/Stat-184-Pages/>    |
 | Benjamin Crooks   | MWF 2:30pm       | benjamincrooks            | <https://benjamincrooks.github.io/STAT184/>    |
 | Rahul Kejriwal    | WF 2:30pm        | rkej                 | <https://rkej.github.io/stat-184-github-practice//>    | 
 | Sreekar Etikyala  | WF 2:30pm        | SreekarEtikyala      | <https://sreekaretikyala.github.io/Practice/>   |
