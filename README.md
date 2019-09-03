@@ -49,11 +49,13 @@
 | Nicholas Birosik  | WF 10:10 am  | PreferredNerd | <https://preferrednerd.github.io/Stat_184/>|
 | Leah Hunt         | WF 10:10am        | LeahHunt             | <https://leahhunt.github.io/Stat-184/> |
 | Kaleb Swift       | WF 10:10am       | kalebswift           | <https://kalebswift.github.io/GitHub-Practice/> |
+| Benjamin Crooks   | MWF 2:30pm       | benjamincrooks            | <https://benjamincrooks.github.io/STAT184/>    |
 | Rahul Kejriwal    | WF 2:30pm        | rkej                 | <https://rkej.github.io/stat-184-github-practice//>    | 
 | Sreekar Etikyala  | WF 2:30pm        | SreekarEtikyala      | <https://sreekaretikyala.github.io/Practice/>   |
 | Sreeram Aleti      | WF 2:30pm        | SreeramAleti         | <https://sreeramaleti.github.io/Stat184-github/> |   
 | Julia Trigg       | WF 10:10am        | jvtrigg              | <https://jvtrigg.github.io/Stat-184/ |
 | Xijia Luo         | WF 2:30pm        | Jack557557            | <https://Jack557557.github.io/Stat184-github/> | 
+
 <br>
 
 # Integration of RStudio with Git
