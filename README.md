@@ -88,7 +88,9 @@
 | Lingtao Zeng      | WF 2:30pm        | LingtaoZeng         | <https://lingtaozeng.github.io/stat184/> |
 | Lydia Bednarczyk   | WF 2:30PM       |  lbednarczyk          | <https://lbednarczyk.github.io/Practicerepo/>
 | Julia Trigg       | WF 10:10am        | jvtrigg              | <https://jvtrigg.github.io/Stat-184/ |
-| Xijia Luo         | WF 2:30pm        | Jack557557            | <https://Jack557557.github.io/Stat184-github/> | 
+| Xijia Luo       | WF 2:30pm        | Jack557557            | <https://Jack557557.github.io/Stat184-github/> |
+| Aman Arora        | WF 2:30pm       | AmanArora123          | https://amanarora123.github.io/Readme/
+
 
 
 <br>
