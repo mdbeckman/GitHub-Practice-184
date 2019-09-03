@@ -89,7 +89,7 @@
 | Lydia Bednarczyk   | WF 2:30PM       |  lbednarczyk          | <https://lbednarczyk.github.io/Practicerepo/>
 | Julia Trigg       | WF 10:10am        | jvtrigg              | <https://jvtrigg.github.io/Stat-184/ |
 | Xijia Luo         | WF 2:30pm        | Jack557557            | <https://Jack557557.github.io/Stat184-github/> | 
-| Kritika Senthil   | WF 10:10am       | KritiSenthil          |https://github.com/KritiSenthil/Assignment-1.git |
+| Kritika Senthil   | WF 10:10am       | KritiSenthil          |<https://github.com/KritiSenthil/Assignment-1.git> |
 <br>
 
 # Integration of RStudio with Git
