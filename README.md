@@ -39,6 +39,7 @@
 | Sashank Baratam   | MWF 10:10am      | sashankbaratam903 | <https://sashankbaratam903.github.io/practice_repo/> | 
 | Perry Tsang       | MWF 10:10am    | Voidtex | <https://voidtex.github.io/184Practice/> |
 | Zhixuan Yang      | MWF 10:10am      | zhixuanyang | <https://zhixuanyang.github.io/stat184/> | 
+| Joseph Sepich     | MWF 10:10 am      | bevvvvv              | <https://bevvvvv.github.io/ExploringData/> |
 | Maura Jaeger      | MWF 10:10am       | maurajaeger          | <https://maurajaeger.github.io/stat184/> |
 | J Haubrick      | MWF 10:10am      | jbrick55 | <https://jbrick55.github.io/practice/> |
 | Makayla Ashe      | WF 10:10am       | makaylaashe           | https://makaylaashe.github.io/Stat-184-Assignment-1/
