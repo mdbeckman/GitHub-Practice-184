@@ -71,6 +71,7 @@
 | Rahul Kejriwal    | WF 2:30pm        | rkej                 | <https://rkej.github.io/stat-184-github-practice//>    | 
 | Sreekar Etikyala  | WF 2:30pm        | SreekarEtikyala      | <https://sreekaretikyala.github.io/Practice/>   |
 | Sreeram Aleti      | WF 2:30pm        | SreeramAleti         | <https://sreeramaleti.github.io/Stat184-github/> |   
+| Lingtao Zeng      | WF 2:30pm        | LingtaoZeng         | <https://lingtaozeng.github.io/stat184/> |
 | Lydia Bednarczyk   | WF 2:30PM       |  lbednarczyk          | <https://lbednarczyk.github.io/Practicerepo/>
 | Julia Trigg       | WF 10:10am        | jvtrigg              | <https://jvtrigg.github.io/Stat-184/ |
 | Xijia Luo         | WF 2:30pm        | Jack557557            | <https://Jack557557.github.io/Stat184-github/> | 
