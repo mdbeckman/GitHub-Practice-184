@@ -76,6 +76,7 @@
 | Rahul Kejriwal    | WF 2:30pm        | rkej                 | <https://rkej.github.io/stat-184-github-practice//>    | 
 | Sreekar Etikyala  | WF 2:30pm        | SreekarEtikyala      | <https://sreekaretikyala.github.io/Practice/>   |
 | Sreeram Aleti      | WF 2:30pm        | SreeramAleti         | <https://sreeramaleti.github.io/Stat184-github/> |   
+| Drew Eddy         | WF 2:30pm         | dpe5068              | <https://dpe5068.github.io/GitHub-Assignment-1/> |
 | Shravani Samala   | WF 2:30pm         | shravanisamala       | <https://shravanisamala.github.io/Stat-184-GitHub-Practice/ > |
 | Ruwen Yang        | WF 2:30pm        |Ruwen2001         |  <https://ruwen2001.github.io/Ruwen/> |   
 | Yingduo Luo.      | WF 10:10am.      | Yingduoluo.          | <https://yingduoluo.github.io/readmePractice/>   |
@@ -83,6 +84,7 @@
 | Lydia Bednarczyk   | WF 2:30PM       |  lbednarczyk          | <https://lbednarczyk.github.io/Practicerepo/>
 | Julia Trigg       | WF 10:10am        | jvtrigg              | <https://jvtrigg.github.io/Stat-184/ |
 | Xijia Luo         | WF 2:30pm        | Jack557557            | <https://Jack557557.github.io/Stat184-github/> | 
+
 
 <br>
 
