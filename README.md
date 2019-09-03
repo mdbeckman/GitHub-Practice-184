@@ -52,6 +52,7 @@
 | Pranay Gudur       | WF 2:30PM        | pranaygudur          | https://pranaygudur.github.io/Stat184Git/ | 
 | Rahul Kejriwal    | WF 2:30pm        | rkej                 | <https://rkej.github.io/stat-184-github-practice//>    | 
 | Sreeram Aleti      | WF 2:30pm        | SreeramAleti         | <https://sreeramaleti.github.io/Stat184-github/> |   
+| Julia Trigg       | WF 10:10am        | jvtrigg              | <https://jvtrigg.github.io/Stat-184/ |
 <br>
 
 # Integration of RStudio with Git
