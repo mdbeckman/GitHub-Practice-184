@@ -58,6 +58,7 @@
 | Leah Hunt         | WF 10:10am        | LeahHunt             | <https://leahhunt.github.io/Stat-184/> |
 | Kaleb Swift       | WF 10:10am       | kalebswift           | <https://kalebswift.github.io/GitHub-Practice/> |
 | Rahul Kejriwal    | WF 2:30pm        | rkej                 | <https://rkej.github.io/stat-184-github-practice//>    | 
+| Yihua Huang       | WF 10:10am        | yihuahuang1          | <https://yihuahuang1.github.io/STAT184/>   |
 | Miza Syafiqah      | WF 2:30pm        | mizazot         | <https://mizazot.github.io/practice/> |
 | Bella Santori     | WF 2:30 pm        | bellasantori         | <https://bellasantori.github.io/Stat-184/> |
 | Phichchaya Sutaporn      | WF 2:30pm        | phichchaya         | <https://phichchaya.github.io/assignment1/> |  
