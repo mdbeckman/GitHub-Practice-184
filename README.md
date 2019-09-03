@@ -76,6 +76,7 @@
 | Rahul Kejriwal    | WF 2:30pm        | rkej                 | <https://rkej.github.io/stat-184-github-practice//>    | 
 | Sreekar Etikyala  | WF 2:30pm        | SreekarEtikyala      | <https://sreekaretikyala.github.io/Practice/>   |
 | Sreeram Aleti      | WF 2:30pm        | SreeramAleti         | <https://sreeramaleti.github.io/Stat184-github/> |   
+| Ruohan Bao        | WF 10:10am        | clairebao619         | <https://clairebao619.github.io/STAT184/> |  
 | Drew Eddy         | WF 2:30pm         | dpe5068              | <https://dpe5068.github.io/GitHub-Assignment-1/> |
 | Shravani Samala   | WF 2:30pm         | shravanisamala       | <https://shravanisamala.github.io/Stat-184-GitHub-Practice/ > |
 | Ruwen Yang        | WF 2:30pm        |Ruwen2001         |  <https://ruwen2001.github.io/Ruwen/> |   
