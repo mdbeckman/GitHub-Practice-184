@@ -18,9 +18,9 @@
     - (2 pts) first & last name  
     - (1 pt)  class day and time
     - (2 pts) github id  
-    - (2 pts) url for GitHub Pages website generated from your GitHub repo
-            - by default it will include "[userID].github.io" at the beginning
-            - it's **NOT** just the URL of the source repo itself
+    - (2 pts) url for GitHub Pages website generated from your GitHub repo  
+            - by default it will include "[userID].github.io" at the beginning  
+            - it's **NOT** just the URL of the source repo itself  
     - (2 pts) commit your changes and submit pull request   
             - write a **descriptive** commit message (e.g. "added Matt Beckman to class table")  
             - click green button "Propose file change" & start pull request  
@@ -40,6 +40,29 @@
 | Perry Tsang       | MWF 10:10am    | Voidtex | <https://voidtex.github.io/184Practice/> |
 | Zhixuan Yang      | MWF 10:10am      | zhixuanyang | <https://zhixuanyang.github.io/stat184/> | 
 | J Haubrick      | MWF 10:10am      | jbrick55 | <https://jbrick55.github.io/practice/> |
+| Makayla Ashe      | WF 10:10am       | makaylaashe           | https://makaylaashe.github.io/Stat-184-Assignment-1/
+| Chuyue Xie        | MWF 10:10am       | AliceeeX            | <https://aliceeex.github.io/Stat-184-Assignment/> |  
+| Andrew Rost       | MWF 10:10am       | andyrost             | <https://andyrost.github.io/stat184/> |
+| David Weiss       | MWF 10:10am      | dhweiss99 | <https://dhweiss99.github.io/dweisspractice/>| 
+| Austin Huber      | MWF 10:10am       | austinhubs           | <https://austinhubs.github.io/184Repo/> |
+| Pavel Sachivichik| MWF 10:10am | Pashka2| <https://pashka2.github.io/Stat184/>|
+| Tianhao Zhao      | MWF 10:10am       |tianhaozhao           |<https://tianhaozhao.github.io/readme/>|  
+| Yirong Fang       | MWF 10:10am       | Yirong-Fang               | <https://yirong-fang.github.io/yqf5128/> |
+| Yichi Zhang       | MWF 10:10am       | yfz5111               | <https://yfz5111.github.io/stat184/> |
+| Grant Hopkins     | MWF 10:10am       | gthopkins            | <https://gthopkins.github.io/Stat184/> |
+| Alexander Kim     | MWF 10:10am       | agkim                | <https://agkim.github.io/stat184/> |
+| Gabriel Berlin    | WF 10:10am    | GBPSU | <https://gbpsu.github.io/FirstRepo/>  |
+| Nicholas Birosik  | WF 10:10 am  | PreferredNerd | <https://preferrednerd.github.io/Stat_184/>|
+| Leah Hunt         | WF 10:10am        | LeahHunt             | <https://leahhunt.github.io/Stat-184/> |
+| Kaleb Swift       | WF 10:10am       | kalebswift           | <https://kalebswift.github.io/GitHub-Practice/> |
+| Julian Sim        | WF 2:30pm        | juliansim1729        | <https://juliansim1729.github.io/Stat-184-Pages/>    |
+| Benjamin Crooks   | MWF 2:30pm       | benjamincrooks            | <https://benjamincrooks.github.io/STAT184/>    |
+| Rahul Kejriwal    | WF 2:30pm        | rkej                 | <https://rkej.github.io/stat-184-github-practice//>    | 
+| Sreekar Etikyala  | WF 2:30pm        | SreekarEtikyala      | <https://sreekaretikyala.github.io/Practice/>   |
+| Sreeram Aleti      | WF 2:30pm        | SreeramAleti         | <https://sreeramaleti.github.io/Stat184-github/> |   
+| Julia Trigg       | WF 10:10am        | jvtrigg              | <https://jvtrigg.github.io/Stat-184/ |
+| Xijia Luo         | WF 2:30pm        | Jack557557            | <https://Jack557557.github.io/Stat184-github/> | 
+
 <br>
 
 # Integration of RStudio with Git
