@@ -58,6 +58,7 @@
 | Leah Hunt         | WF 10:10am        | LeahHunt             | <https://leahhunt.github.io/Stat-184/> |
 | Kaleb Swift       | WF 10:10am       | kalebswift           | <https://kalebswift.github.io/GitHub-Practice/> |
 | Rahul Kejriwal    | WF 2:30pm        | rkej                 | <https://rkej.github.io/stat-184-github-practice//>    | 
+| Anmolika Singh    | WF 12:30pm      | Anmolikasingh       | < https://anmolikasingh.github.io/stat184/>  |
 | Sandra Thomas     | WF 2:30pm         |sandraathomas        |<https://sandraathomas.github.io/Stat-184-Github-Practice-/> "added Sandra Thomas to the class table for Stat184" |
 | Zinuo Jia         | WF 10:10am        | ZinuoJia             | <https://zinuojia.github.io/stat184/> |
 | Yihua Huang       | WF 10:10am        | yihuahuang1          | <https://yihuahuang1.github.io/STAT184/>   |
