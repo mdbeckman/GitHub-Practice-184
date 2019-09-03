@@ -39,6 +39,7 @@
 | Sashank Baratam   | MWF 10:10am      | sashankbaratam903 | <https://sashankbaratam903.github.io/practice_repo/> | 
 | Perry Tsang       | MWF 10:10am    | Voidtex | <https://voidtex.github.io/184Practice/> |
 | Zhixuan Yang      | MWF 10:10am      | zhixuanyang | <https://zhixuanyang.github.io/stat184/> | 
+| Andrew Rost       | MWF 10:10am       | andyrost             | <https://andyrost.github.io/stat184/> |
 | David Weiss       | MWF 10:10am      | dhweiss99 | <https://dhweiss99.github.io/dweisspractice/>| 
 | Austin Huber      | MWF 10:10am       | austinhubs           | <https://austinhubs.github.io/184Repo/> |
 | Pavel Sachivichik| MWF 10:10am | Pashka2| <https://pashka2.github.io/Stat184/>|
