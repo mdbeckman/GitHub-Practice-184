@@ -46,6 +46,7 @@
 | Xutao Liu   | Jack5339    | <https://jack5339.github.io/ReadMe/> |  
 | Himaja Kakumani | 17hkakumani | <https://17hkakumani.github.io/Stat184/> |
 | Ian Kwon    | iankwon23 | <https://iankwon23.github.io/stat184/> |
+| Medha Deeptimahanti | mkd5443 | https://mkd5443.github.io/Medha_Deeptimahanti/ |
 
 <br>
 
