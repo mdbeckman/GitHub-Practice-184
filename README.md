@@ -90,6 +90,7 @@
 | Julia Trigg       | WF 10:10am        | jvtrigg              | <https://jvtrigg.github.io/Stat-184/ |
 | Aman Arora        | WF 2:30pm       | AmanArora123          | https://amanarora123.github.io/Readme/
 | Xijia Luo         | WF 2:30pm        | Jack557557            | <https://Jack557557.github.io/Stat184-github/> | 
+| Qiaoying Chen     | WF 2:30PM        | oliviaqiaoying .      | <https://oliviaqiaoying.github.io/readme/>     |
 | Xuanting Dong     | WF 10:10am       | Xuanting67            | <https://xuanting67.github.io/Stat184-github/> |
 | Andrew Baak       | WF 10:10 am      | andrewbaak            | <https://andrewbaak.github.io/GithubLab1/>     |
 | Zhiyang Liang     | WF 10:10am        | liangzy18         | <https://liangzy18.github.io/stat_184/> |  
