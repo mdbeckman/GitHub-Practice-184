@@ -1,4 +1,4 @@
-Keenan Harleston (kah6025) 
+ 
 # GitHub Pages Assignment
 
 **(10 pts) Assignment Instructions**
