@@ -88,10 +88,13 @@
 | Lingtao Zeng      | WF 2:30pm        | LingtaoZeng         | <https://lingtaozeng.github.io/stat184/> |
 | Lydia Bednarczyk   | WF 2:30PM       |  lbednarczyk          | <https://lbednarczyk.github.io/Practicerepo/>
 | Julia Trigg       | WF 10:10am        | jvtrigg              | <https://jvtrigg.github.io/Stat-184/ |
-| Xijia Luo       | WF 2:30pm        | Jack557557            | <https://Jack557557.github.io/Stat184-github/> |
 | Aman Arora        | WF 2:30pm       | AmanArora123          | https://amanarora123.github.io/Readme/
-
-
+| Xijia Luo         | WF 2:30pm        | Jack557557            | <https://Jack557557.github.io/Stat184-github/> | 
+| Andrew Baak       | WF 10:10 am      | andrewbaak            | <https://andrewbaak.github.io/GithubLab1/>     |
+| Zhiyang Liang     | WF 10:10am        | liangzy18         | <https://liangzy18.github.io/stat_184/> |  
+| Kritika Senthil   | WF 10:10am       | KritiSenthil          |<https://github.com/KritiSenthil/Assignment-1.git> |
+| Hexi Pan          | WF 10:10am       | hpp5079               | <https://hpp5079.github.io/readme/> |
+| Xuefei Wang       | WF 2:30pm        | xvwang412             | <https://xvwang412.github.io/Stat_184-Readme/> |
 
 <br>
 
