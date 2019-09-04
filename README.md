@@ -46,7 +46,7 @@
 | Xutao Liu   | Jack5339    | <https://jack5339.github.io/ReadMe/> |  
 | Himaja Kakumani | 17hkakumani | <https://17hkakumani.github.io/Stat184/> |
 | Ian Kwon    | iankwon23 | <https://iankwon23.github.io/stat184/> |
-
+| Madison Novak | maddienovak | <https://maddienovak.github.io/MaddieNovakREADME/> |  
 <br>
 
 # Integration of RStudio with Git
