@@ -90,6 +90,8 @@
 | Julia Trigg       | WF 10:10am        | jvtrigg              | <https://jvtrigg.github.io/Stat-184/ |
 | Xijia Luo         | WF 2:30pm        | Jack557557            | <https://Jack557557.github.io/Stat184-github/> | 
 | Hexi Pan          | WF 10:10am       | hpp5079               | <https://hpp5079.github.io/readme/> |
+| Xuefei Wang       | WF 2:30pm        | xvwang412             | <https://xvwang412.github.io/Stat_184-Readme/> |
+
 <br>
 
 # Integration of RStudio with Git
