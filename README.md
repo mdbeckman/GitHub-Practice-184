@@ -33,6 +33,7 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim | jikim413 | <https://jikim413.github.io/> |  
 | William Ku  | WilliamKuDS | <https://williamkuds.github.io/STAT184_Assignment1/> |
+| Wenyu Yang  | wzy5092 | <https://wzy5092.github.io/wzy5092/> |
 
 <br>
 
