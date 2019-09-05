@@ -49,6 +49,7 @@
 | Madison Novak | maddienovak | <https://maddienovak.github.io/MaddieNovakREADME/> |  
 | Sung Ug Joo  | sungugjoo | https://sungugjoo.github.io/kevin/ |
 | Zian Wang  | XanWang | <https://xanwang.github.io/STAT184XAN/> |
+| Wenyu Yang  | wzy5092 | <https://wzy5092.github.io/wzy5092/> |
 
 <br>
 
