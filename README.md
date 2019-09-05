@@ -52,6 +52,7 @@
 | Wenyu Yang  | wzy5092 | <https://wzy5092.github.io/wzy5092/> |
 | Masiullah Siddiqui Mohemmed | MasiSidd | https://masisidd.github.io/stat184intro/.
 | Collin Cicconi | collincicconi |  https://collincicconi.github.io/hello-world/ |
+| Medha Deeptimahanti | mkd5443 | https://mkd5443.github.io/Medha_Deeptimahanti/ |
 
 <br>
 
