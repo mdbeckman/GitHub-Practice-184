@@ -51,6 +51,7 @@
 | Zian Wang  | XanWang | <https://xanwang.github.io/STAT184XAN/> |
 | Wenyu Yang  | wzy5092 | <https://wzy5092.github.io/wzy5092/> |
 | Masiullah Siddiqui Mohemmed | MasiSidd | https://masisidd.github.io/stat184intro/.
+| Collin Cicconi | collincicconi |  https://collincicconi.github.io/hello-world/ |
 
 <br>
 
