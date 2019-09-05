@@ -98,6 +98,7 @@
 | Hexi Pan          | WF 10:10am       | hpp5079               | <https://hpp5079.github.io/readme/> |
 | Xuefei Wang       | WF 2:30pm        | xvwang412             | <https://xvwang412.github.io/Stat_184-Readme/> |
 | Tristan Zanowic   | WF 2:30pm        | tzanowic              | <https://tzanowic.github.io/Stat184Assign/>
+| Elizabeth Giacobe | MWF 2:30pm       | ejgiacobe             |   https://ejgiacobe.github.io/  |
 
 <br>
 
