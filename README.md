@@ -46,6 +46,8 @@
 | Xutao Liu   | Jack5339    | <https://jack5339.github.io/ReadMe/> |  
 | Himaja Kakumani | 17hkakumani | <https://17hkakumani.github.io/Stat184/> |
 | Ian Kwon    | iankwon23 | <https://iankwon23.github.io/stat184/> |
+| Sahith Kumar Bandari   | Sahithb2000 | https://sahithb2000.github.io/stat184/ |
+ 
 
 <br>
 
