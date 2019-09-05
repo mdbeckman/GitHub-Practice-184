@@ -48,6 +48,7 @@
 | Ian Kwon    | iankwon23 | <https://iankwon23.github.io/stat184/> |
 | Madison Novak | maddienovak | <https://maddienovak.github.io/MaddieNovakREADME/> |  
 | Sung Ug Joo  | sungugjoo | https://sungugjoo.github.io/kevin/ |
+| Zian Wang  | XanWang | <https://xanwang.github.io/STAT184XAN/> |
 
 <br>
 
