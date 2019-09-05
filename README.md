@@ -1,4 +1,4 @@
-
+ 
 # GitHub Pages Assignment
 
 **(10 pts) Assignment Instructions**
@@ -54,6 +54,7 @@
 | Collin Cicconi | collincicconi |  https://collincicconi.github.io/hello-world/ |
 | Medha Deeptimahanti | mkd5443 | https://mkd5443.github.io/Medha_Deeptimahanti/ |
 | Zhuolin Luo | jolin0504 | <https://jolin0504.github.io/JolinRepo1/> |
+|Keenan Harleston |kah6025-psu|<https://kah6025-psu.github.io/stat184/>|
 
 <br>
 
