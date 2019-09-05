@@ -46,6 +46,14 @@
 | Xutao Liu   | Jack5339    | <https://jack5339.github.io/ReadMe/> |  
 | Himaja Kakumani | 17hkakumani | <https://17hkakumani.github.io/Stat184/> |
 | Ian Kwon    | iankwon23 | <https://iankwon23.github.io/stat184/> |
+| Madison Novak | maddienovak | <https://maddienovak.github.io/MaddieNovakREADME/> |  
+| Sung Ug Joo  | sungugjoo | https://sungugjoo.github.io/kevin/ |
+| Zian Wang  | XanWang | <https://xanwang.github.io/STAT184XAN/> |
+| Wenyu Yang  | wzy5092 | <https://wzy5092.github.io/wzy5092/> |
+| Masiullah Siddiqui Mohemmed | MasiSidd | https://masisidd.github.io/stat184intro/.
+| Collin Cicconi | collincicconi |  https://collincicconi.github.io/hello-world/ |
+| Medha Deeptimahanti | mkd5443 | https://mkd5443.github.io/Medha_Deeptimahanti/ |
+| Zhuolin Luo | jolin0504 | <https://jolin0504.github.io/JolinRepo1/> |
 |Keenan Harleston |kah6025-psu|<https://kah6025-psu.github.io/stat184/>|
 
 <br>
