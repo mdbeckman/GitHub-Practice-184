@@ -97,7 +97,7 @@
 | Kritika Senthil   | WF 10:10am       | KritiSenthil          |<https://github.com/KritiSenthil/Assignment-1.git> |
 | Hexi Pan          | WF 10:10am       | hpp5079               | <https://hpp5079.github.io/readme/> |
 | Xuefei Wang       | WF 2:30pm        | xvwang412             | <https://xvwang412.github.io/Stat_184-Readme/> |
-
+| Zhongqi Zhang     | WF 10:10am       | zqz5315               | <https://zqz5315.github.io/readme/> |
 <br>
 
 # Integration of RStudio with Git
