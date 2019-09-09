@@ -57,6 +57,7 @@
 |Keenan Harleston |kah6025-psu|<https://kah6025-psu.github.io/stat184/>|
 | Sahith Kumar Bandari   | Sahithb2000 | https://sahithb2000.github.io/stat184/ |
 |Zhenyu Wang| zfw5070 | https://zfw5070.github.io/ex184/ |
+|Rick Ghosh| rpg5283 | https://github.com/rpg5283/rickwashere |
 
 <br>
 
