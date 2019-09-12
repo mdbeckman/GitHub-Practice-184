@@ -47,7 +47,6 @@
 | Himaja Kakumani | 17hkakumani | <https://17hkakumani.github.io/Stat184/> |
 | Ian Kwon    | iankwon23 | <https://iankwon23.github.io/stat184/> |
 | Srikar Duggi | srikarduggi | <https://srikarduggi.github.io/stat184/> | 
-| Srikar Duggi | srikarduggi | <https://srikarduggi.github.io/stat184/> | 
 <br>
 
 # Integration of RStudio with Git
