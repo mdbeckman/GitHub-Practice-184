@@ -1,4 +1,4 @@
-
+ 
 # GitHub Pages Assignment
 
 **(10 pts) Assignment Instructions**
@@ -33,6 +33,32 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim | jikim413 | <https://jikim413.github.io/> |  
 | William Ku  | WilliamKuDS | <https://williamkuds.github.io/STAT184_Assignment1/> |
+| Eric Schneider | schneider20 | https://schneider20.github.io/schneider/ |
+| Zachary Beisler | zqb5073 | <https://zqb5073.github.io/STAT184_Assignment1//> |
+| Ben Giles   | bengiles001 | <https://github.com/bengiles001/IST-184-REPO/edit/master/README.md>
+|Kearon Chase |Kearon-Chase | <https://kearon-chase.github.io/stat184/>
+| Sean Klavans | seank22 | <https://seank22.github.io/Stat184Sean/> |
+| David Vondran | DVondran | <https://dvondran.github.io/PSU_GitHub/> |
+| Jacob Adams | jakeisthegoat | <https://jakeisthegoat.github.io/Stat184/> |
+| Nick Harris |  nickH      |    https://nickylax418.github.io/nickH/|
+| Eric Zhu    | evz5050  | <https://evz5050.github.io/STAT184/> |
+| Xueshi Bai | baixueshi | < https://baixueshi.github.io/readme/.> |
+| Xutao Liu   | Jack5339    | <https://jack5339.github.io/ReadMe/> |  
+| Himaja Kakumani | 17hkakumani | <https://17hkakumani.github.io/Stat184/> |
+| Ian Kwon    | iankwon23 | <https://iankwon23.github.io/stat184/> |
+| Madison Novak | maddienovak | <https://maddienovak.github.io/MaddieNovakREADME/> |  
+| Sung Ug Joo  | sungugjoo | https://sungugjoo.github.io/kevin/ |
+| Zian Wang  | XanWang | <https://xanwang.github.io/STAT184XAN/> |
+| Wenyu Yang  | wzy5092 | <https://wzy5092.github.io/wzy5092/> |
+| Masiullah Siddiqui Mohemmed | MasiSidd | https://masisidd.github.io/stat184intro/.
+| Collin Cicconi | collincicconi |  https://collincicconi.github.io/hello-world/ |
+| Medha Deeptimahanti | mkd5443 | https://mkd5443.github.io/Medha_Deeptimahanti/ |
+| Zhuolin Luo | jolin0504 | <https://jolin0504.github.io/JolinRepo1/> |
+|Keenan Harleston |kah6025-psu|<https://kah6025-psu.github.io/stat184/>|
+| Sahith Kumar Bandari   | Sahithb2000 | https://sahithb2000.github.io/stat184/ |
+|Zhenyu Wang| zfw5070 | https://zfw5070.github.io/ex184/ |
+|Yilin Wang| yzw159 | https://yilinwang-psu.github.io/Stat-184/ |
+|Rick Ghosh| rpg5283 | https://github.com/rpg5283/rickwashere |
 | Anna Leon   | annajleon   | <https://annajleon.github.io/AnnaRepo1/> |
 
 <br>
