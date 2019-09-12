@@ -59,6 +59,7 @@
 |Zhenyu Wang| zfw5070 | https://zfw5070.github.io/ex184/ |
 |Yilin Wang| yzw159 | https://yilinwang-psu.github.io/Stat-184/ |
 |Rick Ghosh| rpg5283 | https://github.com/rpg5283/rickwashere |
+| Anna Leon   | annajleon   | <https://annajleon.github.io/AnnaRepo1/> |
 
 <br>
 
