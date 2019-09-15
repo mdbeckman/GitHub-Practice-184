@@ -62,6 +62,8 @@
 | Anna Leon   | annajleon   | <https://annajleon.github.io/AnnaRepo1/> |
 | Minchan Kang | DaeHanGeonAh | <https://daehangeonah.github.io/MyRepo/> |
 | Srikar Duggi | srikarduggi | <https://srikarduggi.github.io/stat184/> | 
+| Sai Dhanush Doddapaneni | said367 | <https://said367.github.io/stat184/> |  
+
 
 <br>
 
