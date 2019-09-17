@@ -99,7 +99,7 @@
 | Xuefei Wang       | WF 2:30pm        | xvwang412             | <https://xvwang412.github.io/Stat_184-Readme/> |
 | Tristan Zanowic   | WF 2:30pm        | tzanowic              | <https://tzanowic.github.io/Stat184Assign/>
 | Elizabeth Giacobe | MWF 2:30pm       | ejgiacobe             |   https://ejgiacobe.github.io/  |
-| Stephen Mazeski | WF 2:30pm       | stephenmazeski             |   https://stephenmazeski.github.io/Stat184Repo/  |
+| Stephen Mazeski   | WF 2:30pm       | stephenmazeski             |   https://stephenmazeski.github.io/Stat184Repo/  |
 
 
 <br>
