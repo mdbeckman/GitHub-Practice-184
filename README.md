@@ -64,8 +64,8 @@
 | Srikar Duggi | srikarduggi | <https://srikarduggi.github.io/stat184/> | 
 | Sai Dhanush Doddapaneni | said367 | <https://said367.github.io/stat184/> |  
 | Weilun Zhang | wbz5017 | <https://wbz5017.github.io/GitHub-Practice-Assignment/> |
+| Jiajing Li  | Brenda0219 | <https://brenda0219.github.io/STAT184/> |
 
-<br>
 
 # Integration of RStudio with Git
 
