@@ -65,6 +65,7 @@
 | Sai Dhanush Doddapaneni | said367 | <https://said367.github.io/stat184/> |  
 | Weilun Zhang | wbz5017 | <https://wbz5017.github.io/GitHub-Practice-Assignment/> |
 | Jiajing Li  | Brenda0219 | <https://brenda0219.github.io/STAT184/> |
+| Yuheng Peng  | Chrispeng20 |  <https://chrispeng20.github.io/README/>   |
 
 
 # Integration of RStudio with Git
