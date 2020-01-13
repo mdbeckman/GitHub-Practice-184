@@ -36,6 +36,8 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Matthew Beckman   | Section 003      | mdbeckman            | <https://mdbeckman.github.io/>    |  
 | Matt Beckman      | Section 004      | mdbeckman             | <https://mdbeckman.github.io/Beckman-Repo-Demo/>  |
+| Zifei Zheng      | Section 004      | ZifeiZ           | <https://zifeiz.github.io/stat184/>  |
+
 
 
 <br>
