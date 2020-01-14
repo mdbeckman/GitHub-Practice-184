@@ -36,7 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Matthew Beckman   | Section 003      | mdbeckman            | <https://mdbeckman.github.io/>    |  
 | Matt Beckman      | Section 004      | mdbeckman             | <https://mdbeckman.github.io/Beckman-Repo-Demo/>  |
-
+| Andrew Hampel     | Section 003      | AndrewHampel         | <https://andrewhampel.github.io/Hampel-Practice/>  |
 
 <br>
 
