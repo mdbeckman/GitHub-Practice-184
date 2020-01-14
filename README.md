@@ -36,7 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Matthew Beckman   | Section 003      | mdbeckman            | <https://mdbeckman.github.io/>    |  
 | Matt Beckman      | Section 004      | mdbeckman             | <https://mdbeckman.github.io/Beckman-Repo-Demo/>  |
-
+| Xunyuan Sun       | Section 003      | XYSunPSU              | <https://xysunpsu.github.io/Xunyuan-Sun-Repo-Practice/> |
 
 <br>
 
