@@ -36,6 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Matthew Beckman   | Section 003      | mdbeckman            | <https://mdbeckman.github.io/>    |  
 | Matt Beckman      | Section 004      | mdbeckman             | <https://mdbeckman.github.io/Beckman-Repo-Demo/>  |
+| Abhishek Aryaman  | Section 004      | ab-aryaman            | https://ab-aryaman.github.io/Aryaman-Repo-Demo/  |
 
 
 <br>
