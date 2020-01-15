@@ -34,9 +34,14 @@
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
-| Matthew Beckman   | Section 003      | mdbeckman            | <https://mdbeckman.github.io/>    |  
+| Matthew Beckman   | Section 003      | mdbeckman             | <https://mdbeckman.github.io/>    |  
 | Matt Beckman      | Section 004      | mdbeckman             | <https://mdbeckman.github.io/Beckman-Repo-Demo/>  |
 | Andrew Hampel     | Section 003      | AndrewHampel         | <https://andrewhampel.github.io/Hampel-Practice/>  |
+| Zifei Zheng      | Section 004      | ZifeiZ           | <https://zifeiz.github.io/stat184/>  |
+| Dillon Hector     | Section 003      | dhector3              | < https://dhector3.github.io/dhect3/>
+| Jared Cao         | Section 003      | jkc5781               | <https://jkc5781.github.io/github-practice/>   |
+| Lily Jakielaszek  | Section 004      | LilySJakielaszek     |  <https://lilysjakielaszek.github.io/Assignment1/> |
+
 
 <br>
 
@@ -44,5 +49,4 @@
 
 - Simplified instructions: [Data Computing eBook--Appendix: Appendix: GitHub-RStudio Configuration](https://dtkaplan.github.io/DataComputingEbook/appendix-github-rstudio-configuration.html#appendix-github-rstudio-configuration)  
 - More detail if needed: <http://happygitwithr.com/index.html>
-
 
