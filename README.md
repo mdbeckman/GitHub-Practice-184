@@ -14,7 +14,7 @@
     - Find "sarahshy" in GitHub and locate the "GitHub-Practice-184" class repo
     - Click on "README.md" >> Edit (pencil icon in upper right)
 - **Add a row** in the table below with your information 
-    - follow the pattern for the vertical bar character (found next to the "]" key)... use the "Matthew Beckman" row as a template
+    - follow the pattern for the vertical bar character (found next to the "]" key)... use the "Sarah Shy" row as a template
     - (2 pts) first & last name  
     - (1 pt)  class day and time
     - (2 pts) github id  
@@ -22,7 +22,7 @@
             - by default it will include "[userID].github.io" at the beginning  
             - it's **NOT** just the URL of the source repo itself  
     - (2 pts) commit your changes and submit pull request   
-            - write a **descriptive** commit message (e.g. "added Matt Beckman to class table")  
+            - write a **descriptive** commit message (e.g. "added Sarah Shy to class table")  
             - click green button "Propose file change" & start pull request  
     - (1 pt) make sure the link works (e.g., wrap url in "<" and ">" to activate link on actual website)  
     - (ungraded) pat yourself on the back
