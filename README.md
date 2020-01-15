@@ -36,6 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Matthew Beckman   | Section 003      | mdbeckman             | <https://mdbeckman.github.io/>    |  
 | Matt Beckman      | Section 004      | mdbeckman             | <https://mdbeckman.github.io/Beckman-Repo-Demo/>  |
+| Chang Eun Lee      | Section 004      | cbl5289               | <https://cbl5289.github.io/githubpractice/>   |
 | Abhishek Aryaman  | Section 004      | ab-aryaman            | https://ab-aryaman.github.io/Aryaman-Repo-Demo/  |
 | Qixiao Zhong      | Section 003      | qfz5040              | <https://qfz5040.github.io/STAT184/>   |
 | Allison Denenberg | Section 004      | allison-denenberg     | <https://allison-denenberg.github.io/Denenberg-Repo-Demo/> |
