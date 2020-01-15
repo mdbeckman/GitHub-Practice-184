@@ -36,6 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Matthew Beckman   | Section 003      | mdbeckman             | <https://mdbeckman.github.io/>    |  
 | Matt Beckman      | Section 004      | mdbeckman             | <https://mdbeckman.github.io/Beckman-Repo-Demo/>  |
+| Qixiao Zhong      | Section 003      | qfz5040              | <https://qfz5040.github.io/STAT184/>   |
 | Allison Denenberg | Section 004      | allison-denenberg     | <https://allison-denenberg.github.io/Denenberg-Repo-Demo/> |
 | Matt Bubb         | Section 004      | mdbubbpsu             | <https://mdbubbpsu.github.io/Bubb-GithubPracticeStat184/>|
 | Emmanuel Garzo    | Section 003      | egarzo                | <https://egarzo.github.io/Garzo-Repo/> |
