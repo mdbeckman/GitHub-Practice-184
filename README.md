@@ -36,6 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Matthew Beckman   | Section 003      | mdbeckman             | <https://mdbeckman.github.io/>    |  
 | Matt Beckman      | Section 004      | mdbeckman             | <https://mdbeckman.github.io/Beckman-Repo-Demo/>  |
+| Matt Bubb         | Section 004      | mdbubbpsu             | <https://mdbubbpsu.github.io/Bubb-GithubPracticeStat184/>|
 | Emmanuel Garzo    | Section 003      | egarzo                | <https://egarzo.github.io/Garzo-Repo/> |
 | Xunyuan Sun       | Section 003      | XYSunPSU              | <https://xysunpsu.github.io/Xunyuan-Sun-Repo-Practice/> |
 | Andrew Hampel     | Section 003      | AndrewHampel         | <https://andrewhampel.github.io/Hampel-Practice/>  |
