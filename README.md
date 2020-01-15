@@ -34,8 +34,9 @@
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
-| Matthew Beckman   | Section 003      | mdbeckman            | <https://mdbeckman.github.io/>    |  
+| Matthew Beckman   | Section 003      | mdbeckman             | <https://mdbeckman.github.io/>    |  
 | Matt Beckman      | Section 004      | mdbeckman             | <https://mdbeckman.github.io/Beckman-Repo-Demo/>  |
+| Jared Cao         | Section 003      | jkc5781               | <https://jkc5781.github.io/github-practice/>   |
 | Lily Jakielaszek  | Section 004      | LilySJakielaszek     |  <https://lilysjakielaszek.github.io/Assignment1/> |
 
 
