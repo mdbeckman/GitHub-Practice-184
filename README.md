@@ -36,7 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Matthew Beckman   | Section 003      | mdbeckman            | <https://mdbeckman.github.io/>    |  
 | Matt Beckman      | Section 004      | mdbeckman             | <https://mdbeckman.github.io/Beckman-Repo-Demo/>  |
-
+| Allison Denenberg | Section 004      | allison-denenberg     | <https://allison-denenberg.github.io/Denenberg-Repo-Demo/> |
 
 <br>
 
