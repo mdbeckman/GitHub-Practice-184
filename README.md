@@ -34,8 +34,7 @@
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
-| Matthew Beckman   | Section 003       | mdbeckman            | <https://mdbeckman.github.io/>    |  
-| Sarah Shy         | Section 001       | sarahshy             | <https://sarahshy.github.io/>     |
+| Sarah Shy         | Section 001       | sarahshy            | <https://sarahshy.github.io/>     |
 
 
 <br>
