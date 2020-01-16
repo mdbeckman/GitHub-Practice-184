@@ -49,6 +49,9 @@
 | Jared Cao         | Section 003      | jkc5781               | <https://jkc5781.github.io/github-practice/>   |
 | Lily Jakielaszek  | Section 004      | LilySJakielaszek     |  <https://lilysjakielaszek.github.io/Assignment1/> |
 | ChanYong Song .   | Section 004      | ChanYongSong          | <https://chanyongsong.github.io/cxs5821/> |
+| Srija Pinnamaneni | Section 002       | srijp                | <https://srijp.github.io/Assignment1/> |
+| Justin Huang      | Section 002        | xinging-birds        | <https://xinging-birds.github.io/ofod/> |
+| Siting Lin         | Section003       | sitinglin99           | <https://sitinglin99.github.io/siting-repo-/>|
 
 <br>
 
