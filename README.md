@@ -45,7 +45,7 @@
 | Xunyuan Sun       | Section 003      | XYSunPSU              | <https://xysunpsu.github.io/Xunyuan-Sun-Repo-Practice/> |
 | Andrew Hampel     | Section 003      | AndrewHampel         | <https://andrewhampel.github.io/Hampel-Practice/>  |
 | Zifei Zheng      | Section 004      | ZifeiZ           | <https://zifeiz.github.io/stat184/>  |
-| Dillon Hector     | Section 003      | dhector3              | < https://dhector3.github.io/dhect3/>
+| Dillon Hector     | Section 003      | dhector3              |  <https://dhector3.github.io/dhect3/>
 | Jared Cao         | Section 003      | jkc5781               | <https://jkc5781.github.io/github-practice/>   |
 | Lily Jakielaszek  | Section 004      | LilySJakielaszek     |  <https://lilysjakielaszek.github.io/Assignment1/> |
 |Siting Lin         | Section003       | sitinglin99           | <https://sitinglin99.github.io/siting-repo-/>|
