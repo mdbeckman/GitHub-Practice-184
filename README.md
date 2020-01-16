@@ -16,7 +16,7 @@
 - **Add a row** in the table below with your information 
     - follow the pattern for the vertical bar character (found next to the "]" key)... use the "Sarah Shy" row as a template
     - (2 pts) first & last name  
-    - (1 pt)  class day and time
+    - (1 pt)  class section
     - (2 pts) github id  
     - (2 pts) url for GitHub Pages website generated from your GitHub repo  
             - by default it will include "[userID].github.io" at the beginning  
