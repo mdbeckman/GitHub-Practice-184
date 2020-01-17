@@ -36,7 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Sarah Shy         | Section 001       | sarahshy            | <https://sarahshy.github.io/>     |
 | Sarah Shy Demo    | Section 001       | sarahshy            | <https://sarahshy.github.io/Shy-Github-Demo/> |
-
+| Bobby Kemp        | Section 001       | RobertKempIII       | <https://robertkempiii.github.io/GithubPractice1/> |
 
 <br>
 
