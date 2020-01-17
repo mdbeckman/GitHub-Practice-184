@@ -39,6 +39,7 @@
 | Thomas Zhao       | Section 001       | ztoms               | <https://ztoms.github.io/STAT184_Repo/>     |
 | Jessica Strait    | Section 001       | jesslynne73         | <https://jesslynne73.github.io/STAT-184/> |
 | Bobby Kemp        | Section 001       | RobertKempIII       | <https://robertkempiii.github.io/GithubPractice1/> |
+| Adam Seiff        | Section 001       | ajs680              | <https://ajs680.github.io/STAT_184/> |
 
 
 <br>
