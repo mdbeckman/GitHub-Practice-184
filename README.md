@@ -34,6 +34,8 @@
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
+| Sarah Shy         | Section 001       | sarahshy            | <https://sarahshy.github.io/>     | 
+| Weslee Hwang      | Section 001       | WesHub              | <https://weshub.github.io/Stat184/>|
 | Sarah Shy         | Section 001       | sarahshy            | <https://sarahshy.github.io/>     |
 | Thomas Zhao       | Section 001       | ztoms               | <https://ztoms.github.io/STAT184_Repo/>     |
 | Sarah Shy Demo    | Section 001       | sarahshy            | <https://sarahshy.github.io/Shy-Github-Demo/> |
