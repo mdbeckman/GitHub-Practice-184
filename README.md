@@ -36,9 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Sarah Shy         | Section 001       | sarahshy            | <https://sarahshy.github.io/>     | 
 | Weslee Hwang      | Section 001       | WesHub              | <https://weshub.github.io/Stat184/>|
-| Sarah Shy         | Section 001       | sarahshy            | <https://sarahshy.github.io/>     |
 | Thomas Zhao       | Section 001       | ztoms               | <https://ztoms.github.io/STAT184_Repo/>     |
-| Sarah Shy Demo    | Section 001       | sarahshy            | <https://sarahshy.github.io/Shy-Github-Demo/> |
 | Jessica Strait    | Section 001       | jesslynne73         | <https://jesslynne73.github.io/STAT-184/> |
 | Bobby Kemp        | Section 001       | RobertKempIII       | <https://robertkempiii.github.io/GithubPractice1/> |
 
