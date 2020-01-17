@@ -23,7 +23,7 @@
             - it's **NOT** just the URL of the source repo itself  
     - (2 pts) commit your changes and submit pull request   
             - write a **descriptive** commit message (e.g. "added Sarah Shy to class table")  
-            - click green button "Propose file change" & start pull request  
+            - click green button "Propose file change" & start **pull request**
     - (1 pt) make sure the link works (e.g., wrap url in "<" and ">" to activate link on actual website)  
     - (ungraded) pat yourself on the back
     - **Important**: Your entry will NOT appear on the class table right away.  Once you submit the "pull request" the owner of the repo (me) needs to approve and merge it into the "master" before your entry will appear in the class table on the website. 
