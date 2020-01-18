@@ -52,6 +52,7 @@
 | Srija Pinnamaneni | Section 002       | srijp                | <https://srijp.github.io/Assignment1/> |
 | Justin Huang      | Section 002        | xinging-birds        | <https://xinging-birds.github.io/ofod/> |
 | Siting Lin         | Section003       | sitinglin99           | <https://sitinglin99.github.io/siting-repo-/>|
+| Alex Zhuang       | Section004       | alexqz1826            | <https://alexqz1826.github.io/STAT184-Repo/>|
 
 <br>
 
