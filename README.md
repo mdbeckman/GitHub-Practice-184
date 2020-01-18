@@ -52,6 +52,7 @@
 | Srija Pinnamaneni | Section 002       | srijp                | <https://srijp.github.io/Assignment1/> |
 | Justin Huang      | Section 002        | xinging-birds        | <https://xinging-birds.github.io/ofod/> |
 | Siting Lin         | Section003       | sitinglin99           | <https://sitinglin99.github.io/siting-repo-/>|
+| Brooke Przybylinski| Section 003      | bmp5475               | <https://bmp5475.github.io/przybylinski-stat184/>|
 
 <br>
 
