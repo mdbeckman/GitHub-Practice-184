@@ -52,6 +52,8 @@
 | Srija Pinnamaneni | Section 002       | srijp                | <https://srijp.github.io/Assignment1/> |
 | Justin Huang      | Section 002        | xinging-birds        | <https://xinging-birds.github.io/ofod/> |
 | Siting Lin         | Section003       | sitinglin99           | <https://sitinglin99.github.io/siting-repo-/>|
+| Macklin Yarris    | Section003        | myarris              | <https://myarris.github.io/Yarris-Repo-Demo/>   |
+
 
 <br>
 
