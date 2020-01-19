@@ -52,7 +52,7 @@
 | Srija Pinnamaneni | Section 002       | srijp                | <https://srijp.github.io/Assignment1/> |
 | Justin Huang      | Section 002        | xinging-birds        | <https://xinging-birds.github.io/ofod/> |
 | Siting Lin         | Section003       | sitinglin99           | <https://sitinglin99.github.io/siting-repo-/>|
-
+| Pranav Jain       | Section 004       | pranavsjain           | <https://pranavsjain.github.io/Jain-Repo-Demo/>|
 <br>
 
 # Integration of RStudio with Git
