@@ -32,16 +32,17 @@
 
 # Class GitHub Table 
 
-| Name                | Class Section     | GitHub ID            | website for a GitHub repo         |  
-|:--------------------|:------------------|:---------------------|:----------------------------------|  
-| Sarah Shy           | Section 001       | sarahshy            | <https://sarahshy.github.io/>     | 
-| Weslee Hwang        | Section 001       | WesHub              | <https://weshub.github.io/Stat184/>|
-| Thomas Zhao         | Section 001       | ztoms               | <https://ztoms.github.io/STAT184_Repo/>     |
-| Jessica Strait      | Section 001       | jesslynne73         | <https://jesslynne73.github.io/STAT-184/> |
-| Bobby Kemp          | Section 001       | RobertKempIII       | <https://robertkempiii.github.io/GithubPractice1/> |
-| Adam Seiff          | Section 001       | ajs680              | <https://ajs680.github.io/STAT_184/> |
-| Kairui Wang         | Section 001       | mika222666          | <https://mika222666.github.io/Stat-184-practice/> |
-| Jordan Williard     | Section 001       | jordanwilliard      | <https://jordanwilliard.github.io/stat184/> |
+| Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
+|:------------------|:------------------|:---------------------|:----------------------------------|  
+| Sarah Shy         | Section 001       | sarahshy            | <https://sarahshy.github.io/>     | 
+| Weslee Hwang      | Section 001       | WesHub              | <https://weshub.github.io/Stat184/>|
+| Thomas Zhao       | Section 001       | ztoms               | <https://ztoms.github.io/STAT184_Repo/>     |
+| Jessica Strait    | Section 001       | jesslynne73         | <https://jesslynne73.github.io/STAT-184/> |
+| Bobby Kemp        | Section 001       | RobertKempIII       | <https://robertkempiii.github.io/GithubPractice1/> |
+| Adam Seiff        | Section 001       | ajs680              | <https://ajs680.github.io/STAT_184/> |
+| Kairui Wang       | Section 001       | mika222666          | <https://mika222666.github.io/Stat-184-practice/> |
+| Jordan Williard   | Section 001       | jordanwilliard      | <https://jordanwilliard.github.io/stat184/> |
+| Daniel Jung       | Section 001       | dqj5182            | <https://dqj5182.github.io/stat184/>     | 
 | Iffah Mohamad Saufi | Section 001       | ivm5141             | <https://ivm5141.github.io/Saufi-github-demo/> |
 
 <br>
