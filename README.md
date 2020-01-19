@@ -42,7 +42,7 @@
 | Adam Seiff        | Section 001       | ajs680              | <https://ajs680.github.io/STAT_184/> |
 | Kairui Wang       | Section 001       | mika222666          | <https://mika222666.github.io/Stat-184-practice/> |
 | Jordan Williard   | Section 001       | jordanwilliard      | <https://jordanwilliard.github.io/stat184/> |
-
+| Yoojin Lim        | Section 001       | yjl0820             | <https://yjl0820.github.io/Stat184/> |
 <br>
 
 # Integration of RStudio with Git
