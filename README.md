@@ -43,6 +43,9 @@
 | Kairui Wang       | Section 001       | mika222666          | <https://mika222666.github.io/Stat-184-practice/> |
 | Jordan Williard   | Section 001       | jordanwilliard      | <https://jordanwilliard.github.io/stat184/> |
 | Yoojin Lim        | Section 001       | yjl0820             | <https://yjl0820.github.io/Stat184/> |
+| Daniel Jung       | Section 001       | dqj5182            | <https://dqj5182.github.io/stat184/>     | 
+| Iffah Mohamad Saufi | Section 001       | ivm5141             | <https://ivm5141.github.io/Saufi-github-demo/> |
+
 <br>
 
 # Integration of RStudio with Git
