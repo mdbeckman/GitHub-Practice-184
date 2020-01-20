@@ -51,6 +51,7 @@
 | Srija Pinnamaneni | Section 002       | srijp                | <https://srijp.github.io/Assignment1/> |
 | Justin Huang      | Section 002        | xinging-birds        | <https://xinging-birds.github.io/ofod/> |
 | Siting Lin         | Section003       | sitinglin99           | <https://sitinglin99.github.io/siting-repo-/>|
+| Jin Hee Lee       | Section 004      | jinnie6358             | <https://jinnie6358.github.io/jinheelee-stat-184/> |
 | Saahithi Mallarapu| Section 004     | saahithi-mallarapu.    |  <https://saahithi-mallarapu.github.io/stat184/> |
 | Sarthak Batra     | Section 003       | sarthakb99           |<  https://sarthakb99.github.io/stat184/>|
 | Mike Ruff         |  Section 003      | mruff                 | <https://mrufff.github.io/github-practice-184-ruff/> |
