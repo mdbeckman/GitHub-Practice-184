@@ -51,6 +51,7 @@
 | Srija Pinnamaneni | Section 002       | srijp                | <https://srijp.github.io/Assignment1/> |
 | Justin Huang      | Section 002        | xinging-birds        | <https://xinging-birds.github.io/ofod/> |
 | Siting Lin         | Section003       | sitinglin99           | <https://sitinglin99.github.io/siting-repo-/>|
+| Tre Butler        | Section 004       | tre3499              | <https://tre3499.github.io/Tre-GitHubPractice/> |
 | Philip Saroka     | Section 004       | bior12                | <https://github.com/bior12/github-practice/> |
 | Alex Zhuang       | Section004       | alexqz1826            | <https://alexqz1826.github.io/STAT184-Repo/>|
 | Parthiv Khaund    | Section 003      | ParthivKhaund          | <https://parthivkhaund.github.io/Stat_184/>
