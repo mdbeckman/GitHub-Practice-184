@@ -48,7 +48,7 @@
 | Jessie Li         | Section 001       | ZHILIJESSIE        |  <https://zhilijessie.github.io/Githubpractice/> | 
 | Alexander Schweizer| Section 001       | ASchweizer31             |  https://aschweizer31.github.io/Schweizer-GitHub/|
 | Yan Gong          | Section 001       | shiroemon99         | <https://shiroemon99.github.io/STAT_184/> |
-
+| Xigang Zhang      | Section 001       | xxz5346             | <https://github.com/xxz5346/Xigang-Zhang.git>|
 
 <br>
 
