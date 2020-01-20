@@ -51,6 +51,7 @@
 | Srija Pinnamaneni | Section 002       | srijp                | <https://srijp.github.io/Assignment1/> |
 | Justin Huang      | Section 002        | xinging-birds        | <https://xinging-birds.github.io/ofod/> |
 | Siting Lin         | Section003       | sitinglin99           | <https://sitinglin99.github.io/siting-repo-/>|
+| Brooke Przybylinski| Section 003      | bmp5475               | <https://bmp5475.github.io/przybylinski-stat184/>|
 | Ismael Diaz       | Section 003      | IsmaelDiazSandoval   | <https://ismaeldiazsandoval.github.io/Diaz-Repo-Demo/> |
 | Radha Patel        | Section003       | rjp5630           | <https://rjp5630.github.io/GrubHubPagesAssignment/>|
 | Matthew Hines     | Section 003       | h1n3z                | <https://h1n3z.github.io/Stat184Assignment1/>  |
