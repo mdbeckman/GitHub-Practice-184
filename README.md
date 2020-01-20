@@ -51,6 +51,7 @@
 | Srija Pinnamaneni | Section 002       | srijp                | <https://srijp.github.io/Assignment1/> |
 | Justin Huang      | Section 002        | xinging-birds        | <https://xinging-birds.github.io/ofod/> |
 | Siting Lin         | Section003       | sitinglin99           | <https://sitinglin99.github.io/siting-repo-/>|
+| Mike Ruff         |  Section 003      | mruff                 | <https://mrufff.github.io/github-practice-184-ruff/> |
 | Pranav Keshav     | Section 004      | pkeshav9               | <https://pkeshav9.github.io/repo/> |
 | Hojin Ryoo        | Section004       | Akolyte           | <https://akolyte.github.io/STAT_184/>|
 | Jing Du           | Section 003      | JingDu123              | <https://jingdu123.github.io/JingDu-Repo-Practice/> |
