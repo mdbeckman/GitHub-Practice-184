@@ -48,6 +48,7 @@
 | Alexander Schweizer| Section 001       | ASchweizer31             |  https://aschweizer31.github.io/Schweizer-GitHub/|
 | Yan Gong          | Section 001       | shiroemon99         | <https://shiroemon99.github.io/STAT_184/> |
 
+
 <br>
 
 # Integration of RStudio with Git
