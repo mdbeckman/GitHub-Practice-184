@@ -51,6 +51,7 @@
 | Srija Pinnamaneni | Section 002       | srijp                | <https://srijp.github.io/Assignment1/> |
 | Justin Huang      | Section 002        | xinging-birds        | <https://xinging-birds.github.io/ofod/> |
 | Siting Lin         | Section003       | sitinglin99           | <https://sitinglin99.github.io/siting-repo-/>|
+| Matt Cole         | Section 004      | mattcole19             | <https://mattcole19.github.io/stat184/> |
 | Levi Basom        | Section 004      | ljbasom               | <https://ljbasom.github.io/Basom_STAT-184/> |
 | Macklin Yarris    | Section003        | myarris              | <https://myarris.github.io/Yarris-Repo-Demo/>   |
 | Abhishek Raj       | Section003       |  abhirraj             |<https://abhirraj.github.io/github-practice/> |
