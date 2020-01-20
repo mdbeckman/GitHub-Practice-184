@@ -51,6 +51,7 @@
 | Srija Pinnamaneni | Section 002       | srijp                | <https://srijp.github.io/Assignment1/> |
 | Justin Huang      | Section 002        | xinging-birds        | <https://xinging-birds.github.io/ofod/> |
 | Siting Lin         | Section003       | sitinglin99           | <https://sitinglin99.github.io/siting-repo-/>|
+| Abigail Crilley   | Section 003       | abbymcrilley          | <https://abbymcrilley.github.io/stat184-proj1/> |
 | Jason Abu         | Section003       | Samora-jas           |  https://samora-jas.github.io/s1/
 | Jessica Schick    | Section 004       | jessicaschick         | <https://jessicaschick.github.io/Jessica-Schick/> |
 | Matt Cole         | Section 004      | mattcole19             | <https://mattcole19.github.io/stat184/> |
