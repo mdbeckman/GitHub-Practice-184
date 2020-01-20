@@ -52,6 +52,7 @@
 | Justin Huang      | Section 002        | xinging-birds        | <https://xinging-birds.github.io/ofod/> |
 | Siting Lin         | Section003       | sitinglin99           | <https://sitinglin99.github.io/siting-repo-/>|
 | Matthew Hines     | Section 003       | h1n3z                | <https://h1n3z.github.io/Stat184Assignment1/>  |
+| Penghao Zeng      | Section 003      | Carina920             | <https://Carina920.github.io/STAT-184/>| 
 
 <br>
 
