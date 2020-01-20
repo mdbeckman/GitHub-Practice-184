@@ -51,6 +51,7 @@
 | Srija Pinnamaneni | Section 002       | srijp                | <https://srijp.github.io/Assignment1/> |
 | Justin Huang      | Section 002        | xinging-birds        | <https://xinging-birds.github.io/ofod/> |
 | Siting Lin         | Section003       | sitinglin99           | <https://sitinglin99.github.io/siting-repo-/>|
+| Macklin Yarris    | Section003        | myarris              | <https://myarris.github.io/Yarris-Repo-Demo/>   |
 | Abhishek Raj       | Section003       |  abhirraj             |<https://abhirraj.github.io/github-practice/> |
 | Pranav Jain       | Section 004       | pranavsjain           | <https://pranavsjain.github.io/Jain-Repo-Demo/>|
 | Mahi Srivastava   | Section 004      | MahiSrivastava        | <https://mahisrivastava.github.io/Srivastava-Repo-Demo/> |
