@@ -43,12 +43,15 @@
 | Kairui Wang       | Section 001       | mika222666          | <https://mika222666.github.io/Stat-184-practice/> |
 | Jordan Williard   | Section 001       | jordanwilliard      | <https://jordanwilliard.github.io/stat184/> |
 | Yoojin Lim        | Section 001       | yjl0820             | <https://yjl0820.github.io/Stat184/> |
-| Daniel Jung       | Section 001       | dqj5182            | <https://dqj5182.github.io/stat184/>     | 
-| Iffah Mohamad Saufi | Section 001       | ivm5141             | <https://ivm5141.github.io/Saufi-github-demo/> |
-| Jessie Li         | Section 001       | ZHILIJESSIE        |  <https://zhilijessie.github.io/Githubpractice/> | 
-| Alexander Schweizer| Section 001       | ASchweizer31             |  https://aschweizer31.github.io/Schweizer-GitHub/|
+| Daniel Jung       | Section 001       | dqj5182             | <https://dqj5182.github.io/stat184/>     | 
+| Iffah Mohamad Saufi | Section 001     | ivm5141             | <https://ivm5141.github.io/Saufi-github-demo/> |
+| Jessie Li         | Section 001       | ZHILIJESSIE         |  <https://zhilijessie.github.io/Githubpractice/> | 
+| Alexander Schweizer| Section 001      | ASchweizer31        |  https://aschweizer31.github.io/Schweizer-GitHub/|
 | Yan Gong          | Section 001       | shiroemon99         | <https://shiroemon99.github.io/STAT_184/> |
 | Jonathan Sguera   | Section 001       | JSguera             | <https://jsguera.github.io/Stat-184/>
+| Kelly Cooper      |Section 001        | kmc6671             | <https://kmc6671.github.io/ReadMe/> |
+| Xigang Zhang      | Section 001       | xxz5346             | <https://github.com/xxz5346/Xigang-Zhang.git>|
+| Chinmay Pendse    | Section 001       | pendsec             | https://pendsec.github.io/Stat184-1/ |
 
 <br>
 
