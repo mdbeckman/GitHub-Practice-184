@@ -55,6 +55,7 @@
 | Kevin Suryanto    | Section 001       | kevinsuryanto       | <https://kevinsuryanto.github.io/stat184/> |
 | Vineet Sudhir     | Section 001       | VineetSudhir        | <https://vineetsudhir.github.io/STAT184-Github-1/>|
 | Yuqi Gao          | Section 001       | Yuqi-Gao            | <https://yuqi-gao.github.io/Stat-184-practice/> |
+| Gary A Modzelewski| Section 001       | gamodzel            | <https://gamodzel.github.io/stat-184/> |
 
 <br>
 
