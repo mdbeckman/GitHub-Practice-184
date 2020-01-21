@@ -53,6 +53,7 @@
 | Xigang Zhang      | Section 001       | xxz5346             | <https://github.com/xxz5346/Xigang-Zhang.git>|
 | Chinmay Pendse    | Section 001       | pendsec             | https://pendsec.github.io/Stat184-1/ |
 | Vineet Sudhir     | Section 001       | VineetSudhir        | <https://vineetsudhir.github.io/STAT184-Github-1/>|
+| Yuqi Gao          | Section 001       | Yuqi-Gao            | <https://yuqi-gao.github.io/Stat-184-practice/> |
 
 <br>
 
