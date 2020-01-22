@@ -60,6 +60,7 @@
 | Gary A Modzelewski| Section 001       | gamodzel            | <https://gamodzel.github.io/stat-184/> |
 | Zhejing Shi       | Section 001       | zhejingshi          | <https://zhejingshi.github.io/stats184Test/> |
 | Arush Pamulapati  | Section 001       | ajp6312             | <https://ajp6312.github.io/GitHub-Practice-184/>|
+| Anikate Ganju     | Section 001       | azg247              | <https://anikateganju.github.io/stat184demo/> |
 
 <br>
 
