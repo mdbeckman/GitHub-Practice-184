@@ -63,6 +63,7 @@
 | Kaiyi Huang       | Section 001       | Kaiy-psu            | <https://kaiy-psu.github.io/184/>|
 | Naman Malviya     | Section 001       | nzm5366             | <https://malviyanaman.github.io/STAT184_File1/> |
 | Anikate Ganju     | Section 001       | azg247              | <https://anikateganju.github.io/stat184demo/> |
+| Ruijie Huang      | Section 001       | RayjahH             | <https://rayjayh.github.io/Ray-Stat184-repo/> |
 | Zhiyuan Xue       | Section 001       | davidxuezhiyuan     | https://davidzhiyuanxue.github.io/David184/ |
 
 <br>
