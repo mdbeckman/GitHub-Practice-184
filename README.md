@@ -61,7 +61,7 @@
 | Zhejing Shi       | Section 001       | zhejingshi          | <https://zhejingshi.github.io/stats184Test/> |
 | Arush Pamulapati  | Section 001       | ajp6312             | <https://ajp6312.github.io/GitHub-Practice-184/>|
 | Naman Malviya     | Section 001       | nzm5366             | https://malviyanaman.github.io/STAT184_File1/ |
-
+| Anikate Ganju     | Section 001       | azg247              | <https://anikateganju.github.io/stat184demo/> |
 
 <br>
 
