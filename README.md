@@ -56,6 +56,11 @@
 | Vineet Sudhir     | Section 001       | VineetSudhir        | <https://vineetsudhir.github.io/STAT184-Github-1/>|
 | Yuqi Gao          | Section 001       | Yuqi-Gao            | <https://yuqi-gao.github.io/Stat-184-practice/> |
 | Zach Struthers    | Section 001       | zts5112             | <https://zts5112.github.io/STAT184/> |
+| Alan Chang        | Section 001       | AlanWChang          | <https://alanwchang.github.io/ReadMe/>|
+| Gary A Modzelewski| Section 001       | gamodzel            | <https://gamodzel.github.io/stat-184/> |
+| Zhejing Shi       | Section 001       | zhejingshi          | <https://zhejingshi.github.io/stats184Test/> |
+| Arush Pamulapati  | Section 001       | ajp6312             | <https://ajp6312.github.io/GitHub-Practice-184/>|
+
 <br>
 
 # Integration of RStudio with Git
