@@ -60,7 +60,7 @@
 | Gary A Modzelewski| Section 001       | gamodzel            | <https://gamodzel.github.io/stat-184/> |
 | Zhejing Shi       | Section 001       | zhejingshi          | <https://zhejingshi.github.io/stats184Test/> |
 | Arush Pamulapati  | Section 001       | ajp6312             | <https://ajp6312.github.io/GitHub-Practice-184/>|
-
+| Kaiyi Huang       | Section 001       | Kaiy-psu            | https://kaiy-psu.github.io/184/|
 <br>
 
 # Integration of RStudio with Git
