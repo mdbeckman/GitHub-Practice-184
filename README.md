@@ -46,12 +46,12 @@
 | Daniel Jung       | Section 001       | dqj5182             | <https://dqj5182.github.io/stat184/>     | 
 | Iffah Mohamad Saufi | Section 001     | ivm5141             | <https://ivm5141.github.io/Saufi-github-demo/> |
 | Jessie Li         | Section 001       | ZHILIJESSIE         |  <https://zhilijessie.github.io/Githubpractice/> | 
-| Alexander Schweizer| Section 001      | ASchweizer31        |  https://aschweizer31.github.io/Schweizer-GitHub/|
+| Alexander Schweizer| Section 001      | ASchweizer31        |  <https://aschweizer31.github.io/Schweizer-GitHub/> |
 | Yan Gong          | Section 001       | shiroemon99         | <https://shiroemon99.github.io/STAT_184/> |
 | Jonathan Sguera   | Section 001       | JSguera             | <https://jsguera.github.io/Stat-184/>
 | Kelly Cooper      |Section 001        | kmc6671             | <https://kmc6671.github.io/ReadMe/> |
 | Xigang Zhang      | Section 001       | xxz5346             | <https://github.com/xxz5346/Xigang-Zhang.git>|
-| Chinmay Pendse    | Section 001       | pendsec             | https://pendsec.github.io/Stat184-1/ |
+| Chinmay Pendse    | Section 001       | pendsec             | <https://pendsec.github.io/Stat184-1/> |
 | Kevin Suryanto    | Section 001       | kevinsuryanto       | <https://kevinsuryanto.github.io/stat184/> |
 | Vineet Sudhir     | Section 001       | VineetSudhir        | <https://vineetsudhir.github.io/STAT184-Github-1/>|
 | Yuqi Gao          | Section 001       | Yuqi-Gao            | <https://yuqi-gao.github.io/Stat-184-practice/> |
@@ -60,7 +60,8 @@
 | Gary A Modzelewski| Section 001       | gamodzel            | <https://gamodzel.github.io/stat-184/> |
 | Zhejing Shi       | Section 001       | zhejingshi          | <https://zhejingshi.github.io/stats184Test/> |
 | Arush Pamulapati  | Section 001       | ajp6312             | <https://ajp6312.github.io/GitHub-Practice-184/>|
-| Naman Malviya     | Section 001       | nzm5366             | https://malviyanaman.github.io/STAT184_File1/ |
+| Kaiyi Huang       | Section 001       | Kaiy-psu            | <https://kaiy-psu.github.io/184/>|
+| Naman Malviya     | Section 001       | nzm5366             | <https://malviyanaman.github.io/STAT184_File1/> |
 | Anikate Ganju     | Section 001       | azg247              | <https://anikateganju.github.io/stat184demo/> |
 
 <br>
