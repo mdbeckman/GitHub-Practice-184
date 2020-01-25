@@ -79,6 +79,7 @@
 | Matthew Hines     | Section 003       | h1n3z                | <https://h1n3z.github.io/Stat184Assignment1/>  |
 | Penghao Zeng      | Section 003      | Carina920             | <https://Carina920.github.io/STAT-184/>| 
 |Ayooluwatomiwa Ogunrombi| Secton 004| aogunrombi28             |<https://aogunrombi28.github.io/Assignment-1/> |
+| Nathan Sylvain    |  Section 004 | nfs5239                    |<https://nfs5239.github.io/readme/>            |
 
 <br>
 
