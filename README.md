@@ -81,7 +81,7 @@
 |Ayooluwatomiwa Ogunrombi| Secton 004| aogunrombi28             |<https://aogunrombi28.github.io/Assignment-1/> |
 |Taksh Anand        | Section 003       | taksh99              |<https://taksh99.github.io/stat184/>|
 | test              | test              | test                 | <https://ahu17.github.io/demo/>
-
+| Zoey Ye           | Section 004       |    ZoeyYezy          | <https://zoeyyezy.github.io/STAT184-Practice/>
 <br>
 
 # Integration of RStudio with Git
