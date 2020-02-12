@@ -65,7 +65,7 @@
 | Anikate Ganju     | Section 001       | azg247              | <https://anikateganju.github.io/stat184demo/> |
 | Ruijie Huang      | Section 001       | RayjahH             | <https://rayjayh.github.io/Ray-Stat184-repo/> |
 | Zhiyuan Xue       | Section 001       | davidxuezhiyuan     | https://davidzhiyuanxue.github.io/David184/ |
-
+|Jiahui Cheng       | section 001       | Cheng19970228       |  https://github.com/Cheng19970228/GitHub-Practice-184 
 <br>
 
 # Integration of RStudio with Git
