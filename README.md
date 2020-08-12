@@ -18,7 +18,7 @@
     - (2 pts) first & last name  
     - (1 pt) class day and time
     - (2 pts) github id  
-    - (2 pts) url for GitHub Pages website generated from your GitHub repo 
+    - (2 pts) url for GitHub Pages website generated from your GitHub repo   
             - by default it will include "[userID].github.io" at the beginning   
             - it's **NOT** just the URL of the source repo itself  
     - (2 pts) commit your changes and submit pull request   
