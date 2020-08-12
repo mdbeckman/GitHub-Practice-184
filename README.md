@@ -19,8 +19,8 @@
     - (1 pt) class day and time
     - (2 pts) github id  
     - (2 pts) url for GitHub Pages website generated from your GitHub repo 
-            - by default it will include "[userID].github.io" at the beginning
-            - it's **NOT** just the URL of the source repo itself
+            - by default it will include "[userID].github.io" at the beginning   
+            - it's **NOT** just the URL of the source repo itself  
     - (2 pts) commit your changes and submit pull request   
             - write a **descriptive** commit message (e.g. "added **your name** to class table")  
             - click green button "Propose file change" & start pull request  
