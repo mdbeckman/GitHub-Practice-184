@@ -49,6 +49,7 @@
 | Tanya Wang              | Section 001         | twang53              | <https://twang53.github.io/STAT184/>                    |
 | Jessie Liang            | Section 001         | lhy015               | <https://lhy015.github.io/Github-Practice-184/>         |
 | Yuxin Liu               | Section 001         | meelaeawes           | <https://meeleaewes.github.io/yuxinliu/>                |
+| Mitchell Wentzel        | Section 001         | msw5465              | <https://msw5465.github.io/msw5465/>                    |
 
 
 # Integration of RStudio with Git
