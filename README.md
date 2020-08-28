@@ -72,6 +72,7 @@
 | Anikate Ganju           | Section 003         | AnikateGanju         | <https://anikateganju.github.io/Stat_Playground/>       |
 | Haichen Wei             | Section 003         | hxw5245              | <https://hxw5245.github.io/Wei_Repo/>                   |
 | Alyssa Knapp            | Section 003         | alyssaknapp          | <https://alyssaknapp.github.io/AlyssaKnapp-Repo/>       |
+| Nurul Syafiqah Mohammad | Section 003         | NurulSyafiqah-pixel  | <https://nurulsyafiqah-pixel.github.io/Nurul-repo-lab/> | 
 
 
 # Integration of RStudio with Git
