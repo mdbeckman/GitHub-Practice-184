@@ -68,6 +68,7 @@
 | Jiarui Fan              | Section 003         | JiaruiFan            | <https://jiaruifan.github.io/readme/>                   |
 | Daniel Chadourne        | Section 003         | dac5928              | <https://dac5928.github.io/Stat-184-Repo/>              |
 | Ethan Fang              | Section 003         | edfang192            | <https://edfang192.github.io/Projects/>                 | 
+| Anikate Ganju           | Section 003         | AnikateGanju         | https://anikateganju.github.io/Stat_Playground/         |
 
 
 # Integration of RStudio with Git
