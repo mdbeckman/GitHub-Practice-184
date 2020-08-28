@@ -43,6 +43,7 @@
 | Tyler Applegate         | Section 001         | tylerapplegate       | <https://tylerapplegate.github.io/GitHubPractice/>      |
 | Angela Bao              | Section 001         | AngelaBao            | <https://angelabao.github.io/github-stat184/>           |
 | Lauren Walko            | Section 001         | laurenwalko          |  https://laurenwalko.github.io/githubpractice184/       |
+| Tamara Stugan           | Section 001         | Tammy1799            | <https://tammy1799.github.io/Github-Practice-Demo/>
 
 
 # Integration of RStudio with Git
