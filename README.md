@@ -70,6 +70,7 @@
 | Ethan Fang              | Section 003         | edfang192            | <https://edfang192.github.io/Projects/>                 | 
 | Anikate Ganju           | Section 003         | AnikateGanju         | https://anikateganju.github.io/Stat_Playground/         |
 | Anikate Ganju           | Section 003         | AnikateGanju         | <https://anikateganju.github.io/Stat_Playground/>       |
+| Haichen Wei             | Section 003         | hxw5245              | <https://hxw5245.github.io/Wei_Repo/>                   |
 
 
 # Integration of RStudio with Git
