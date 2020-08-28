@@ -62,6 +62,7 @@
 | Aaron Harter            | Section 003         | Aarett               | <https://aarett.github.io/STAT184_GitHub_Practice_amh7015/>|  
 | Sihan Wu                | Section 003         | Sihan-Wu             | <https://sihan-wu.github.io/repo/>
 | Owen Lloyd              | Section 003         | greenowl925          | <https://greenowl925.github.io/stat184>                 |  
+| Sujian Jiang            | Section 003         | sujianjiang          | <https://sujianjiang.github.io/sujian/>                 |
 
 
 # Integration of RStudio with Git
