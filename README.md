@@ -35,7 +35,7 @@
 |Name                     |Class Section        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:--------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           |  
-
+| Nurul Syafiqah Mohammad | Section 003         | NurulSyafiqah-pixel  | <https://nurulsyafiqah-pixel.github.io/Nurul-repo-lab/> | 
 
 
 # Integration of RStudio with Git
