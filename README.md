@@ -34,7 +34,8 @@
 
 |Name                     |Class Section        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:--------------------|:---------------------|:--------------------------------------------------------|  
-| Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           |  
+| Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           | 
+| Adam DeCaria            | Section 001         | adecaria             | <https://adecaria.github.io/Github-Practice-Demo/>      |
 
 
 
