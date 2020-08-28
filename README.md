@@ -66,6 +66,7 @@
 | Jared Rossi             | Section 003         | jsr5495              | <https://jsr5495.github.io/jsr-repo/>                   |
 | Ziang Shi               | Section 003         | sedwardshi           | <https://github.com/sedwardshi/ziang-repo-practice>     |
 | Jiarui Fan              | Section 003         | JiaruiFan            | <https://jiaruifan.github.io/readme/>                   |
+| Daniel Chadourne        | Section 003         | dac5928              | <https://dac5928.github.io/Stat-184-Repo/>              |
 
 
 # Integration of RStudio with Git
