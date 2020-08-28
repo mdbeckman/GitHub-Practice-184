@@ -45,6 +45,7 @@
 | Lauren Walko            | Section 001         | laurenwalko          |  https://laurenwalko.github.io/githubpractice184/       |
 | Tamara Stugan           | Section 001         | Tammy1799            | <https://tammy1799.github.io/Github-Practice-Demo/>
 | Martin Boyle            | Section 001         | mzb400               | <https://mzb400.github.io/Github-Practice/>             |
+| Kingston Hu             | Section 001         | kzh5543              | <https://kzh5543.github.io/kingstonhu/>                 |
 
 
 # Integration of RStudio with Git
