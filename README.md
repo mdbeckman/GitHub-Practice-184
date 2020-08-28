@@ -50,6 +50,7 @@
 | Jessie Liang            | Section 001         | lhy015               | <https://lhy015.github.io/Github-Practice-184/>         |
 | Yuxin Liu               | Section 001         | meelaeawes           | <https://meeleaewes.github.io/yuxinliu/>                |
 | Mitchell Wentzel        | Section 001         | msw5465              | <https://msw5465.github.io/msw5465/>                    |
+| Jessica Eshenbaugh      | Section 001         | jessesh1634          | <https://jessesh1634.github.io/Practice-Repository/>    |
 
 
 # Integration of RStudio with Git
