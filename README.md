@@ -34,9 +34,15 @@
 
 |Name                     |Class Section        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:--------------------|:---------------------|:--------------------------------------------------------|  
-| Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           |  
+| Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           | 
+| Adam DeCaria            | Section 001         | adecaria             | <https://adecaria.github.io/Github-Practice-Demo/>      |
+| Ally Racho              | Section 001         | allyracho            | <https://allyracho.github.io/Github-Practice---Stat184/>|
+| Colin Arscott           | Section 001         | tint3dgreen          | <https://tint3dgreen.github.io/184-practice/>           |
+| Saikiran Nuthakki       | Section 001         | snuthakki08          | <https://snuthakki08.github.io/STAT-184/>               |
+| Vaishali Devarakonda    | Section 001         | vdevarakonda23       | <https://vdevarakonda23.github.io/Stat-184-GitHub-Practice/>  |
+| Tyler Applegate         | Section 001         | tylerapplegate       | <https://tylerapplegate.github.io/GitHubPractice/>      |
+| Angela Bao              | Section 001         | AngelaBao            | <https://angelabao.github.io/github-stat184/>           |
 | Lauren Walko            | Section 001         | laurenwalko          |  https://laurenwalko.github.io/githubpractice184/       |
-
 
 
 # Integration of RStudio with Git
