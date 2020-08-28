@@ -38,6 +38,8 @@
 | Adam DeCaria            | Section 001         | adecaria             | <https://adecaria.github.io/Github-Practice-Demo/>      |
 | Ally Racho              | Section 001         | allyracho            | <https://allyracho.github.io/Github-Practice---Stat184/>|
 | Colin Arscott           | Section 001         | tint3dgreen          | <https://tint3dgreen.github.io/184-practice/>           |
+| Saikiran Nuthakki       | Section 001         | snuthakki08          | <https://snuthakki08.github.io/STAT-184/>               |
+
 
 # Integration of RStudio with Git
 
