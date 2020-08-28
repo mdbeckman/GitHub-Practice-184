@@ -65,6 +65,7 @@
 | Sujian Jiang            | Section 003         | sujianjiang          | <https://sujianjiang.github.io/sujian/>                 |
 | Jared Rossi             | Section 003         | jsr5495              | <https://jsr5495.github.io/jsr-repo/>                   |
 | Ziang Shi               | Section 003         | sedwardshi           | <https://github.com/sedwardshi/ziang-repo-practice>     |
+| Jiarui Fan              | Section 003         | JiaruiFan            | <https://jiaruifan.github.io/readme/>                   |
 
 
 # Integration of RStudio with Git
