@@ -55,6 +55,7 @@
 | Riya Mishra             | Section 001         | rmm2000              | <https://rmm2000.github.io/GithubPractice/>             |
 | Angela Li               | Section 001         | axl5650              | <https://axl5650.github.io/>                            |
 | Tyler Farr              | Section 001         | tzf19                | <https://tzf19.github.io/Farr_Tyler_Stat184/>           |
+| Nadith Dharmasena       | Section 001         | nadithdharmasena     | <https://nadithdharmasena.github.io/Stat-184-Github-Practice/> |
 
 
 # Integration of RStudio with Git
