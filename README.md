@@ -73,6 +73,7 @@
 | Haichen Wei             | Section 003         | hxw5245              | <https://hxw5245.github.io/Wei_Repo/>                   |
 | Alyssa Knapp            | Section 003         | alyssaknapp          | <https://alyssaknapp.github.io/AlyssaKnapp-Repo/>       |
 | Nurul Syafiqah Mohammad | Section 003         | NurulSyafiqah-pixel  | <https://nurulsyafiqah-pixel.github.io/Nurul-repo-lab/> | 
+| Yichen Shi              | Section 003         | yichen-shi           | <https://yichen-shi.github.io/Practice/>
 
 
 # Integration of RStudio with Git
