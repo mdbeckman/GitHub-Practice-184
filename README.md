@@ -34,7 +34,9 @@
 
 |Name                     |Class Section        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:--------------------|:---------------------|:--------------------------------------------------------|  
-| Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           |  
+| Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           |
+| Tyler Farr              | Section 001         | tzf19                | <https://tzf19.github.io/Farr_Tyler_Stat184/>           |
+
 
 
 
