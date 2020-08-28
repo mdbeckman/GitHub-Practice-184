@@ -42,6 +42,7 @@
 | Vaishali Devarakonda    | Section 001         | vdevarakonda23       | <https://vdevarakonda23.github.io/Stat-184-GitHub-Practice/>  |
 | Tyler Applegate         | Section 001         | tylerapplegate       | <https://tylerapplegate.github.io/GitHubPractice/>      |
 | Angela Bao              | Section 001         | AngelaBao            | <https://angelabao.github.io/github-stat184/>           |
+| Lauren Walko            | Section 001         | laurenwalko          |  https://laurenwalko.github.io/githubpractice184/       |
 
 
 # Integration of RStudio with Git
