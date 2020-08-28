@@ -54,6 +54,7 @@
 | Jinhan Li               | Section 001         | Carol37              | <https://carol37.github.io/STAT-184/>                   |
 | Riya Mishra             | Section 001         | rmm2000              | <https://rmm2000.github.io/GithubPractice/>             |
 | Angela Li               | Section 001         | axl5650              | <https://axl5650.github.io/>                            |
+| Tyler Farr              | Section 001         | tzf19                | <https://tzf19.github.io/Farr_Tyler_Stat184/>           |
 
 
 # Integration of RStudio with Git
