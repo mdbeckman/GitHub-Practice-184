@@ -56,6 +56,7 @@
 | Angela Li               | Section 001         | axl5650              | <https://axl5650.github.io/>                            |
 | Tyler Farr              | Section 001         | tzf19                | <https://tzf19.github.io/Farr_Tyler_Stat184/>           |
 | Nadith Dharmasena       | Section 001         | nadithdharmasena     | <https://nadithdharmasena.github.io/Stat-184-Github-Practice/> |
+| Nathaniel Carson        | Section 001         | ntc5102              | <https://ntc5102.github.io/repo/>                       |
 
 
 # Integration of RStudio with Git
