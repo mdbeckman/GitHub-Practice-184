@@ -36,8 +36,7 @@
 |:------------------------|:--------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           | 
 | Adam DeCaria            | Section 001         | adecaria             | <https://adecaria.github.io/Github-Practice-Demo/>      |
-
-
+| Ally Racho              | Section 001         | allyracho            | <https://allyracho.github.io/Github-Practice---Stat184/>|
 
 # Integration of RStudio with Git
 
