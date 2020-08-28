@@ -52,6 +52,7 @@
 | Mitchell Wentzel        | Section 001         | msw5465              | <https://msw5465.github.io/msw5465/>                    |
 | Jessica Eshenbaugh      | Section 001         | jessesh1634          | <https://jessesh1634.github.io/Practice-Repository/>    |
 | Jinhan Li               | Section 001         | Carol37              | <https://carol37.github.io/STAT-184/>                   |
+| Riya Mishra             | Section 001         | rmm2000              | <https://rmm2000.github.io/GithubPractice/>             |
 
 
 # Integration of RStudio with Git
