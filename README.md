@@ -67,6 +67,7 @@
 | Ziang Shi               | Section 003         | sedwardshi           | <https://github.com/sedwardshi/ziang-repo-practice>     |
 | Jiarui Fan              | Section 003         | JiaruiFan            | <https://jiaruifan.github.io/readme/>                   |
 | Daniel Chadourne        | Section 003         | dac5928              | <https://dac5928.github.io/Stat-184-Repo/>              |
+| Ethan Fang              | Section 003         | edfang192            | <https://edfang192.github.io/Projects/>                 | 
 
 
 # Integration of RStudio with Git
