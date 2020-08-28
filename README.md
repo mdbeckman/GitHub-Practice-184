@@ -35,6 +35,7 @@
 |Name                     |Class Section        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:--------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           |  
+| Nathaniel Carson        | Section 001         | ntc5102              | <https://ntc5102.github.io/repo/>                       |
 
 
 
