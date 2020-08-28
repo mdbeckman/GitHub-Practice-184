@@ -40,7 +40,7 @@
 | Colin Arscott           | Section 001         | tint3dgreen          | <https://tint3dgreen.github.io/184-practice/>           |
 | Saikiran Nuthakki       | Section 001         | snuthakki08          | <https://snuthakki08.github.io/STAT-184/>               |
 | Vaishali Devarakonda    | Section 001         | vdevarakonda23       | <https://vdevarakonda23.github.io/Stat-184-GitHub-Practice/>  |
-
+| Tyler Applegate         | Section 001         | tylerapplegate       | <https://tylerapplegate.github.io/GitHubPractice/>      |
 
 
 # Integration of RStudio with Git
