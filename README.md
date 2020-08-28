@@ -34,7 +34,8 @@
 
 |Name                     |Class Section        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:--------------------|:---------------------|:--------------------------------------------------------|  
-| Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           |  
+| Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           |
+| Vaishali Devarakonda    | Section 001         | vdevarakonda23       | <https://vdevarakonda23.github.io/Stat-184-GitHub-Practice/>  |
 
 
 
