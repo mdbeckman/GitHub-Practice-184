@@ -64,6 +64,7 @@
 | Owen Lloyd              | Section 003         | greenowl925          | <https://greenowl925.github.io/stat184>                 |  
 | Sujian Jiang            | Section 003         | sujianjiang          | <https://sujianjiang.github.io/sujian/>                 |
 | Jared Rossi             | Section 003         | jsr5495              | <https://jsr5495.github.io/jsr-repo/>                   |
+| Ziang Shi               | Section 003         | sedwardshi           | <https://github.com/sedwardshi/ziang-repo-practice>     |
 
 
 # Integration of RStudio with Git
