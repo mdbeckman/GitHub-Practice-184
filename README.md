@@ -35,7 +35,7 @@
 |Name                     |Class Section        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:--------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           |  
-
+| Martin Boyle            | Section 001         | mzb400               | <https://mzb400.github.io/Github-Practice/>             |
 
 
 # Integration of RStudio with Git
