@@ -76,6 +76,8 @@
 | Yichen Shi              | Section 003         | yichen-shi           | <https://yichen-shi.github.io/Practice/>
 | Yuqi He                 | Section 003         | Bigmichyk            | https://bigmichyk.github.io/Yuqi-repo/                  |
 | Yiwen Huang             | Section 003         | yyh5172              | <https://yyh5172.github.io/Fall2020_STAT184/>           |
+| Josiah Kim | Section 001  | josiahckim | <https://josiahckim.github.io/GitHub-Practice/>|
+
 
 
 # Integration of RStudio with Git
