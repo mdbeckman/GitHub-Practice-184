@@ -75,6 +75,7 @@
 | Nurul Syafiqah Mohammad | Section 003         | NurulSyafiqah-pixel  | <https://nurulsyafiqah-pixel.github.io/Nurul-repo-lab/> | 
 | Yichen Shi              | Section 003         | yichen-shi           | <https://yichen-shi.github.io/Practice/>
 | Yuqi He                 | Section 003         | Bigmichyk            | https://bigmichyk.github.io/Yuqi-repo/                  |
+| Yiwen Huang             | Section 003         | yyh5172              | <https://yyh5172.github.io/Fall2020_STAT184/>           |
 
 
 # Integration of RStudio with Git
