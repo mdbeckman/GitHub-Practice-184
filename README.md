@@ -78,6 +78,7 @@
 | Yuqi He                 | Section 003         | Bigmichyk            | https://bigmichyk.github.io/Yuqi-repo/                  |
 | Yiwen Huang             | Section 003         | yyh5172              | <https://yyh5172.github.io/Fall2020_STAT184/>           |
 | Lauren Smith            | Section 001         | laurensmith17        | https://laurensmith17.github.io/stat184/                |
+| Ellen Liu               | Section 003         | Ellen5866            | <https://ellen5866.github.io/GitHub-Practice-184/>      |
 
 # Integration of RStudio with Git
 
