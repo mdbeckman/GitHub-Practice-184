@@ -57,6 +57,7 @@
 | Tyler Farr              | Section 001         | tzf19                | <https://tzf19.github.io/Farr_Tyler_Stat184/>           |
 | Nadith Dharmasena       | Section 001         | nadithdharmasena     | <https://nadithdharmasena.github.io/Stat-184-Github-Practice/> |
 | Nathaniel Carson        | Section 001         | ntc5102              | <https://ntc5102.github.io/repo/>                       |
+| Yuzhe W ang             | Section 001         | yuzhe428             | <https://yuzhe428.github.io/Yuzhe-Repo/>                |
 | Charlie Lu              | Section 003         | VitiminC             | <https://vitiminc.github.io/GitHub-Practice-STAT-184/>  |
 | Calvin Pash             | Section 003         | calvinpash           | <https://github.com/calvinpash/urban-octo-carnival>     |
 | Aaron Harter            | Section 003         | Aarett               | <https://aarett.github.io/STAT184_GitHub_Practice_amh7015/>|  
@@ -76,9 +77,9 @@
 | Yichen Shi              | Section 003         | yichen-shi           | <https://yichen-shi.github.io/Practice/>
 | Yuqi He                 | Section 003         | Bigmichyk            | https://bigmichyk.github.io/Yuqi-repo/                  |
 | Yiwen Huang             | Section 003         | yyh5172              | <https://yyh5172.github.io/Fall2020_STAT184/>           |
+| Lauren Smith            | Section 001         | laurensmith17        | https://laurensmith17.github.io/stat184/                |
+| Ellen Liu               | Section 003         | Ellen5866            | <https://ellen5866.github.io/GitHub-Practice-184/>      |
 | Josiah Kim | Section 001  | josiahckim | <https://josiahckim.github.io/GitHub-Practice/>|
-
-
 
 # Integration of RStudio with Git
 
