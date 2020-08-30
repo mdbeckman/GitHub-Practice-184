@@ -57,6 +57,7 @@
 | Tyler Farr              | Section 001         | tzf19                | <https://tzf19.github.io/Farr_Tyler_Stat184/>           |
 | Nadith Dharmasena       | Section 001         | nadithdharmasena     | <https://nadithdharmasena.github.io/Stat-184-Github-Practice/> |
 | Nathaniel Carson        | Section 001         | ntc5102              | <https://ntc5102.github.io/repo/>                       |
+| Yuzhe W ang             | Section 001         | yuzhe428             | <https://yuzhe428.github.io/Yuzhe-Repo/>                |
 | Charlie Lu              | Section 003         | VitiminC             | <https://vitiminc.github.io/GitHub-Practice-STAT-184/>  |
 | Calvin Pash             | Section 003         | calvinpash           | <https://github.com/calvinpash/urban-octo-carnival>     |
 | Aaron Harter            | Section 003         | Aarett               | <https://aarett.github.io/STAT184_GitHub_Practice_amh7015/>|  
