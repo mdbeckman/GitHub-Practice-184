@@ -79,7 +79,7 @@
 | Lauren Smith            | Section 001         | laurensmith17        | https://laurensmith17.github.io/stat184/                |
 | Ellen Liu               | Section 003         | Ellen5866            | <https://ellen5866.github.io/GitHub-Practice-184/>      |
 | Josiah Kim | Section 001  | josiahckim | <https://josiahckim.github.io/GitHub-Practice/>|
-
+| Zachary Price           | Section 003         | zachprice12          | <https://zachprice12.github.io/Stat-184/>               | 
 # Integration of RStudio with Git
 
 - Simplified instructions: Canvas >> STAT 184 >> Files >> GitHub-RStudio-Config.html  
