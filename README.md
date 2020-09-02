@@ -86,6 +86,7 @@
 | Zachary Price           | Section 003         | zachprice12          | <https://zachprice12.github.io/Stat-184/>               | 
 | Menghan Zhang           | Section 003         | LareinaZhang1210     | <https://lareinazhang1210.github.io/Menghan-Repo/>      | 
 | Zhaoxi Chang            | Section 003         | zbc5124              | <https://zbc5124.github.io/Zhaoxi-Repo/>                |
+| Jessica Dougherty       | Section 003 |jmfdougherty |  https://jmfdougherty.github.io/Dougherty-Stat184/
 
 # Integration of RStudio with Git
 
