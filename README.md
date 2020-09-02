@@ -34,7 +34,54 @@
 
 |Name                     |Class Section        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:--------------------|:---------------------|:--------------------------------------------------------|  
-| Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           |  
+| Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           | 
+| Adam DeCaria            | Section 001         | adecaria             | <https://adecaria.github.io/Github-Practice-Demo/>      |
+| Ally Racho              | Section 001         | allyracho            | <https://allyracho.github.io/Github-Practice---Stat184/>|
+| Colin Arscott           | Section 001         | tint3dgreen          | <https://tint3dgreen.github.io/184-practice/>           |
+| Saikiran Nuthakki       | Section 001         | snuthakki08          | <https://snuthakki08.github.io/STAT-184/>               |
+| Vaishali Devarakonda    | Section 001         | vdevarakonda23       | <https://vdevarakonda23.github.io/Stat-184-GitHub-Practice/>  |
+| Tyler Applegate         | Section 001         | tylerapplegate       | <https://tylerapplegate.github.io/GitHubPractice/>      |
+| Angela Bao              | Section 001         | AngelaBao            | <https://angelabao.github.io/github-stat184/>           |
+| Lauren Walko            | Section 001         | laurenwalko          |  https://laurenwalko.github.io/githubpractice184/       |
+| Tamara Stugan           | Section 001         | Tammy1799            | <https://tammy1799.github.io/Github-Practice-Demo/>
+| Martin Boyle            | Section 001         | mzb400               | <https://mzb400.github.io/Github-Practice/>             |
+| Kingston Hu             | Section 001         | kzh5543              | <https://kzh5543.github.io/kingstonhu/>                 |
+| Tanya Wang              | Section 001         | twang53              | <https://twang53.github.io/STAT184/>                    |
+| Jessie Liang            | Section 001         | lhy015               | <https://lhy015.github.io/Github-Practice-184/>         |
+| Yuxin Liu               | Section 001         | meelaeawes           | <https://meeleaewes.github.io/yuxinliu/>                |
+| Mitchell Wentzel        | Section 001         | msw5465              | <https://msw5465.github.io/msw5465/>                    |
+| Jessica Eshenbaugh      | Section 001         | jessesh1634          | <https://jessesh1634.github.io/Practice-Repository/>    |
+| Jinhan Li               | Section 001         | Carol37              | <https://carol37.github.io/STAT-184/>                   |
+| Riya Mishra             | Section 001         | rmm2000              | <https://rmm2000.github.io/GithubPractice/>             |
+| Angela Li               | Section 001         | axl5650              | <https://axl5650.github.io/>                            |
+| Tyler Farr              | Section 001         | tzf19                | <https://tzf19.github.io/Farr_Tyler_Stat184/>           |
+| Nadith Dharmasena       | Section 001         | nadithdharmasena     | <https://nadithdharmasena.github.io/Stat-184-Github-Practice/> |
+| Nathaniel Carson        | Section 001         | ntc5102              | <https://ntc5102.github.io/repo/>                       |
+| Yuzhe W ang             | Section 001         | yuzhe428             | <https://yuzhe428.github.io/Yuzhe-Repo/>                |
+| Charlie Lu              | Section 003         | VitiminC             | <https://vitiminc.github.io/GitHub-Practice-STAT-184/>  |
+| Calvin Pash             | Section 003         | calvinpash           | <https://github.com/calvinpash/urban-octo-carnival>     |
+| Aaron Harter            | Section 003         | Aarett               | <https://aarett.github.io/STAT184_GitHub_Practice_amh7015/>|  
+| Sihan Wu                | Section 003         | Sihan-Wu             | <https://sihan-wu.github.io/repo/>
+| Owen Lloyd              | Section 003         | greenowl925          | <https://greenowl925.github.io/stat184>                 |  
+| Sujian Jiang            | Section 003         | sujianjiang          | <https://sujianjiang.github.io/sujian/>                 |
+| Jared Rossi             | Section 003         | jsr5495              | <https://jsr5495.github.io/jsr-repo/>                   |
+| Ziang Shi               | Section 003         | sedwardshi           | <https://sedwardshi.github.io/ziang-repo-practice/>     |
+| Jiarui Fan              | Section 003         | JiaruiFan            | <https://jiaruifan.github.io/readme/>                   |
+| Daniel Chadourne        | Section 003         | dac5928              | <https://dac5928.github.io/Stat-184-Repo/>              |
+| Ethan Fang              | Section 003         | edfang192            | <https://edfang192.github.io/Projects/>                 | 
+| Anikate Ganju           | Section 003         | AnikateGanju         | <https://anikateganju.github.io/Stat_Playground/>       |
+| Haichen Wei             | Section 003         | hxw5245              | <https://hxw5245.github.io/Wei_Repo/>                   |
+| Alyssa Knapp            | Section 003         | alyssaknapp          | <https://alyssaknapp.github.io/AlyssaKnapp-Repo/>       |
+| Nurul Syafiqah Mohammad | Section 003         | NurulSyafiqah-pixel  | <https://nurulsyafiqah-pixel.github.io/Nurul-repo-lab/> | 
+| Yichen Shi              | Section 003         | yichen-shi           | <https://yichen-shi.github.io/Practice/>
+| Yuqi He                 | Section 003         | Bigmichyk            | https://bigmichyk.github.io/Yuqi-repo/                  |
+| Yiwen Huang             | Section 003         | yyh5172              | <https://yyh5172.github.io/Fall2020_STAT184/>           |
+| Lauren Smith            | Section 001         | laurensmith17        | https://laurensmith17.github.io/stat184/                |
+| Ellen Liu               | Section 003         | Ellen5866            | <https://ellen5866.github.io/GitHub-Practice-184/>      |
+| Josiah Kim | Section 001  | josiahckim | <https://josiahckim.github.io/GitHub-Practice/>|
+| Garrett Parrish         | Section 003         | gjp5220              | <https://gjp5220.github.io/Stats184GP/>                 |
+| Yining Fan              | Section 003         | Yining-Fan           | <https://yining-fan.github.io/Yining-Repo/>             |
+| Manasvi Mittal          | Section 001         | manasvimittal22      | <https://manasvimittal22.github.io/DS-Fall-2020/>       |
 | Ryan Murphy             | Section 001         | rjm6444              | < https://rjm6444.github.io/Githbu-Practice-184/>       |
 
 
