@@ -87,7 +87,7 @@
 | Menghan Zhang           | Section 003         | LareinaZhang1210     | <https://lareinazhang1210.github.io/Menghan-Repo/>      | 
 | Zhaoxi Chang            | Section 003         | zbc5124              | <https://zbc5124.github.io/Zhaoxi-Repo/>                |
 | Jessica Dougherty       | Section 003 |jmfdougherty |  https://jmfdougherty.github.io/Dougherty-Stat184/
-
+| Qihang Qiu.             | Section 001         | Qihang-Sail          | <https://qihang-sail.github.io/GitHub-Practice-184/.>.  |
 # Integration of RStudio with Git
 
 - Simplified instructions: Canvas >> STAT 184 >> Files >> GitHub-RStudio-Config.html  
