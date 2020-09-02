@@ -78,9 +78,10 @@
 | Yiwen Huang             | Section 003         | yyh5172              | <https://yyh5172.github.io/Fall2020_STAT184/>           |
 | Lauren Smith            | Section 001         | laurensmith17        | https://laurensmith17.github.io/stat184/                |
 | Ellen Liu               | Section 003         | Ellen5866            | <https://ellen5866.github.io/GitHub-Practice-184/>      |
-| Yining Fan              | Section 003         | Yining-Fan           | <https://yining-fan.github.io/Yining-Repo/>             |
 | Josiah Kim | Section 001  | josiahckim | <https://josiahckim.github.io/GitHub-Practice/>|
 | Garrett Parrish         | Section 003         | gjp5220              | <https://gjp5220.github.io/Stats184GP/>                 |
+| Yining Fan              | Section 003         | Yining-Fan           | <https://yining-fan.github.io/Yining-Repo/>             |
+| Manasvi Mittal          | Section 001         | manasvimittal22      | <https://manasvimittal22.github.io/DS-Fall-2020/>       |
 
 
 # Integration of RStudio with Git
