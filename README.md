@@ -84,7 +84,7 @@
 | Manasvi Mittal          | Section 001         | manasvimittal22      | <https://manasvimittal22.github.io/DS-Fall-2020/>       |
 | Ryan Murphy             | Section 001         | rjm6444              | < https://rjm6444.github.io/Githbu-Practice-184/>       |
 | Zachary Price           | Section 003         | zachprice12          | <https://zachprice12.github.io/Stat-184/>               | 
-
+| Jessica Dougherty       | Section 003 |jmfdougherty |  https://jmfdougherty.github.io/Dougherty-Stat184/
 # Integration of RStudio with Git
 
 - Simplified instructions: Canvas >> STAT 184 >> Files >> GitHub-RStudio-Config.html  
