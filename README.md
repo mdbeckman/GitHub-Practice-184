@@ -65,7 +65,7 @@
 | Owen Lloyd              | Section 003         | greenowl925          | <https://greenowl925.github.io/stat184>                 |  
 | Sujian Jiang            | Section 003         | sujianjiang          | <https://sujianjiang.github.io/sujian/>                 |
 | Jared Rossi             | Section 003         | jsr5495              | <https://jsr5495.github.io/jsr-repo/>                   |
-| Ziang Shi               | Section 003         | sedwardshi           | <https://github.com/sedwardshi/ziang-repo-practice>     |
+| Ziang Shi               | Section 003         | sedwardshi           | <https://sedwardshi.github.io/ziang-repo-practice/>     |
 | Jiarui Fan              | Section 003         | JiaruiFan            | <https://jiaruifan.github.io/readme/>                   |
 | Daniel Chadourne        | Section 003         | dac5928              | <https://dac5928.github.io/Stat-184-Repo/>              |
 | Ethan Fang              | Section 003         | edfang192            | <https://edfang192.github.io/Projects/>                 | 
