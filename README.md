@@ -65,7 +65,7 @@
 | Owen Lloyd              | Section 003         | greenowl925          | <https://greenowl925.github.io/stat184>                 |  
 | Sujian Jiang            | Section 003         | sujianjiang          | <https://sujianjiang.github.io/sujian/>                 |
 | Jared Rossi             | Section 003         | jsr5495              | <https://jsr5495.github.io/jsr-repo/>                   |
-| Ziang Shi               | Section 003         | sedwardshi           | <https://github.com/sedwardshi/ziang-repo-practice>     |
+| Ziang Shi               | Section 003         | sedwardshi           | <https://sedwardshi.github.io/ziang-repo-practice/>     |
 | Jiarui Fan              | Section 003         | JiaruiFan            | <https://jiaruifan.github.io/readme/>                   |
 | Daniel Chadourne        | Section 003         | dac5928              | <https://dac5928.github.io/Stat-184-Repo/>              |
 | Ethan Fang              | Section 003         | edfang192            | <https://edfang192.github.io/Projects/>                 | 
@@ -79,7 +79,12 @@
 | Lauren Smith            | Section 001         | laurensmith17        | https://laurensmith17.github.io/stat184/                |
 | Ellen Liu               | Section 003         | Ellen5866            | <https://ellen5866.github.io/GitHub-Practice-184/>      |
 | Josiah Kim | Section 001  | josiahckim | <https://josiahckim.github.io/GitHub-Practice/>|
+| Garrett Parrish         | Section 003         | gjp5220              | <https://gjp5220.github.io/Stats184GP/>                 |
+| Yining Fan              | Section 003         | Yining-Fan           | <https://yining-fan.github.io/Yining-Repo/>             |
+| Manasvi Mittal          | Section 001         | manasvimittal22      | <https://manasvimittal22.github.io/DS-Fall-2020/>       |
+| Ryan Murphy             | Section 001         | rjm6444              | < https://rjm6444.github.io/Githbu-Practice-184/>       |
 | Zachary Price           | Section 003         | zachprice12          | <https://zachprice12.github.io/Stat-184/>               | 
+
 # Integration of RStudio with Git
 
 - Simplified instructions: Canvas >> STAT 184 >> Files >> GitHub-RStudio-Config.html  
