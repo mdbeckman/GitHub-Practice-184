@@ -82,6 +82,7 @@
 | Garrett Parrish         | Section 003         | gjp5220              | <https://gjp5220.github.io/Stats184GP/>                 |
 | Yining Fan              | Section 003         | Yining-Fan           | <https://yining-fan.github.io/Yining-Repo/>             |
 | Manasvi Mittal          | Section 001         | manasvimittal22      | <https://manasvimittal22.github.io/DS-Fall-2020/>       |
+| Ryan Murphy             | Section 001         | rjm6444              | < https://rjm6444.github.io/Githbu-Practice-184/>       |
 
 
 # Integration of RStudio with Git
