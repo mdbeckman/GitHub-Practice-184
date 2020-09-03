@@ -91,6 +91,7 @@
 | Nathaniel Louis         | Section 001         | nml5374              | <https://nml5374.github.io/>                            |
 | Donggeon Lee            | Section 003         | djl5637              | <https://djl5637.github.io/STAT184/>                    | 
 | Vineet Sudhir           | Section 003         | VineetSudhir         | <https://vineetsudhir.github.io/Vineet-Repo/>           |
+| Caroline Trejo          | Section 001         | carolinetrejo        | <https://carolinetrejo.github.io/Github-Practice-Trejo> |
 
 # Integration of RStudio with Git
 
