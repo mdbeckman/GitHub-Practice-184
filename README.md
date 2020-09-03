@@ -99,7 +99,7 @@
 | Prithvi Rana            | Section 003         | PrithviRana1         | <https://prithvirana1.github.io/>                       |
 | Shijun Li               | Section 001         | felixxxlsj           | <https://felixxxlsj.github.io/Shijun-Li/>               |
 | Cinah Pourhamidi        | Section 003         | Cinah465             | <https://cinah465.github.io/STAT184/>                   |
-
+| Sriram K Iyengar        | Section 001         | KingEinstein919      | <https://github.com/KingEinstein919/STAT-184.github.io/>|
 
 # Integration of RStudio with Git
 
