@@ -89,7 +89,9 @@
 | Jessica Dougherty       | Section 003 |jmfdougherty |  https://jmfdougherty.github.io/Dougherty-Stat184/
 | Qihang Qiu.             | Section 001         | Qihang-Sail          | <https://qihang-sail.github.io/GitHub-Practice-184/.>.  |
 | Nathaniel Louis         | Section 001         | nml5374              | <https://nml5374.github.io/>                            |
+| Donggeon Lee            | Section 003         | djl5637              | <https://djl5637.github.io/STAT184/>                    | 
 | Vineet Sudhir           | Section 003         | VineetSudhir         | <https://vineetsudhir.github.io/Vineet-Repo/>           |
+
 # Integration of RStudio with Git
 
 - Simplified instructions: Canvas >> STAT 184 >> Files >> GitHub-RStudio-Config.html  
