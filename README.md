@@ -95,6 +95,7 @@
 | Thomas Schindler        | Section 003         | tvs5625              | <https://tvs5625.github.io/Stat184/>.                   |
 | Caroline Trejo          | Section 001         | carolinetrejo        | <https://carolinetrejo.github.io/Github-Practice-Trejo> |
 | Prithvi Rana            | Section 003         | PrithviRana1         | <https://prithvirana1.github.io/>                       |
+| Shijun Li               | Section 001         | felixxxlsj           | <https://felixxxlsj.github.io/Shijun-Li/>               |
 
 
 # Integration of RStudio with Git
