@@ -91,7 +91,13 @@
 | Nathaniel Louis         | Section 001         | nml5374              | <https://nml5374.github.io/>                            |
 | Donggeon Lee            | Section 003         | djl5637              | <https://djl5637.github.io/STAT184/>                    | 
 | Vineet Sudhir           | Section 003         | VineetSudhir         | <https://vineetsudhir.github.io/Vineet-Repo/>           |
+| Krittika Shahani        | Section 003         | krittika2000         | <https://krittika2000.github.io/Github-Practice-184/>   |
+| Thomas Schindler        | Section 003         | tvs5625              | <https://tvs5625.github.io/Stat184/>.                   |
+| Caroline Trejo          | Section 001         | carolinetrejo        | <https://carolinetrejo.github.io/Github-Practice-Trejo> |
+| Prithvi Rana            | Section 003         | PrithviRana1         | <https://prithvirana1.github.io/>                       |
 | Shijun Li               | Section 001         | felixxxlsj           | <https://felixxxlsj.github.io/Shijun-Li/>               |
+
+
 # Integration of RStudio with Git
 
 - Simplified instructions: Canvas >> STAT 184 >> Files >> GitHub-RStudio-Config.html  
