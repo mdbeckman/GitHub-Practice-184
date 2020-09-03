@@ -76,6 +76,7 @@
 | Yichen Shi              | Section 003         | yichen-shi           | <https://yichen-shi.github.io/Practice/>
 | Yuqi He                 | Section 003         | Bigmichyk            | https://bigmichyk.github.io/Yuqi-repo/                  |
 | Yiwen Huang             | Section 003         | yyh5172              | <https://yyh5172.github.io/Fall2020_STAT184/>           |
+| Yiqing Sun              | Section 003         | yms5273              | <https://yms5273.github.io/Yiqing-repo/>                  |
 | Lauren Smith            | Section 001         | laurensmith17        | https://laurensmith17.github.io/stat184/                |
 | Ellen Liu               | Section 003         | Ellen5866            | <https://ellen5866.github.io/GitHub-Practice-184/>      |
 | Josiah Kim | Section 001  | josiahckim | <https://josiahckim.github.io/GitHub-Practice/>|
