@@ -34,7 +34,8 @@
 
 |Name                     |Class Section        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:--------------------|:---------------------|:--------------------------------------------------------|  
-| Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           | 
+| Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           |
+| Jishnu Siddabathula     | Section 003         | jishnusiddabathula   |<https://jishnusiddabathula.github.io/STAT184/>          |
 | Adam DeCaria            | Section 001         | adecaria             | <https://adecaria.github.io/Github-Practice-Demo/>      |
 | Ally Racho              | Section 001         | allyracho            | <https://allyracho.github.io/Github-Practice---Stat184/>|
 | Colin Arscott           | Section 001         | tint3dgreen          | <https://tint3dgreen.github.io/184-practice/>           |
