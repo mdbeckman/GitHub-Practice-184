@@ -93,6 +93,8 @@
 | Vineet Sudhir           | Section 003         | VineetSudhir         | <https://vineetsudhir.github.io/Vineet-Repo/>           |
 | Krittika Shahani        | Section 003         | krittika2000         | <https://krittika2000.github.io/Github-Practice-184/>   |
 | Thomas Schindler        | Section 003         | tvs5625              | <https://tvs5625.github.io/Stat184/>.                   |
+| Caroline Trejo          | Section 001         | carolinetrejo        | <https://carolinetrejo.github.io/Github-Practice-Trejo> |
+
 
 # Integration of RStudio with Git
 
