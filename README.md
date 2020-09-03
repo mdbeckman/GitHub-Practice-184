@@ -94,6 +94,7 @@
 | Krittika Shahani        | Section 003         | krittika2000         | <https://krittika2000.github.io/Github-Practice-184/>   |
 | Thomas Schindler        | Section 003         | tvs5625              | <https://tvs5625.github.io/Stat184/>.                   |
 | Caroline Trejo          | Section 001         | carolinetrejo        | <https://carolinetrejo.github.io/Github-Practice-Trejo> |
+| Prithvi Rana            | Section 003         | PrithviRana1         | <https://prithvirana1.github.io/>                       |
 
 
 # Integration of RStudio with Git
