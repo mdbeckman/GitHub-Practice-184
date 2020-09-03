@@ -91,7 +91,7 @@
 | Nathaniel Louis         | Section 001         | nml5374              | <https://nml5374.github.io/>                            |
 | Donggeon Lee            | Section 003         | djl5637              | <https://djl5637.github.io/STAT184/>                    | 
 | Vineet Sudhir           | Section 003         | VineetSudhir         | <https://vineetsudhir.github.io/Vineet-Repo/>           |
-
+| Shijun Li               | Section 001         | felixxxlsj           | <https://felixxxlsj.github.io/Shijun-Li/>               |
 # Integration of RStudio with Git
 
 - Simplified instructions: Canvas >> STAT 184 >> Files >> GitHub-RStudio-Config.html  
