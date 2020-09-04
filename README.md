@@ -59,6 +59,16 @@
 | Nadith Dharmasena       | Section 001         | nadithdharmasena     | <https://nadithdharmasena.github.io/Stat-184-Github-Practice/> |
 | Nathaniel Carson        | Section 001         | ntc5102              | <https://ntc5102.github.io/repo/>                       |
 | Yuzhe W ang             | Section 001         | yuzhe428             | <https://yuzhe428.github.io/Yuzhe-Repo/>                |
+| Lauren Smith            | Section 001         | laurensmith17        | https://laurensmith17.github.io/stat184/                |
+| Josiah Kim | Section 001  | josiahckim | <https://josiahckim.github.io/GitHub-Practice/>|
+| Qihang Qiu.             | Section 001         | Qihang-Sail          | <https://qihang-sail.github.io/GitHub-Practice-184/.>.  |
+| Nathaniel Louis         | Section 001         | nml5374              | <https://nml5374.github.io/>                            |
+| Manasvi Mittal          | Section 001         | manasvimittal22      | <https://manasvimittal22.github.io/DS-Fall-2020/>       |
+| Ryan Murphy             | Section 001         | rjm6444              | < https://rjm6444.github.io/Githbu-Practice-184/>       |
+| Caroline Trejo          | Section 001         | carolinetrejo        | <https://carolinetrejo.github.io/Github-Practice-Trejo> |
+| Shijun Li               | Section 001         | felixxxlsj           | <https://felixxxlsj.github.io/Shijun-Li/>               |
+| Sriram K Iyengar        | Section 001         | KingEinstein919      | <https://github.com/KingEinstein919/STAT-184.github.io/>|
+| Spencer Burns           | Section 001         | Burnzy006            | <https://burnzy006.github.io/Stat184-Practice/>         |
 | Charlie Lu              | Section 003         | VitiminC             | <https://vitiminc.github.io/GitHub-Practice-STAT-184/>  |
 | Calvin Pash             | Section 003         | calvinpash           | <https://github.com/calvinpash/urban-octo-carnival>     |
 | Aaron Harter            | Section 003         | Aarett               | <https://aarett.github.io/STAT184_GitHub_Practice_amh7015/>|  
@@ -78,29 +88,19 @@
 | Yuqi He                 | Section 003         | Bigmichyk            | https://bigmichyk.github.io/Yuqi-repo/                  |
 | Yiwen Huang             | Section 003         | yyh5172              | <https://yyh5172.github.io/Fall2020_STAT184/>           |
 | Yiqing Sun              | Section 003         | yms5273              | <https://yms5273.github.io/Yiqing-repo/>                  |
-| Lauren Smith            | Section 001         | laurensmith17        | https://laurensmith17.github.io/stat184/                |
 | Ellen Liu               | Section 003         | Ellen5866            | <https://ellen5866.github.io/GitHub-Practice-184/>      |
-| Josiah Kim | Section 001  | josiahckim | <https://josiahckim.github.io/GitHub-Practice/>|
 | Garrett Parrish         | Section 003         | gjp5220              | <https://gjp5220.github.io/Stats184GP/>                 |
 | Yining Fan              | Section 003         | Yining-Fan           | <https://yining-fan.github.io/Yining-Repo/>             |
-| Manasvi Mittal          | Section 001         | manasvimittal22      | <https://manasvimittal22.github.io/DS-Fall-2020/>       |
-| Ryan Murphy             | Section 001         | rjm6444              | < https://rjm6444.github.io/Githbu-Practice-184/>       |
 | Zachary Price           | Section 003         | zachprice12          | <https://zachprice12.github.io/Stat-184/>               | 
 | Menghan Zhang           | Section 003         | LareinaZhang1210     | <https://lareinazhang1210.github.io/Menghan-Repo/>      | 
 | Zhaoxi Chang            | Section 003         | zbc5124              | <https://zbc5124.github.io/Zhaoxi-Repo/>                |
 | Jessica Dougherty       | Section 003 |jmfdougherty |  https://jmfdougherty.github.io/Dougherty-Stat184/
-| Qihang Qiu.             | Section 001         | Qihang-Sail          | <https://qihang-sail.github.io/GitHub-Practice-184/.>.  |
-| Nathaniel Louis         | Section 001         | nml5374              | <https://nml5374.github.io/>                            |
 | Donggeon Lee            | Section 003         | djl5637              | <https://djl5637.github.io/STAT184/>                    | 
 | Vineet Sudhir           | Section 003         | VineetSudhir         | <https://vineetsudhir.github.io/Vineet-Repo/>           |
 | Krittika Shahani        | Section 003         | krittika2000         | <https://krittika2000.github.io/Github-Practice-184/>   |
 | Thomas Schindler        | Section 003         | tvs5625              | <https://tvs5625.github.io/Stat184/>.                   |
-| Caroline Trejo          | Section 001         | carolinetrejo        | <https://carolinetrejo.github.io/Github-Practice-Trejo> |
 | Prithvi Rana            | Section 003         | PrithviRana1         | <https://prithvirana1.github.io/>                       |
-| Shijun Li               | Section 001         | felixxxlsj           | <https://felixxxlsj.github.io/Shijun-Li/>               |
 | Cinah Pourhamidi        | Section 003         | Cinah465             | <https://cinah465.github.io/STAT184/>                   |
-| Sriram K Iyengar        | Section 001         | KingEinstein919      | <https://github.com/KingEinstein919/STAT-184.github.io/>|
-| Spencer Burns           | Section 001         | Burnzy006            | <https://burnzy006.github.io/Stat184-Practice/>         |
 
 # Integration of RStudio with Git
 
