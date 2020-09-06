@@ -70,7 +70,7 @@
 | Sriram K Iyengar        | Section 001         | KingEinstein919      | <https://github.com/KingEinstein919/STAT-184.github.io/>|
 | Spencer Burns           | Section 001         | Burnzy006            | <https://burnzy006.github.io/Stat184-Practice/>         |
 | Charlie Lu              | Section 003         | VitiminC             | <https://vitiminc.github.io/GitHub-Practice-STAT-184/>  |
-| Calvin Pash             | Section 003         | calvinpash           | <https://github.com/calvinpash/urban-octo-carnival>     |
+| Calvin Pash             | Section 003         | calvinpash           | <https://calvinpash.github.io/urban-octo-carnival>     |
 | Aaron Harter            | Section 003         | Aarett               | <https://aarett.github.io/STAT184_GitHub_Practice_amh7015/>|  
 | Sihan Wu                | Section 003         | Sihan-Wu             | <https://sihan-wu.github.io/repo/>
 | Owen Lloyd              | Section 003         | greenowl925          | <https://greenowl925.github.io/stat184>                 |  
