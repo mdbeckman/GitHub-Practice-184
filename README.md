@@ -105,7 +105,9 @@
 | Vincent Antonio Smedile | Section001          | planck1917           | <https://planck1917.github.io/>                         |
 | Sarah Petro             | Section 001         | sayruhpetro          | <https://sayruhpetro.github.io/stat184/>                |
 | Yipeng Zhou             | Section 003         | KevinZ423            | <https://KevinZ423.github.io/Stat184/>                  |
+| Noah Smith              | Section 003         | nms5759              | <https://nms5759.github.io/nms5759/>                    |
 | Qiaojuan Tu             | Section 001         | qkt5010              | <https://qkt5010.github.io/STAT-184-Practice-Submission/>|
+
 # Integration of RStudio with Git
 
 - Simplified instructions: Canvas >> STAT 184 >> Files >> GitHub-RStudio-Config.html  
