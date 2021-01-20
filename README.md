@@ -39,7 +39,7 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
-| Zeyan Liu               | Section 001       | ZeyanLiu393          | https://github.com/ZeyanLiu393/Stat184                   | 
+
 
 
 
