@@ -9,7 +9,7 @@
 2. Create a new repo & initialize it with a "README" 
 3. Next, let's turn your repo into a website (!)  
     - [repo] >> settings >> [scroll to bottom] >> GitHub Pages ... select "main" branch (i.e., "/ (root)" ) and **SAVE**
-    - note your website url "Your site is ready to be published at <https://userid.github.io/repo-name/> 
+    - note your website url "Your site is ready to be published at `https://userid.github.io/repo-name/`"
     - [repo] >> settings >> [scroll to bottom] >> Theme Chooser ... choose the best theme
     - Our friends at GitHub automatically update your README to show off the new theme (thanks GitHub!) 
     - scroll through it and **Commit Changes** at the bottom
