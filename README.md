@@ -39,6 +39,7 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Zeyan Liu               | Section 001       | ZeyanLiu393          | https://github.com/ZeyanLiu393/Stat184                   | 
 | Samie Saheb             | Section 001       | samiesaheb           | https://github.com/samiesaheb/3-d-vector-product         |
 | Ziyao Yang              | Section 002       | Ziyao3000            | https://github.com/Ziyao3000/Ziyao-STAT184               |  
 
