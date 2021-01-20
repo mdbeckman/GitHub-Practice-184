@@ -13,7 +13,8 @@
     - [repo] >> settings >> [scroll to bottom] >> Theme Chooser ... choose the best theme
     - Our friends at GitHub automatically update your README to show off the new theme (thanks GitHub!) 
     - scroll through it and **Commit Changes** at the bottom
-4. Back to Dr. Beckman's class repo again on his profile  
+4. Go to Dr. Beckman's GitHub-Practice-184 repo (that generated this page)  
+    - There's a "View on GitHub" button somewhere on this page, or you can just search GitHub for "mdbeckman" and find the repo
     - "Fork" Dr. Beckman's class repo to create your own copy to edit
     - Your copy of the repo should say "[your-userID/GitHub-Practice-184]" at the top with a tiny note saying it was forked from Dr. Beckman's repo
     - Click on "README.md" >> Edit (pencil icon in upper right) to edit your copy of the repo
