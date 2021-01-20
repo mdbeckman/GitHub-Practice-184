@@ -31,8 +31,9 @@
     - (1 pt) make sure the link works (e.g., wrap url in "<" and ">" to activate link on actual website)  
 6. Merge your updated copy of the repo with Dr. Beckman's repo...
     - [top of page] >> click "Pull requests" >> click green button "New Pull Request"
-    - Describe the change (e.g. "added Matt Beckman to class table")
-    - Click green button "Start Pull Request"
+    - GitHub will take you to MY (Dr. Beckman's) copy of the repo (mdbeckman / GitHub-Practice-184) at the top
+    - Describe the change again (e.g. "added Matt Beckman to class table")
+    - Click the green button "Create pull request"
     - Job done!
 7. (ungraded) pat yourself on the back
  
