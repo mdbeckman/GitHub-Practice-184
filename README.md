@@ -18,7 +18,7 @@
     - Your copy of the repo should say "[your-userID/GitHub-Practice-184]" at the top with a tiny note saying it was forked from Dr. Beckman's repo
     - Click on "README.md" >> Edit (pencil icon in upper right) to edit your copy of the repo
 5. **Add a row** in your copy of the table below with your information 
-    - follow the pattern for the | character (vertical bar; a few keys to the right of "P")... use the "Matthew Beckman" row as a template
+    - follow the pattern for the vertical bar character (a few keys to the right of "P")... use the "Matthew Beckman" row as a template
     - (2 pts) first & last name  
     - (1 pt)  class section
     - (2 pts) github id  
