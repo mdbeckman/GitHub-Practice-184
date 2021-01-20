@@ -14,8 +14,9 @@
     - Our friends at GitHub automatically update your README to show off the new theme (thanks GitHub!) 
     - scroll through it and **Commit Changes** at the bottom
 - Back to Dr. Beckman's class repo again on his profile  
-    - *Tip*: Dr. Beckman's repo will say "mdbeckman/GitHub-Practice-184" at the top... there's a good chance you're already there right now reading this (that would be ideal).  If you made a copy (fork) of his repo, it will have your name at the top (not ideal).  
-    - Click on "README.md" >> Edit (pencil icon in upper right) to edit the README in Dr. Beckman's repo
+    - "Fork" Dr. Beckman's class repo to create your own copy to edit
+    - Your copy of the repo should say "[your-userID/GitHub-Practice-184]" at the top with a tiny note saying it was forked from Dr. Beckman's repo
+    - Click on "README.md" >> Edit (pencil icon in upper right) to edit your copy of the repo
 - **Add a row** in the table below with your information 
     - follow the pattern for the | character (vertical bar; a few keys to the right of "P")... use the "Matthew Beckman" row as a template
     - (2 pts) first & last name  
