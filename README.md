@@ -30,7 +30,7 @@
             - click green button "Commit changes" 
     - (1 pt) make sure the link works (e.g., wrap url in "<" and ">" to activate link on actual website)  
 6. Merge your updated copy of the repo with Dr. Beckman's repo...
-    - Pull request
+    - [top of page] >> click "Pull requests" >> click green button "New Pull Request"
     - Describe the change (e.g. "added Matt Beckman to class table")
     - Click green button "Start Pull Request"
     - Job done!
