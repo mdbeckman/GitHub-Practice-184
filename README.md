@@ -3,24 +3,27 @@
 
 **(10 pts) Assignment Instructions**
 
+*Go slowly, follow the instructions carefully, and you'll be fine!*
+
 - Create your own GitHub profile/ID (appropriate for job or grad school applications)  
-- Create a new repo & initialize it with a "readme"   
-- Turn your repo into a website  
-    - [repo] >> settings >> [scroll to bottom] >> create website from master branch  
-    - choose a style template 
-    - note the website url  
-    - modify content if you like, but it's fine to use filler content provided for now  
-- Locate class repo
-    - Find "mdbeckman" in GitHub and locate the "GitHub-Practice-184" class repo
-    - Click on "README.md" >> Edit (pencil icon in upper right)
+- Create a new repo & initialize it with a "README" 
+- Next, let's turn your repo into a website (!)  
+    - [repo] >> settings >> [scroll to bottom] >> GitHub Pages ... select "main" branch (i.e., "/ (root)" ) and **SAVE**
+    - note your website url "Your site is ready to be published at <https://userid.github.io/repo-name/> 
+    - [repo] >> settings >> [scroll to bottom] >> Theme Chooser ... choose the best theme
+    - Our friends at GitHub automatically update your README to show off the new theme (thanks GitHub!) 
+    - scroll through it and **Commit Changes** at the bottom
+- Back to Dr. Beckman's class repo again on his profile  
+    - *Tip*: Dr. Beckman's repo will say "mdbeckman/GitHub-Practice-184" at the top... there's a good chance you're already there right now reading this (that would be ideal).  If you made a copy (fork) of his repo, it will have your name at the top (not ideal).  
+    - Click on "README.md" >> Edit (pencil icon in upper right) to edit the README in Dr. Beckman's repo
 - **Add a row** in the table below with your information 
-    - follow the pattern for the vertical bar character (found next to the "]" key)... use the "Matthew Beckman" row as a template
+    - follow the pattern for the | character (vertical bar; a few keys to the right of "P")... use the "Matthew Beckman" row as a template
     - (2 pts) first & last name  
-    - (1 pt)  class day and time
+    - (1 pt)  class section
     - (2 pts) github id  
-    - (2 pts) url for GitHub Pages website generated from your GitHub repo  
-            - by default it will include "[userID].github.io" at the beginning  
-            - it's **NOT** just the URL of the source repo itself  
+    - (2 pts) url for GitHub Pages website generated from **your** new GitHub repo  
+            - *Tip*: by default it's something like "[your-userID].github.io/[your-repo-name]"   
+            - *Warning*: it's **NOT** just the URL of the source repo itself, which would begin with "github.com/[userid]..."   
     - (2 pts) commit your changes and submit pull request   
             - write a **descriptive** commit message (e.g. "added Matt Beckman to class table")  
             - click green button "Propose file change" & start pull request  
