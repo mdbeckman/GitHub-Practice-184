@@ -44,7 +44,7 @@
 | Ziyao Yang              | Section 002       | Ziyao3000            | https://github.com/Ziyao3000/Ziyao-STAT184               |  
 | Minsoo Joo              | Section 001       | mbj5335              | https://github.com/mbj5335/Artist-Joo                    |
 | Glenn Hubbard           | Section 001       | glennburger          | https://github.com/glennburger/stat184                   |  
-
+| Gregory Glatzer         | Section 001       | g1776                | https://github.com/g1776/GitHub-Practice-184             |
 
 
 <br>
