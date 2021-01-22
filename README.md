@@ -42,6 +42,7 @@
 | Zeyan Liu               | Section 001       | ZeyanLiu393          | https://github.com/ZeyanLiu393/Stat184                   | 
 | Samie Saheb             | Section 001       | samiesaheb           | https://github.com/samiesaheb/3-d-vector-product         |
 | Ziyao Yang              | Section 002       | Ziyao3000            | https://github.com/Ziyao3000/Ziyao-STAT184               |  
+| Daeil Bae               | Section 001       | dibae123             | https://github.com/dibae123/GitHub-Practice-184          |
 
 
 
