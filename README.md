@@ -39,7 +39,7 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
-
+| Divya Rustagi           | Section 001       | divyarustagi10       | https://github.com/DivyaRustagi10/GitHub-Practice        |
 
 
 
