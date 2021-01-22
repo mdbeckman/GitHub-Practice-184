@@ -44,7 +44,7 @@
 | Ziyao Yang              | Section 002       | Ziyao3000            | https://github.com/Ziyao3000/Ziyao-STAT184               |  
 | Minsoo Joo              | Section 001       | mbj5335              | https://github.com/mbj5335/Artist-Joo                    |
 | Glenn Hubbard           | Section 001       | glennburger          | https://github.com/glennburger/stat184                   |  
-
+| David Aguiles           | Section 002       | dsa5221              | https://github.com/dsa5221/Week1                         |
 
 
 <br>
