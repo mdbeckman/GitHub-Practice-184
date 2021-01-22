@@ -44,6 +44,7 @@
 | Samie Saheb             | Section 001       | samiesaheb           | https://github.com/samiesaheb/3-d-vector-product         |
 | Conor Matthews          | Section 001       | cbmatthews1          | https://github.com/cbmatthews1/potential-invention       |
 | Ziyao Yang              | Section 002       | Ziyao3000            | https://github.com/Ziyao3000/Ziyao-STAT184               |  
+| Ryan Dang               | Section 001       | rvdang256            | https://github.com/rvdang256/GitHub-Practice-184         |
 | Aidan Kelly             | Section 002       | aidankelly21         | https://github.com/aidankelly21/Practice                 |
 | Mackenzie Myers         | Section 001       | macintoshm           | https://github.com/macintoshm/GitHub-Practice-184        |
 | Vaibhav Gupta           | Section 001       | vbgupta              | https://github.com/vbgupta/STAT184                       |
