@@ -43,7 +43,8 @@
 | Samie Saheb             | Section 001       | samiesaheb           | https://github.com/samiesaheb/3-d-vector-product         |
 | Ziyao Yang              | Section 002       | Ziyao3000            | https://github.com/Ziyao3000/Ziyao-STAT184               |  
 | Minsoo Joo              | Section 001       | mbj5335              | https://github.com/mbj5335/Artist-Joo                    |
-| Glenn Hubbard           | Section 001       | glennburger          | https://github.com/glennburger/stat184                   |  
+| Glenn Hubbard           | Section 001       | glennburger          | https://github.com/glennburger/stat184                   |
+| Samuel Geiser           | Section 002       | sgeiser              | https://github.com/sgeiser/184-Stuff                     |
 
 
 
