@@ -55,7 +55,7 @@
 | Krish Parikh            | Section 002       | kap6006              | https://github.com/kap6006/GitHub-Practice-184           |
 | Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
 
-| Maxwell Bredl           | Section 001       | bredlm               |https://github.com/bredlm/STAT184     |
+| Maxwell Bredl           | Section 001       | bredlm               | https://github.com/bredlm/STAT184                         |
 <br>
 
 # Integration of RStudio with Git
