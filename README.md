@@ -14,13 +14,11 @@
     - Click on "README.md" >> Edit (pencil icon in upper right) to edit your copy of the repo
 4. **Add a row** in your copy of the table below with your information 
     - follow the pattern for the vertical bar character (a few keys to the right of "P")... use the "Matthew Beckman" row as a template
-    - (2 pts) first & last name  
-    - (2 pt)  class section
-    - (2 pts) github id  
-    - (2 pts) url for your GitHub Repo (it should be something like "https://github.com/[userid]/[repo-name]" like my example below)
-    - (2 pts) commit your changes and submit pull request   
-          - write a **descriptive** commit message (e.g. "added Matt Beckman to class table")  
-          - click green button "Commit changes" 
+    - (2 pts) Ziheng  
+    - (2 pt)  Section 1
+    - (2 pts) ziheng333  
+    - (2 pts) https://github.com/ziheng333
+    
 5. Merge your updated copy of the repo with Dr. Beckman's repo...
     - [top of page] >> click "Pull requests" >> click green button "New Pull Request"
     - GitHub will take you to MY (Dr. Beckman's) copy of the repo (mdbeckman / GitHub-Practice-184) at the top
