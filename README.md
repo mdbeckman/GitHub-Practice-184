@@ -54,7 +54,7 @@
 | Glenn Hubbard           | Section 001       | glennburger          | https://github.com/glennburger/stat184                   |  
 | Krish Parikh            | Section 002       | kap6006              | https://github.com/kap6006/GitHub-Practice-184           |
 | Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
-
+| Alexander Christopher   | Section 001       | achristopher4        | https://github.com/achristopher4/abc5885-GitHub-Practice-184 |
 
 <br>
 
