@@ -39,11 +39,22 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Divya Rustagi           | Section 001       | divyarustagi10       | https://github.com/DivyaRustagi10/GitHub-Practice        |
 | Zeyan Liu               | Section 001       | ZeyanLiu393          | https://github.com/ZeyanLiu393/Stat184                   | 
 | Samie Saheb             | Section 001       | samiesaheb           | https://github.com/samiesaheb/3-d-vector-product         |
+| Conor Matthews          | Section 001       | cbmatthews1          | https://github.com/cbmatthews1/potential-invention       |
 | Ziyao Yang              | Section 002       | Ziyao3000            | https://github.com/Ziyao3000/Ziyao-STAT184               |  
 | Shivram Iyer            | Section 001       | ShivIyer98           | https://github.com/ShivIyer98/GitHub-Practice-185        |   
-
+| Vineeth Gabbireddy      | Section 001       | 20VinnyG             | https://github.com/20VinnyG/GitHub-Practice-184          |
+| Caroline Chen           | Section 001       | CarolineYongjiChen   | https://github.com/CarolineYongjiChen/STAT184            |
+| Ryan Dang               | Section 001       | rvdang256            | https://github.com/rvdang256/GitHub-Practice-184         |
+| Aidan Kelly             | Section 002       | aidankelly21         | https://github.com/aidankelly21/Practice                 |
+| Mackenzie Myers         | Section 001       | macintoshm           | https://github.com/macintoshm/GitHub-Practice-184        |
+| Vaibhav Gupta           | Section 001       | vbgupta              | https://github.com/vbgupta/STAT184                       |
+| Minsoo Joo              | Section 001       | mbj5335              | https://github.com/mbj5335/Artist-Joo                    |
+| Glenn Hubbard           | Section 001       | glennburger          | https://github.com/glennburger/stat184                   |  
+| Krish Parikh            | Section 002       | kap6006              | https://github.com/kap6006/GitHub-Practice-184           |
+| Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
 
 
  
