@@ -66,12 +66,12 @@
 | Vaibhav Gupta           | Section 001       | vbgupta              | https://github.com/vbgupta/STAT184                       |
 | Minsoo Joo              | Section 001       | mbj5335              | https://github.com/mbj5335/Artist-Joo                    |
 | Glenn Hubbard           | Section 001       | glennburger          | https://github.com/glennburger/stat184                   |  
+| Gregory Glatzer         | Section 001       | g1776                | https://github.com/g1776/GitHub-Practice-184             |
 | Sidan Chen              | Section 001       | scarlettfc5475       | https://github.com/scarlettfc5475/STAT-184               |
 | Bailey Dismukes         | Section 001       | baileydis            | https://github.com/baileydis/STAT184                     |
 | Krish Parikh            | Section 002       | kap6006              | https://github.com/kap6006/GitHub-Practice-184           |
 | Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
 | Ming Wang               | Section 001       | ming061              | https://github.com/ming061/GitHub-Practice-184           |  
-
 
 
  
