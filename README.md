@@ -67,6 +67,8 @@
 | Bailey Dismukes         | Section 001       | baileydis            | https://github.com/baileydis/STAT184                     |
 | Krish Parikh            | Section 002       | kap6006              | https://github.com/kap6006/GitHub-Practice-184           |
 | Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+| Ming Wang               | Section 001       | ming061              | https://github.com/ming061/GitHub-Practice-184           |  
+
 
 
  
