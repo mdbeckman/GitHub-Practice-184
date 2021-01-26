@@ -42,6 +42,7 @@
 | Divya Rustagi           | Section 001       | divyarustagi10       | https://github.com/DivyaRustagi10/GitHub-Practice        |
 | Zeyan Liu               | Section 001       | ZeyanLiu393          | https://github.com/ZeyanLiu393/Stat184                   | 
 | Samie Saheb             | Section 001       | samiesaheb           | https://github.com/samiesaheb/3-d-vector-product         |
+| Ian Hoaglund            | Section 001       | IanHoaglund          | https://github.com/IanHoaglund/Stat184                   |
 | Conor Matthews          | Section 001       | cbmatthews1          | https://github.com/cbmatthews1/potential-invention       |
 | Ziyao Yang              | Section 002       | Ziyao3000            | https://github.com/Ziyao3000/Ziyao-STAT184               |  
 | Jingyu Wang             | Section 001       | jingyuwang-06        | https://github.com/jingyuwang-06/STAT184                 |
