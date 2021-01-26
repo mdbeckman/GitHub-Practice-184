@@ -92,8 +92,7 @@
 | Kartik Chelani          | Section 002       | kartikchelani        | https://github.com/kartikchelani/stat184-DrBeckman       |
 | Ming Wang               | Section 001       | ming061              | https://github.com/ming061/GitHub-Practice-184           |  
 | Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
-
-
+| Jing Fu                 | Section 002       | JingFu1              | https://github.com/JingFu1/GitHub-Practice-184           |
 <br>
 
 # Integration of RStudio with Git
