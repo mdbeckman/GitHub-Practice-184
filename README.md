@@ -99,7 +99,7 @@
 | Brayden Yoder           | Section 002       | bry4124              | https://github.com/bry4124/GitHub-Practice-184           |
 | Yukun Li                | Section 002       | lykiuun              | https://github.com/lykiuun/GitHub-Practice-184           |
 | Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
-
+| Aman Arora              | Section 001       | AmanArora1234        | https://github.com/AmanArora1234/README.git              |
 
 
 
