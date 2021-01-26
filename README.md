@@ -94,6 +94,7 @@
 | Wei Liang.              | Section 002       | WeiLiang3.           | https://github.com/WeiLiang3                             |
 | Jing Fu                 | Section 002       | JingFu1              | https://github.com/JingFu1/GitHub-Practice-184           |
 | Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+| Adam Kenawell           | Section 001       | Ankenawell           | https://github.com/Ankenawell/Stat184                    |
 
 
 
