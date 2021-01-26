@@ -67,6 +67,7 @@
 | Vaibhav Gupta           | Section 001       | vbgupta              | https://github.com/vbgupta/STAT184                       |
 | Minsoo Joo              | Section 001       | mbj5335              | https://github.com/mbj5335/Artist-Joo                    |
 | Glenn Hubbard           | Section 001       | glennburger          | https://github.com/glennburger/stat184                   |  
+| Yuchen Li               | Section 002       | YuchenLi-jpg         | https://github.com/YuchenLi-jpg/STAT-184                 |  
 | Siwen Deng              | Section 002       | SiwenDeng800         | https://github.com/SiwenDeng800/Repo                     |  
 | Dongkai Wu              | Section 001       | Dongkai-Wu           | https://github.com/Dongkai-Wu/stunning-fiesta            |  
 | Qinhao Zhang            | Section 002       | JasonZQH             | https://github.com/JasonZQH/STAT184
@@ -91,7 +92,6 @@
 | Ming Wang               | Section 001       | ming061              | https://github.com/ming061/GitHub-Practice-184           |  
 
 
- 
 <br>
 
 # Integration of RStudio with Git
