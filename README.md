@@ -108,8 +108,10 @@
 | Maxwell Bredl           | Section 001       | bredlm               | https://github.com/bredlm/STAT184                         |
 | Kushal Regmi            | Section 002       | kregmi001            | https://github.com/kregmi001/GitHub-Practice-184         |
 | Alexander Christopher   | Section 001       | achristopher4        | https://github.com/achristopher4/abc5885-GitHub-Practice-184 |
-| Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+| Richard Maruss          | Section 001       | RichardMaruss        | https://github.com/RichardMaruss/GitHub-Practice-184     |
 | Tian Xue                | Section 002       | mashpopo             | https://github.com/mashpopo/GitHub-Practice-184          | 
+| Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+
 
 
 
