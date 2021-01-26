@@ -113,6 +113,7 @@
 | Jingyan Wang            | Section 002       | jqw5821            | https://github.com/jqw5821/GitHub-Practice-184                | 
 | Hengshan Hao            | Section 002       | six-hengshan-hao     | https://github.com/six-hengshan-hao/GitHub-Practice-184  |
 | Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+| Ziyi Wang               | Section 002       | ZiyiWang111          | https://github.com/ZiyiWang111/GitHub-Practice-184
 | Tanav Thanjavuru        | Section 002       | tanav1               | https://github.com/Tanav1/GitHub-Practice-184                   |  
 
 
