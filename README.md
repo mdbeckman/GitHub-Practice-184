@@ -101,6 +101,7 @@
 | Nick Hatzenbeller       | Section 002       | nickhatz10           | https://github.com/nickhatz10/GitHub-Practice-184        | 
 | Aman Arora              | Section 001       | AmanArora1234        | https://github.com/AmanArora1234/README.git              |
 | Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+| Jiaru He                | Section 001       | Jiaru-He             | https://github.com/Jiaru-He/GitHub-Practice-184          |
 
 
 
