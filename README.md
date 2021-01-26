@@ -98,8 +98,10 @@
 | Hanzhe Jiang            | Section 002       | HanzheJ              | https://github.com/HanzheJ/README.git                    |
 | Brayden Yoder           | Section 002       | bry4124              | https://github.com/bry4124/GitHub-Practice-184           |
 | Yukun Li                | Section 002       | lykiuun              | https://github.com/lykiuun/GitHub-Practice-184           |
-| Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+| Nick Hatzenbeller       | Section 002       | nickhatz10           | https://github.com/nickhatz10/GitHub-Practice-184        | 
 | Aman Arora              | Section 001       | AmanArora1234        | https://github.com/AmanArora1234/README.git              |
+| Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+
 
 
 
