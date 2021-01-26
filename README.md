@@ -86,6 +86,7 @@
 | Bailey Dismukes         | Section 001       | baileydis            | https://github.com/baileydis/STAT184                     |
 | Krish Parikh            | Section 002       | kap6006              | https://github.com/kap6006/GitHub-Practice-184           |
 | Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+| Kayla Armstrong         | Section 001       | kba5236              | https://github.com/kba5236/stat184                       |
 | Sarah  Farooq           | Section 001       | svf5398              | https://github.com/svf5398/Stat184Practice               |
 | Yaowen Tan              | Section 001       | owenjstl             | https://github.com/owenjstl/GitHub-Practice-184          |  
 | Kartik Chelani          | Section 002       | kartikchelani        | https://github.com/kartikchelani/stat184-DrBeckman       |
