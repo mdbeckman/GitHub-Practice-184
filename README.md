@@ -45,6 +45,7 @@
 | Ian Hoaglund            | Section 001       | IanHoaglund          | https://github.com/IanHoaglund/Stat184                   |
 | Conor Matthews          | Section 001       | cbmatthews1          | https://github.com/cbmatthews1/potential-invention       |
 | Ziyao Yang              | Section 002       | Ziyao3000            | https://github.com/Ziyao3000/Ziyao-STAT184               |  
+| Shivram Iyer            | Section 001       | ShivIyer98           | https://github.com/ShivIyer98/GitHub-Practice-185        |   
 | Mojisoluwa (Jiso) Awe   | Section 001       | jisoawe              | https://github.com/jisoawe/GitHub-Practice-184           |
 | Miho  Suzuki            | Section 001       | Msuzuki-99           | https://github.com/Msuzuki-0112                          | 
 | Tae Joon Kim            | Section 001       | noojeat              | https://github.com/noojeat/GitHub-Practice-184           |  
@@ -63,6 +64,7 @@
 | Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
 
 
+ 
 <br>
 
 # Integration of RStudio with Git
