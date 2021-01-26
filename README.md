@@ -45,6 +45,7 @@
 | Ian Hoaglund            | Section 001       | IanHoaglund          | https://github.com/IanHoaglund/Stat184                   |
 | Conor Matthews          | Section 001       | cbmatthews1          | https://github.com/cbmatthews1/potential-invention       |
 | Ziyao Yang              | Section 002       | Ziyao3000            | https://github.com/Ziyao3000/Ziyao-STAT184               |  
+| Guilherme Lima          | Section 001       | guilhermelima21      | https://github.com/guilhermelima21/GitHub-Practice-184   |  
 | Jingyu Wang             | Section 001       | jingyuwang-06        | https://github.com/jingyuwang-06/STAT184                 |
 | Vineeth Gabbireddy      | Section 001       | 20VinnyG             | https://github.com/20VinnyG/GitHub-Practice-184          |
 | Caroline Chen           | Section 001       | CarolineYongjiChen   | https://github.com/CarolineYongjiChen/STAT184            |
