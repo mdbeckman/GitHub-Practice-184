@@ -93,8 +93,9 @@
 | Jing Fu                 | Section 002       | JingFu1              | https://github.com/JingFu1/GitHub-Practice-184           |
 | Weijia Fang             | Section 002       | WeijiaFang2000       | https://github.com/WeijiaFang2000/STAT184                | 
 | Adam Kenawell           | Section 001       | Ankenawell           | https://github.com/Ankenawell/Stat184                    |
-| Ziheng Yuan            | Section 001       | ziheng333         | https://github.com/ziheng333/GitHub-Practice-184
+| Ziheng Yuan             | Section 001       | ziheng333            | https://github.com/ziheng333/GitHub-Practice-184      |
 | Yurui Niu               | Section 001       | YuruiNiu             | https://github.com/YuruiNiu/GitHub-Practice-184.git      |
+| Hanzhe Jiang            | Section 002       | HanzheJ              | https://github.com/HanzheJ/README.git                    |
 | Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
 
 
