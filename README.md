@@ -65,6 +65,7 @@
 | Mackenzie Myers         | Section 001       | macintoshm           | https://github.com/macintoshm/GitHub-Practice-184        |
 | Vaibhav Gupta           | Section 001       | vbgupta              | https://github.com/vbgupta/STAT184                       |
 | Minsoo Joo              | Section 001       | mbj5335              | https://github.com/mbj5335/Artist-Joo                    |
+| Samuel Geiser           | Section 002       | sgeiser              | https://github.com/sgeiser/184-Stuff                     |
 | Glenn Hubbard           | Section 001       | glennburger          | https://github.com/glennburger/stat184                   |  
 | Rachel Bosko            | Section 002       | rbosko               | https://github.com/rbosko/GitHub-Practice-184            |
 | Tigran Saakyan          | Section 002       | TigranSaakyan        | https://github.com/TigranSaakyan/symmetrical-pancake-184 | 
