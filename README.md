@@ -66,6 +66,7 @@
 | Vaibhav Gupta           | Section 001       | vbgupta              | https://github.com/vbgupta/STAT184                       |
 | Minsoo Joo              | Section 001       | mbj5335              | https://github.com/mbj5335/Artist-Joo                    |
 | Glenn Hubbard           | Section 001       | glennburger          | https://github.com/glennburger/stat184                   |  
+| Werner Hager            | Section 002       | WernerHager          | https://github.com/WernerHager/Stat184-Repo              |
 | Shengdi You             | Section 002       | shawn194             | https://github.com/shawn194/STAT184                      | 
 | Gregory Glatzer         | Section 001       | g1776                | https://github.com/g1776/GitHub-Practice-184             |
 | Sidan Chen              | Section 001       | scarlettfc5475       | https://github.com/scarlettfc5475/STAT-184               |
