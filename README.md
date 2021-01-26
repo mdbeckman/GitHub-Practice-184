@@ -111,7 +111,7 @@
 | Richard Maruss          | Section 001       | RichardMaruss        | https://github.com/RichardMaruss/GitHub-Practice-184     |
 | Tian Xue                | Section 002       | mashpopo             | https://github.com/mashpopo/GitHub-Practice-184          | 
 | Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
-
+| Hengshan Hao            | Section 002       | six-hengshan-hao     | https://github.com/six-hengshan-hao/GitHub-Practice-184  |
 
 
 
