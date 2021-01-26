@@ -42,9 +42,16 @@
 | Divya Rustagi           | Section 001       | divyarustagi10       | https://github.com/DivyaRustagi10/GitHub-Practice        |
 | Zeyan Liu               | Section 001       | ZeyanLiu393          | https://github.com/ZeyanLiu393/Stat184                   | 
 | Samie Saheb             | Section 001       | samiesaheb           | https://github.com/samiesaheb/3-d-vector-product         |
+| Ian Hoaglund            | Section 001       | IanHoaglund          | https://github.com/IanHoaglund/Stat184                   |
 | Conor Matthews          | Section 001       | cbmatthews1          | https://github.com/cbmatthews1/potential-invention       |
 | Ziyao Yang              | Section 002       | Ziyao3000            | https://github.com/Ziyao3000/Ziyao-STAT184               |  
 | Shivram Iyer            | Section 001       | ShivIyer98           | https://github.com/ShivIyer98/GitHub-Practice-185        |   
+| Mojisoluwa (Jiso) Awe   | Section 001       | jisoawe              | https://github.com/jisoawe/GitHub-Practice-184           |
+| Miho  Suzuki            | Section 001       | Msuzuki-99           | https://github.com/Msuzuki-0112                          | 
+| Tae Joon Kim            | Section 001       | noojeat              | https://github.com/noojeat/GitHub-Practice-184           |  
+| Daniel DeCollo          | Section 001       | ddecollo             | https://github.com/ddecollo/Stat184.intro                |  
+| Guilherme Lima          | Section 001       | guilhermelima21      | https://github.com/guilhermelima21/GitHub-Practice-184   |  
+| Jingyu Wang             | Section 001       | jingyuwang-06        | https://github.com/jingyuwang-06/STAT184                 |
 | Vineeth Gabbireddy      | Section 001       | 20VinnyG             | https://github.com/20VinnyG/GitHub-Practice-184          |
 | Caroline Chen           | Section 001       | CarolineYongjiChen   | https://github.com/CarolineYongjiChen/STAT184            |
 | Ryan Dang               | Section 001       | rvdang256            | https://github.com/rvdang256/GitHub-Practice-184         |
