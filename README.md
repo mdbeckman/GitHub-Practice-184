@@ -66,6 +66,7 @@
 | Vaibhav Gupta           | Section 001       | vbgupta              | https://github.com/vbgupta/STAT184                       |
 | Minsoo Joo              | Section 001       | mbj5335              | https://github.com/mbj5335/Artist-Joo                    |
 | Glenn Hubbard           | Section 001       | glennburger          | https://github.com/glennburger/stat184                   |  
+| David Aguiles           | Section 002       | dsa5221              | https://github.com/dsa5221/Week1                         |
 | Alexander Butch         | Section 002       | abutch               | https://github.com/abutch/GitHub-Practice-184            |    
 | Jarrod Keating          | Section 002       | JarrodKeating        | https://github.com/JarrodKeating/Practice                |
 | Boyuan Zhao             | Section 002       | Adam77777777         | https://github.com/Adam77777777/first-week               | 
