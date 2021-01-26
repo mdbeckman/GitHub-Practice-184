@@ -106,8 +106,11 @@
 | Tejas Bogurampeta       | Section 002       | tejasbogu            | https://github.com/tejasbogu/Githib-Practice-184         |
 | Riley Comber            | Section 001       | rileycomb            | https://github.com/rileycomb/GitHub-Practice-184         |
 | Maxwell Bredl           | Section 001       | bredlm               | https://github.com/bredlm/STAT184                         |
-| Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+| Kushal Regmi            | Section 002       | kregmi001            | https://github.com/kregmi001/GitHub-Practice-184         |
 | Alexander Christopher   | Section 001       | achristopher4        | https://github.com/achristopher4/abc5885-GitHub-Practice-184 |
+| Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+
+
 
 
 <br>
