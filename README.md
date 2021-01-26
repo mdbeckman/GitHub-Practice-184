@@ -85,12 +85,13 @@
 | Sidan Chen              | Section 001       | scarlettfc5475       | https://github.com/scarlettfc5475/STAT-184               |
 | Bailey Dismukes         | Section 001       | baileydis            | https://github.com/baileydis/STAT184                     |
 | Krish Parikh            | Section 002       | kap6006              | https://github.com/kap6006/GitHub-Practice-184           |
-| Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+| Jack Lu                 | Section 002       | jfl5813              | https://github.com/jfl5813/R-Programmer                  |
 | Kayla Armstrong         | Section 001       | kba5236              | https://github.com/kba5236/stat184                       |
 | Sarah  Farooq           | Section 001       | svf5398              | https://github.com/svf5398/Stat184Practice               |
 | Yaowen Tan              | Section 001       | owenjstl             | https://github.com/owenjstl/GitHub-Practice-184          |  
 | Kartik Chelani          | Section 002       | kartikchelani        | https://github.com/kartikchelani/stat184-DrBeckman       |
 | Ming Wang               | Section 001       | ming061              | https://github.com/ming061/GitHub-Practice-184           |  
+| Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
 
 
 <br>
