@@ -103,9 +103,9 @@
 | Aman Arora              | Section 001       | AmanArora1234        | https://github.com/AmanArora1234/README.git              |
 | Danila Rozhevskii       | Section 002       | DanilaRozhevskii     | https://github.com/DanilaRozhevskii/my_smol_repository   |
 | Jiaru He                | Section 001       | Jiaru-He             | https://github.com/Jiaru-He/GitHub-Practice-184          |
-| Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+| Tejas Bogurampeta       | Section 002       | tejasbogu            | https://github.com/tejasbogu/Githib-Practice-184         |
 | Riley Comber            | Section 001       | rileycomb            | https://github.com/rileycomb/GitHub-Practice-184         |
-
+| Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
 
 
 
