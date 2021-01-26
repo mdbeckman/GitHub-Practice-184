@@ -32,6 +32,7 @@
 
 <br>
 
+
 # Class GitHub Table 
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
@@ -103,6 +104,7 @@
 | Danila Rozhevskii       | Section 002       | DanilaRozhevskii     | https://github.com/DanilaRozhevskii/my_smol_repository   |
 | Jiaru He                | Section 001       | Jiaru-He             | https://github.com/Jiaru-He/GitHub-Practice-184          |
 | Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+| Riley Comber            | Section 001       | rileycomb            | https://github.com/rileycomb/GitHub-Practice-184         |
 
 
 
