@@ -96,7 +96,7 @@
 | Weijia Fang             | Section 002       | WeijiaFang2000       | https://github.com/WeijiaFang2000/STAT184                | 
 | Adam Kenawell           | Section 001       | Ankenawell           | https://github.com/Ankenawell/Stat184                    |
 | Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
-
+| Yurui Niu               | Section 001       | YuruiNiu             | https://github.com/YuruiNiu/GitHub-Practice-184.git      |
 
 
 <br>
