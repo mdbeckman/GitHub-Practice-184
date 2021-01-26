@@ -96,8 +96,10 @@
 | Ziheng Yuan             | Section 001       | ziheng333            | https://github.com/ziheng333/GitHub-Practice-184      |
 | Yurui Niu               | Section 001       | YuruiNiu             | https://github.com/YuruiNiu/GitHub-Practice-184.git      |
 | Hanzhe Jiang            | Section 002       | HanzheJ              | https://github.com/HanzheJ/README.git                    |
-| Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+| Brayden Yoder           | Section 002       | bry4124              | https://github.com/bry4124/GitHub-Practice-184           |
 | Yukun Li                | Section 002       | lykiuun              | https://github.com/lykiuun/GitHub-Practice-184           |
+| Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+
 
 
 
