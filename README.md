@@ -47,7 +47,7 @@
 | Ziyao Yang              | Section 002       | Ziyao3000            | https://github.com/Ziyao3000/Ziyao-STAT184               |  
 | Nathan Reilly           | Section 001       | reillyn51            | https://github.com/reillyn51/Stat-184                    |
 | Seok Lee                | Section 001       | dlee327              | https://github.com/dlee327/STAT-184                      |
-| William Bevidas         | Section 001       | bevidaspsu3501       | https://github.com/bevidaspsu3501/Stat-184
+| William Bevidas         | Section 001       | bevidaspsu3501       | https://github.com/bevidaspsu3501/Stat-184       |
 | Anjana Nair             | Section 001       | anjana-nair-16       | https://github.com/anjana-nair-16/Stat-184               |
 | Bianjie Ji              | Section 001       | maxatji              | https://github.com/maxatji/STAT184                       |
 | Daeil Bae               | Section 001       | dibae123             | https://github.com/dibae123/GitHub-Practice-184          |
@@ -70,7 +70,7 @@
 | Yuchen Li               | Section 002       | YuchenLi-jpg         | https://github.com/YuchenLi-jpg/STAT-184                 |  
 | Siwen Deng              | Section 002       | SiwenDeng800         | https://github.com/SiwenDeng800/Repo                     |  
 | Dongkai Wu              | Section 001       | Dongkai-Wu           | https://github.com/Dongkai-Wu/stunning-fiesta            |  
-| Qinhao Zhang            | Section 002       | JasonZQH             | https://github.com/JasonZQH/STAT184
+| Qinhao Zhang            | Section 002       | JasonZQH             | https://github.com/JasonZQH/STAT184       |
 | David Aguiles           | Section 002       | dsa5221              | https://github.com/dsa5221/Week1                         |
 | Alexander Butch         | Section 002       | abutch               | https://github.com/abutch/GitHub-Practice-184            |    
 | Jarrod Keating          | Section 002       | JarrodKeating        | https://github.com/JarrodKeating/Practice                |
@@ -93,8 +93,9 @@
 | Ming Wang               | Section 001       | ming061              | https://github.com/ming061/GitHub-Practice-184           |  
 | Wei Liang.              | Section 002       | WeiLiang3.           | https://github.com/WeiLiang3                             |
 | Jing Fu                 | Section 002       | JingFu1              | https://github.com/JingFu1/GitHub-Practice-184           |
-| Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+| Weijia Fang             | Section 002       | WeijiaFang2000       | https://github.com/WeijiaFang2000/STAT184                | 
 | Adam Kenawell           | Section 001       | Ankenawell           | https://github.com/Ankenawell/Stat184                    |
+| Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
 
 
 
