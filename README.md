@@ -110,8 +110,9 @@
 | Alexander Christopher   | Section 001       | achristopher4        | https://github.com/achristopher4/abc5885-GitHub-Practice-184 |
 | Richard Maruss          | Section 001       | RichardMaruss        | https://github.com/RichardMaruss/GitHub-Practice-184     |
 | Tian Xue                | Section 002       | mashpopo             | https://github.com/mashpopo/GitHub-Practice-184          | 
-| Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
+| Jingyan Wang            | Section 002       | jqw5821            | https://github.com/jqw5821/GitHub-Practice-184                | 
 | Hengshan Hao            | Section 002       | six-hengshan-hao     | https://github.com/six-hengshan-hao/GitHub-Practice-184  |
+| Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
 
 
 
