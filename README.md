@@ -66,6 +66,7 @@
 | Vaibhav Gupta           | Section 001       | vbgupta              | https://github.com/vbgupta/STAT184                       |
 | Minsoo Joo              | Section 001       | mbj5335              | https://github.com/mbj5335/Artist-Joo                    |
 | Glenn Hubbard           | Section 001       | glennburger          | https://github.com/glennburger/stat184                   |  
+| Rachel Bosko            | Section 002       | rbosko               | https://github.com/rbosko/GitHub-Practice-184            |
 | Tigran Saakyan          | Section 002       | TigranSaakyan        | https://github.com/TigranSaakyan/symmetrical-pancake-184 | 
 | Werner Hager            | Section 002       | WernerHager          | https://github.com/WernerHager/Stat184-Repo              |
 | Shengdi You             | Section 002       | shawn194             | https://github.com/shawn194/STAT184                      | 
