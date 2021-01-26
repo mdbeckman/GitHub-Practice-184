@@ -105,8 +105,8 @@
 | Jiaru He                | Section 001       | Jiaru-He             | https://github.com/Jiaru-He/GitHub-Practice-184          |
 | Tejas Bogurampeta       | Section 002       | tejasbogu            | https://github.com/tejasbogu/Githib-Practice-184         |
 | Riley Comber            | Section 001       | rileycomb            | https://github.com/rileycomb/GitHub-Practice-184         |
+| Maxwell Bredl           | Section 001       | bredlm               | https://github.com/bredlm/STAT184                         |
 | Dylan DeJean            | Section 002       | dylandejean          | https://github.com/dylandejean/dejean-stat184            |
-
 
 
 
