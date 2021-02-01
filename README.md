@@ -69,10 +69,11 @@
 | Vaibhav Gupta           | Section 001       | vbgupta              | https://github.com/vbgupta/STAT184                       |
 | Minsoo Joo              | Section 001       | mbj5335              | https://github.com/mbj5335/Artist-Joo                    |
 | Glenn Hubbard           | Section 001       | glennburger          | https://github.com/glennburger/stat184                   |  
+| Evelyn Pham             | Section 002       | eviepham             | https://github.com/eviepham/myRepo                       |
 | Yuchen Li               | Section 002       | YuchenLi-jpg         | https://github.com/YuchenLi-jpg/STAT-184                 |  
 | Siwen Deng              | Section 002       | SiwenDeng800         | https://github.com/SiwenDeng800/Repo                     |  
 | Dongkai Wu              | Section 001       | Dongkai-Wu           | https://github.com/Dongkai-Wu/stunning-fiesta            |  
-| Qinhao Zhang            | Section 002       | JasonZQH             | https://github.com/JasonZQH/STAT184       |
+| Qinhao Zhang            | Section 002       | JasonZQH             | https://github.com/JasonZQH/STAT184                |
 | David Aguiles           | Section 002       | dsa5221              | https://github.com/dsa5221/Week1                         |
 | Alexander Butch         | Section 002       | abutch               | https://github.com/abutch/GitHub-Practice-184            |    
 | Jarrod Keating          | Section 002       | JarrodKeating        | https://github.com/JarrodKeating/Practice                |
