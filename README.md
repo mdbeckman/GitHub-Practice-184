@@ -40,8 +40,8 @@
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Matthew Beckman         | Section 001| mdbeckman            | https://github.com/mdbeckman/dcData
-|  Valeria Martinez         Section230          mtzl059            https://github.com/vlm059/curly-memory
+| Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData
+|  Valeria Martinez       | Section 004       | mtzl059              | https://github.com/vlm059/curly-memory
           
 
 
