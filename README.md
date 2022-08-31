@@ -40,7 +40,7 @@
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Margaret Linn.          | Section 001       | mlinn25              | https://github.com/mlinn21/dcData                        |  
           
 
 
