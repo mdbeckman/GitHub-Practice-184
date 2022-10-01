@@ -38,8 +38,8 @@
 
 # Class GitHub Table 
 
-| Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
-|:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
+| Name                    | Class Section     | GitHub ID            | URL for your          |  
+| Shahin M                | Section 002       | noid                 | https://github.com/mdbeckma  
 | Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
           
 
