@@ -40,7 +40,8 @@
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub page                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Soumya Mukherjee        | Section 201       | Soumya-Mukherjee-stat| https://github.com/Soumya-Mukherjee-stat                 |  
+| Soumya Mukherjee        | Section 201       | Soumya-Mukherjee-stat| https://github.com/Soumya-Mukherjee-stat                 | 
+| Test Student            | Section 201       | curiousmindsstats    | https://github.com/curiousmindsstats                     |  
           
 
 
