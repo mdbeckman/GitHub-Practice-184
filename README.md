@@ -7,7 +7,7 @@
 
 1. Create your own GitHub profile/ID (appropriate for job or grad school applications)  
 2. Create a new repo with Repository name the same as your GitHub ID (If your GitHub ID contains any capital letter, please change them all to small letters when naming the repository).
-3. Give a short Description such as "Github page for <<yourname>>".
+3. Give a short Description such as "Github page for First_name Last_name".
 4. Initialize it with a "README". (Ignore the .gitignore and license options for the time being)
 5. Go to Soumya Mukherjee's GitHub-Practice-184 repo (that generated this page, link https://github.com/Soumya-Mukherjee-stat/GitHub-Practice-184)  
     - There's a "View on GitHub" button somewhere on this page, or you can just search GitHub for "Soumya-Mukherjee-stat" and find the repo
