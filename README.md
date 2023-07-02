@@ -1,5 +1,5 @@
 
-# GitHub Pages Assignment
+# GitHub Profile README Assignment
 
 **(10 pts) Assignment Instructions**
 
