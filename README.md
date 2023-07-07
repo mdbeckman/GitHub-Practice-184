@@ -13,7 +13,7 @@
 6. Commit the change by clicking the green button "Commit changes" (somewhere along the top right of the page) along with a description of the commit (such as "Added a line of text to the README").
 7. Copy the url of the repository you just created (The url should look something like "https://github.com/Soumya-Mukherjee-stat/soumya-mukherjee-stat" and NOT "https://github.com/Soumya-Mukherjee-stat/GitHub-Practice-184").
 8. Go to Soumya Mukherjee's GitHub-Practice-184 repo (that generated this page, link https://github.com/Soumya-Mukherjee-stat/GitHub-Practice-184)  
-    - There's a "View on GitHub" button somewhere on this page, or you can just search GitHub for "Soumya-Mukherjee-stat" and find the repo
+    - There's a "View on GitHub" button somewhere on this page, or you can just search GitHub for "Soumya-Mukherjee-stat" and find the repo named "GitHub-Practice-Repo"
     - "Fork" Soumya Mukherjee's class repo to create your own copy to edit
     - Your copy of the repo should say "[your-userID] / GitHub-Practice-184" at the top with a tiny note saying it was forked from `Soumya-Mukherjee-stat`
     - Click on "README.md" >> Edit (pencil icon in upper right) to edit your copy of the repo
