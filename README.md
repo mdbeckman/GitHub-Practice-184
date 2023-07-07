@@ -11,7 +11,7 @@
 4. Initialize it with a "README". (Ignore the .gitignore and license options for the time being)
 5. Edit the README.md file by adding a line of text below the "### Hi There " line (could be something like- This is a demo webpage created for Github Practice STAT 184). In the future, you can change this README to a proper introduction to your GitHub profile.
 6. Commit the change by clicking the green button "Commit changes" (somewhere along the top right of the page) along with a description of the commit (such as "Added a line of text to the README").
-7. Copy the url of the repository you just created (The url should look something like "https://github.com/Soumya-Mukherjee-stat/soumya-mukherjee-stat" and NOT "https://github.com/Soumya-Mukherjee-stat/GitHub-Practice-184").
+7. Copy the url of the repository you just created (The url should look something like "https://github.com/YourUsername/yourusername").
 8. Go to Soumya Mukherjee's GitHub-Practice-184 repo (that generated this page, link https://github.com/Soumya-Mukherjee-stat/GitHub-Practice-184)  
     - There's a "View on GitHub" button somewhere on this page, or you can just search GitHub for "Soumya-Mukherjee-stat" and find the repo named "GitHub-Practice-Repo"
     - "Fork" Soumya Mukherjee's class repo to create your own copy to edit
