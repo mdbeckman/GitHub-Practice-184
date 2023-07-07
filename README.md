@@ -45,7 +45,8 @@
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub page                                        |  
 |:------------------------|:------------------|:---------------------|:----------------------------------------------------------------|  
-| Soumya Mukherjee        | Section 201       | Soumya-Mukherjee-stat| https://github.com/Soumya-Mukherjee-stat/soumya-mukherjee-stat  | 
+| Soumya Mukherjee        | Section 201       | Soumya-Mukherjee-stat| https://github.com/Soumya-Mukherjee-stat/soumya-mukherjee-stat  |
+| Emi Erekosima           | Section 201       | emierekosima         | https://github.com/Soumya-Mukherjee-stat/soumya-mukherjee-stat  |
           
 
 
