@@ -47,7 +47,7 @@
 |:------------------------|:------------------|:---------------------|:----------------------------------------------------------------|  
 | Soumya Mukherjee        | Section 201       | Soumya-Mukherjee-stat| https://github.com/Soumya-Mukherjee-stat/soumya-mukherjee-stat  | 
 | Demo account            | Section 201       | demoaacsm            | https://github.com/demoaccsm/demoaccsm                          | 
-          
+| Kaitlyn Houck           | Section 201       | krhouck              | https://github.com/krhouck/krhouck#hi-there-           
 
 
 
