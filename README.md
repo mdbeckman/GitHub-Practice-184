@@ -46,7 +46,7 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub page                                        |  
 |:------------------------|:------------------|:---------------------|:----------------------------------------------------------------|  
 | Soumya Mukherjee        | Section 201       | Soumya-Mukherjee-stat| https://github.com/Soumya-Mukherjee-stat/soumya-mukherjee-stat  | 
-          
+| Dominic Savaglio        | Section 201       | Dominic01-prog       | https://github.com/Dominic01-prog/dominic01-prog                |     
 
 
 
