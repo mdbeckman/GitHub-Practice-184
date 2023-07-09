@@ -47,7 +47,7 @@
 |:------------------------|:------------------|:---------------------|:----------------------------------------------------------------|  
 | Soumya Mukherjee        | Section 201       | Soumya-Mukherjee-stat| https://github.com/Soumya-Mukherjee-stat/soumya-mukherjee-stat  | 
 | Kayla Moore             | Section 201       | kbm5999              | (https://github.com/kbm5999/kbm5999)  |                           
-          
+
 
 
 
