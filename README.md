@@ -44,7 +44,7 @@
 # Class GitHub Table 
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub page                                        |  
-|:------------------------|:------------------|:---------------------|:----------------------------------------------------------------|  
+| Roman Bahadursingh      |Section 201        |RomanBahadursingh     |https://github.com/RomanBahadursingh/romanbahadursingh|  
 | Soumya Mukherjee        | Section 201       | Soumya-Mukherjee-stat| https://github.com/Soumya-Mukherjee-stat/soumya-mukherjee-stat  | 
 | Demo account            | Section 201       | demoaacsm            | https://github.com/demoaccsm/demoaccsm                          | 
 | Sama Mehta         | Section 201       |szm6183           | https://github.com/szm6183/szm6183                          | 
