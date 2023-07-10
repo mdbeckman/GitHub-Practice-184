@@ -51,6 +51,7 @@
 | Emi Erekosima           | Section 201       | emierekosima         | https://github.com/emieerekosima/emierekosima                   |         
 | Dominic Savaglio        | Section 201       | Dominic01-prog       | https://github.com/Dominic01-prog/dominic01-prog                | 
 | Kaitlyn Houck           | Section 201       | krhouck              | https://github.com/krhouck/krhouck#hi-there-                    |
+| Kayla Moore             | Section 201       | kbm5999              | (https://github.com/kbm5999/kbm5999)                            |  
 
 
 
