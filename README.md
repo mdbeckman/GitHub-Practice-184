@@ -54,6 +54,7 @@
 | Kaitlyn Houck           | Section 201       | krhouck              | https://github.com/krhouck/krhouck#hi-there-                    |
 | Kayla Moore             | Section 201       | kbm5999              | https://github.com/kbm5999/kbm5999                              |  
 | Peidong Liu             | Section 201       | Peidongliuuu         | https://github.com/PeidongLiuuu/peidongliuuu                    |
+| Elizabeth Marhcini      | Section 201       | emarchini25          | https://github.com/emarchini25/emarchini25                      |
 
 
 
