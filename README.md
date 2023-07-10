@@ -47,7 +47,10 @@
 |:------------------------|:------------------|:---------------------|:----------------------------------------------------------------|  
 | Soumya Mukherjee        | Section 201       | Soumya-Mukherjee-stat| https://github.com/Soumya-Mukherjee-stat/soumya-mukherjee-stat  | 
 | Demo account            | Section 201       | demoaacsm            | https://github.com/demoaccsm/demoaccsm                          | 
-| Kaitlyn Houck           | Section 201       | krhouck              | https://github.com/krhouck/krhouck#hi-there-           
+| Sama Mehta              | Section 201       | szm6183              | https://github.com/szm6183/szm6183                              | 
+| Emi Erekosima           | Section 201       | emierekosima         | https://github.com/emieerekosima/emierekosima                   |         
+| Dominic Savaglio        | Section 201       | Dominic01-prog       | https://github.com/Dominic01-prog/dominic01-prog                | 
+| Kaitlyn Houck           | Section 201       | krhouck              | https://github.com/krhouck/krhouck#hi-there-                    |
 
 
 
