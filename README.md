@@ -40,7 +40,8 @@
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      | 
+| Sayali Phadke         | Section 000       | sayaliph           | https://github.com/sayaliph/test                      | 
           
 
 
