@@ -41,7 +41,8 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
-| Sayali Phadke        | Section 002       | sayaliph           | https://github.com/mdbeckman/dcData                      |  
+| Sayali Phadke           | Section 002       | sayaliph             | https://github.com/mdbeckman/dcData                      |  
+| Saisarath Kanamarlapudi | Section 001       | skanamar017          | https://github.com/skanamar017/repo                      |
           
 
 
